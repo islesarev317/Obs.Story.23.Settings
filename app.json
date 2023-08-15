@@ -1,1 +1,23 @@
-{}
+{
+  "defaultViewMode": "preview",
+  "readableLineLength": false,
+  "spellcheck": false,
+  "spellcheckLanguages": [
+    "ru",
+    "en-GB"
+  ],
+  "autoConvertHtml": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Disorder",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Attachments",
+  "userIgnoreFilters": [
+    "Attachments/",
+    "Excalidraw/",
+    "Samples/",
+    "Templates/"
+  ],
+  "showLineNumber": true,
+  "showInlineTitle": true
+}
