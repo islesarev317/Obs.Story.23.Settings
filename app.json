@@ -2,10 +2,7 @@
   "defaultViewMode": "preview",
   "readableLineLength": false,
   "spellcheck": false,
-  "spellcheckLanguages": [
-    "ru",
-    "en-GB"
-  ],
+  "spellcheckLanguages": null,
   "autoConvertHtml": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
