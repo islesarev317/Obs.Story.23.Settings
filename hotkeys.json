@@ -82,6 +82,7 @@
   "editor:open-search-replace": [
     {
       "modifiers": [
+        "Alt",
         "Mod"
       ],
       "key": "R"
