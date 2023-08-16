@@ -1,0 +1,11 @@
+{
+  "pinned": [
+    "bookmarks:bookmark-current-search",
+    "bookmarks:bookmark-current-section",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:fold-all",
+    "editor:unfold-all",
+    "obsidian-underline:toggle-center-tag"
+  ]
+}
