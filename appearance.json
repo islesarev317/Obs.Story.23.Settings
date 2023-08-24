@@ -4,5 +4,8 @@
   "baseFontSize": 15,
   "interfaceFontFamily": "Inter",
   "showViewHeader": true,
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "000 - AnuPpuccin (extended-colorschemes)"
+  ]
 }
