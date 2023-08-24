@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
+                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md",
                 "mode": "preview",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Journal/Recent",
+                "query": "tag:#Journal/A1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
+                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
+                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md"
+                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md"
               }
             }
           }
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,21 +160,21 @@
   },
   "active": "86980ad521ab04a1",
   "lastOpenFiles": [
+    "Journal/JR - 2308192123 - Townscaper (Game).md",
+    "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
+    "Journal/JR - 2308171506 - Git ~ Change Remote.md",
     "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
-    "Inner/IN - 2308231955.md",
     "Inner/IN - 2308171532.md",
+    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
+    "Inner/IN - 2308231955.md",
     "Inner/IN - 2308201546.md",
     "Inner/IN - 2308231739.md",
-    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
     "Inner/IN - 2308201524.md",
-    "Journal/JR - 2308171506 - Git ~ Change Remote.md",
     "Nodes/ND - 2308230006 - Origin.md",
     "Canvases/CV - 2308192121 - Journal - A1.canvas",
-    "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
     "Excalidraw/EX - 2308171438 - Obsidian ~ Git.md",
     "Canvases/CV - 2308241515 - Nodes Dashboard.canvas",
     "Journal/JR - 2308201534 - Obsidian ~ Version.md",
-    "Journal/JR - 2308192123 - Townscaper (Game).md",
     "Journal/JR - 2308241255 - Remainders.md",
     "Inner/IN - 2308232032.md",
     "Nodes/ND - 2308201818 - Obsidan.md",

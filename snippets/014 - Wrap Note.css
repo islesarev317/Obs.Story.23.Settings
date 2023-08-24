@@ -15,7 +15,6 @@
 .markdown-preview-view .inline-title
 {
   margin-top: 0.5em;
-  padding-bottom: 0px !important;
   color: #8A8C99;
 }
 
@@ -24,6 +23,14 @@
   color: #A4A5AF;
   font-style: italic;
   font-family: serif;
+
+}
+
+.inline-title{
+  border-bottom-color: #4E505A !important;
+  border-bottom-width: 0.12em !important;
+  border-bottom: dotted 5px;
+  padding-bottom: 10px !important;
 }
 
 /* ------------------- */
@@ -33,7 +40,6 @@
 .markdown-source-view .inline-title
 {
   margin-top: 0.0em;
-  padding-bottom: 0px !important;
 }
 
 .cm-sizer{
