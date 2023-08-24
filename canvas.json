@@ -3,5 +3,6 @@
   "snapToGrid": true,
   "defaultWheelBehavior": "zoom",
   "newFileLocation": "folder",
-  "newFileFolderPath": "Disorder"
+  "newFileFolderPath": "Canvases",
+  "zoomBreakpoint": 0
 }

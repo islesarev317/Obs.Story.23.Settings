@@ -1,5 +1,5 @@
 {
   "folder": "Journal",
-  "template": "Samples/SP.2308.16 - Journal",
-  "format": "JR.YYMM.DD.HHmm"
+  "template": "Samples/SP - 230816 - Journal",
+  "format": "JR - YYMMDDHHmm"
 }

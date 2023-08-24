@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1692872663359,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1692872700844,
+          "path": "Journal/JR - 2308161801 - Obsidian ~ First Setup.md"
+        }
+      ],
+      "title": "Pins"
+    },
+    {
+      "type": "group",
+      "ctime": 1692872511506,
+      "items": [
+        {
+          "type": "search",
+          "ctime": 1692828320798,
+          "query": "tag:#Journal/Recent",
+          "title": "Recent"
+        },
+        {
+          "type": "search",
+          "ctime": 1692828344946,
+          "query": "tag:#Journal/A1",
+          "title": "A1"
+        }
+      ],
+      "title": "Sections"
+    },
+    {
+      "type": "group",
+      "ctime": 1692872436332,
+      "items": [
+        {
+          "type": "search",
+          "ctime": 1692827900213,
+          "query": "file:(\"JR -\")",
+          "title": "Journal"
+        },
+        {
+          "type": "search",
+          "ctime": 1692828205123,
+          "query": "file:(\"GR -\")",
+          "title": "Groups"
+        },
+        {
+          "type": "search",
+          "ctime": 1692827952411,
+          "query": "file:(\"ND -\")",
+          "title": "Nodes"
+        },
+        {
+          "type": "search",
+          "ctime": 1692827855836,
+          "query": "file:(\"EX -\")",
+          "title": "Excalidraw"
+        },
+        {
+          "type": "search",
+          "ctime": 1692828026672,
+          "query": "file:(\"CV -\")",
+          "title": "Canvases"
+        },
+        {
+          "type": "search",
+          "ctime": 1692828078225,
+          "query": "path:(Stage/)",
+          "title": "Stage"
+        }
+      ],
+      "title": "Folders"
+    }
+  ]
+}

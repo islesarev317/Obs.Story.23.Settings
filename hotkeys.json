@@ -186,9 +186,24 @@
   "obsidian-excalidraw-plugin:search-text": [
     {
       "modifiers": [
+        "Alt",
         "Mod"
       ],
       "key": "F"
+    }
+  ],
+  "editor:toggle-italics": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "I"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "I"
     }
   ]
 }

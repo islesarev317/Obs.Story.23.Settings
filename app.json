@@ -6,15 +6,13 @@
   "autoConvertHtml": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "Disorder",
+  "newFileFolderPath": "Stage",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "Attachments",
   "userIgnoreFilters": [
-    "Attachments/",
-    "Excalidraw/",
-    "Samples/",
-    "Templates/"
+    "Attachments/"
   ],
   "showLineNumber": true,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "showFrontmatter": false
 }
