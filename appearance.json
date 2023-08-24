@@ -3,5 +3,6 @@
   "textFontFamily": "Inter",
   "baseFontSize": 15,
   "interfaceFontFamily": "Inter",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "cssTheme": "AnuPpuccin"
 }
