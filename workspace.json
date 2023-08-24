@@ -11,14 +11,9 @@
             "id": "86980ad521ab04a1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "Canvases/CV - 2308192121 - Journal - A1.canvas",
-                "viewState": {
-                  "x": 485,
-                  "y": -210,
-                  "zoom": -1.1820117848894434
-                }
+                "file": "Nodes/ND - 2308230006 - Origin.md"
               }
             }
           }
@@ -52,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:(\"CV -\")",
+                "query": "tag:#Journal/A1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvases/CV - 2308192121 - Journal - A1.canvas",
+                "file": "Nodes/ND - 2308230006 - Origin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvases/CV - 2308192121 - Journal - A1.canvas",
+                "file": "Nodes/ND - 2308230006 - Origin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvases/CV - 2308192121 - Journal - A1.canvas"
+                "file": "Nodes/ND - 2308230006 - Origin.md"
               }
             }
           }
@@ -164,11 +159,11 @@
   },
   "active": "86980ad521ab04a1",
   "lastOpenFiles": [
-    "Nodes/ND - 2308230006 - Origin.md",
     "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
+    "Nodes/ND - 2308230006 - Origin.md",
+    "Journal/JR - 2308171506 - Git ~ Change Remote.md",
     "Canvases/CV - 2308192121 - Journal - A1.canvas",
     "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
-    "Journal/JR - 2308171506 - Git ~ Change Remote.md",
     "Inner/IN - 2308201524.md",
     "Inner/IN - 2308171532.md",
     "Excalidraw/EX - 2308171438 - Obsidian ~ Git.md",
