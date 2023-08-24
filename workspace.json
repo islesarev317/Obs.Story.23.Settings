@@ -11,8 +11,12 @@
             "id": "f4a7ef2bc894cc37",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -27,7 +31,7 @@
       {
         "id": "4d0108dc5c5c7701",
         "type": "tabs",
-        "dimension": 76.85185185185185,
+        "dimension": 48.61111111111111,
         "children": [
           {
             "id": "9f6a3908e07c0678",
@@ -45,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "tag:#Journal/A1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -54,12 +58,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1c9b3f5873b7dacf",
         "type": "tabs",
-        "dimension": 23.14814814814815,
+        "dimension": 51.388888888888886,
         "children": [
           {
             "id": "b2c01e09f9a3c5b5",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Journal/JR - 2308161801 - Obsidian ~ First Setup.md"
+              }
             }
           }
         ],
@@ -150,66 +159,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "c2b746a5ef751bf4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "51d5618b144f5d56",
-        "type": "window",
-        "children": [
-          {
-            "id": "3b9904db67f32623",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "801512eb637a9e67",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Inner/IN - 2308232041.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "6a8fd8a17f455d0e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4c6808900b46e1ed",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 169,
-        "y": 895,
-        "width": 1095,
-        "height": 833,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "f4a7ef2bc894cc37",
   "lastOpenFiles": [
+    "Nodes/ND - 2308230006 - Origin.md",
     "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
-    "Excalidraw/EX - 2308232050.md",
+    "Nodes/ND - 2308201818 - Obsidan.md",
     "Inner/IN - 2308232041.md",
+    "Excalidraw/EX - 2308232050.md",
     "Inner/IN - 2308232032.md",
     "Journal/JR - 2308171506 - Git ~ Change Remote.md",
     "Journal/JR - 2308232051.md",
@@ -217,7 +173,6 @@
     "Excalidraw/EX - 2308232053.md",
     "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
     "Inner/IN - 2308232016.md",
-    "Nodes/ND - 2308201818 - Obsidan.md",
     "Journal/JR - 2308232030.md",
     "Excalidraw/EX - 2308171438 - Obsidian ~ Git.md",
     "Canvases/CV - 2308192121 - Journal ~ Box ~ A1.canvas",
@@ -225,7 +180,6 @@
     "Canvases/CV - 2308192121 - Box ~ A1.canvas",
     "Nodes/ND - 2308211636 - Obsidian ~ First Setup.md",
     "Inner/IN - 2308231739.md",
-    "Nodes/ND - 2308230006 - Origin.md",
     "Stage/Untitled.md",
     "Inner/IN - 2308231455.md",
     "Journal/JR - 2308201534 - Obsidian ~ Version.md",

@@ -5,31 +5,24 @@
       "ctime": 1692872663359,
       "items": [
         {
-          "type": "file",
-          "ctime": 1692872700844,
-          "path": "Journal/JR - 2308161801 - Obsidian ~ First Setup.md"
-        }
-      ],
-      "title": "Pins"
-    },
-    {
-      "type": "group",
-      "ctime": 1692872511506,
-      "items": [
-        {
           "type": "search",
           "ctime": 1692828320798,
           "query": "tag:#Journal/Recent",
-          "title": "Recent"
+          "title": "tag:#Journal/Recent"
         },
         {
           "type": "search",
           "ctime": 1692828344946,
           "query": "tag:#Journal/A1",
-          "title": "A1"
+          "title": "tag:#Journal/A1"
+        },
+        {
+          "type": "file",
+          "ctime": 1692885142710,
+          "path": "Nodes/ND - 2308230006 - Origin.md"
         }
       ],
-      "title": "Sections"
+      "title": "Pins"
     },
     {
       "type": "group",
