@@ -1,0 +1,12 @@
+
+#cMenuModalBar{
+  box-shadow: rgba(0, 0, 0, 0.27) 0px 0px 18px 4px !important;
+  //box-shadow: none !important;
+  background-color: #23272E;
+  //background-color: rgba(26, 30, 36, 0.4) !important;
+}
+
+.cMenuCommandItem{
+  color: rgb(140, 145, 160);
+  background-color: rgb(26, 30, 36) !important;
+}

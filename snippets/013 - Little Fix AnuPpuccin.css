@@ -1,0 +1,18 @@
+/* ------------------- */
+/* ---- Both mode ---- */
+/* ------------------- */
+
+/* top-right menu */
+.titlebar-button-container.mod-right{
+  background-color: inherit !important;
+}
+
+/* file browser */
+.tree-item-children{
+  border: none !important;
+}
+
+/* bookmark header */
+.workspace-tab-container{
+  border: none !important;
+}

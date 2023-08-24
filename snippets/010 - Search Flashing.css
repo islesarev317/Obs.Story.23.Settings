@@ -1,0 +1,14 @@
+/*
+.is-flashing{
+  background-color: rgba(225, 208, 0, 0.10) !important;
+}
+*/
+
+.search-result-file-matched-text{
+  background-color: transparent !important;
+  color: rgb(220, 170, 121) !important;
+}
+
+.suggestion-highlight{
+  color: rgb(220, 170, 121) !important;
+}

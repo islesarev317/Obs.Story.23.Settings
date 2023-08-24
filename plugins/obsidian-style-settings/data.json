@@ -1,7 +1,7 @@
 {
   "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
   "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": false,
-  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-nord-light",
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-atom-light",
   "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-generic-dark",
   "anuppuccin-theme-settings@@anuppuccin-accent-toggle": false,
   "anuppuccin-theme-settings@@anp-layout-select": "anp-border-layout",
@@ -9,7 +9,7 @@
   "anuppuccin-theme-settings@@anp-hide-borders": true,
   "anuppuccin-theme-settings@@ctp-custom-crust@@dark": "#161616",
   "anuppuccin-theme-settings@@anp-active-line": "anp-no-highlight",
-  "anuppuccin-theme-settings@@anp-code-bg-color@@dark": "#232323",
+  "anuppuccin-theme-settings@@anp-code-bg-color@@dark": "#2D2D2F",
   "anuppuccin-theme-settings@@anp-codeblock-numbers": false,
   "anuppuccin-theme-settings@@anp-code-text-color@@dark": "#C2C2C2",
   "anuppuccin-theme-settings@@anp-speech-bubble": true,
@@ -28,5 +28,15 @@
   "anuppuccin-theme-settings@@anp-floating-header": false,
   "anuppuccin-theme-settings@@anp-custom-vault-toggle": false,
   "anuppuccin-theme-settings@@anp-colorful-frame": false,
-  "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": false
+  "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": false,
+  "anuppuccin-theme-settings@@ctp-custom-flamingo@@dark": "#8E92A6",
+  "anuppuccin-theme-settings@@anp-decoration-toggle": true,
+  "anuppuccin-theme-settings@@anp-italic-custom": "anp-italic-flamingo",
+  "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-rosewater",
+  "anuppuccin-theme-settings@@bold-weight": "600",
+  "anuppuccin-theme-settings@@ctp-custom-rosewater@@dark": "#DDDEDF",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-flamingo",
+  "anuppuccin-theme-settings@@ctp-custom-mantle@@dark": "#2A2A2A",
+  "anuppuccin-theme-settings@@anp-background-image-toggle": false,
+  "anuppuccin-theme-settings@@anp-canvas-dark-bg": false
 }

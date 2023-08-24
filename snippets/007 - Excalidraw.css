@@ -1,0 +1,26 @@
+div[class*="excalidraw-svg"] img{
+  pointer-events: none !important;
+ }
+
+.internal-embed{
+	border: none;
+}
+
+
+.excalidraw-container,
+.excalidraw-wrapper
+{
+  background-color: transparent !important;
+}
+
+.mobile-misc-tools-container{
+  border: none !important;
+}
+
+.ToolIcon__keybinding{
+  color: rgb(230, 230, 230) !important;
+}
+
+.Island.sidebar.default-sidebar{
+  background-color: rgb(42, 42, 42);
+}

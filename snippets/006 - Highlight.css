@@ -1,0 +1,55 @@
+/* color link*/
+
+.markdown-rendered mark a.internal-link,
+.cm-highlight.cm-hmd-internal-link
+{
+	color: rgb(149, 148, 230) !important;
+}
+
+/* color italic */
+
+.markdown-rendered mark em
+{
+	//color: rgb(220, 190, 101) !important;
+}
+
+em strong{
+	color: inherit;
+}
+
+/* space */
+
+mark{
+	padding-top: 1px !important;
+	padding-bottom: 1px !important;
+}
+
+/* Plugin highlightr */
+
+.highlightr-floating mark[style],
+.highlightr-floating span.cm-highlight[style],
+.highlightr-floating .markdown-preview-view mark[style]
+{
+		color: inherit;
+		background-image: linear-gradient( 360deg, transparent 7%, #23272E 7% ) !important;
+}
+
+.highlightr-floating mark,
+.highlightr-floating span.cm-highlight,
+.highlightr-floating .markdown-preview-view mark
+{
+	background-image: none !important;
+	padding: 0px !important;
+	border-radius: 3px;
+}
+
+/* GREY TEXT */
+
+.highlightr-floating mark[style="background: #7A7A84;"],
+.highlightr-floating span.cm-highlight[style="background: #7A7A84;"],
+.highlightr-floating .markdown-preview-view mark[style="background: #7A7A84;"]
+{
+		color: rgb(108, 115, 132);
+		background-image: none !important;
+		background-color: inherit !important;
+}

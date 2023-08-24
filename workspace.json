@@ -11,11 +11,14 @@
             "id": "86980ad521ab04a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
-                "mode": "preview",
-                "source": false
+                "file": "Canvases/CV - 2308192121 - Journal - A1.canvas",
+                "viewState": {
+                  "x": 485,
+                  "y": -210,
+                  "zoom": -1.1820117848894434
+                }
               }
             }
           }
@@ -49,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:(\"JR -\")",
+                "query": "file:(\"CV -\")",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
+                "file": "Canvases/CV - 2308192121 - Journal - A1.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
+                "file": "Canvases/CV - 2308192121 - Journal - A1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2308161801 - Obsidian ~ First Setup.md"
+                "file": "Canvases/CV - 2308192121 - Journal - A1.canvas"
               }
             }
           }
@@ -159,74 +162,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "d8c492efd08e0aca",
-    "type": "floating",
-    "children": [
-      {
-        "id": "cc11df666921a6cc",
-        "type": "window",
-        "children": [
-          {
-            "id": "acac41e36a00ed35",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f4a7ef2bc894cc37",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a7799ac272016af9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Journal/JR - 2308171506 - Git ~ Change Remote.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 152,
-        "y": 87,
-        "width": 1088,
-        "height": 805,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "86980ad521ab04a1",
   "lastOpenFiles": [
-    "Journal/JR - 2308171506 - Git ~ Change Remote.md",
-    "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
-    "Journal/JR - 2308192123 - Townscaper (Game).md",
+    "Nodes/ND - 2308230006 - Origin.md",
     "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
     "Canvases/CV - 2308192121 - Journal - A1.canvas",
-    "Canvases/CV - 2308241515 - Nodes Dashboard.canvas",
+    "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
+    "Journal/JR - 2308171506 - Git ~ Change Remote.md",
+    "Inner/IN - 2308201524.md",
     "Inner/IN - 2308171532.md",
     "Excalidraw/EX - 2308171438 - Obsidian ~ Git.md",
-    "Nodes/ND - 2308230006 - Origin.md",
-    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
+    "Canvases/CV - 2308241515 - Nodes Dashboard.canvas",
     "Journal/JR - 2308201534 - Obsidian ~ Version.md",
-    "Inner/IN - 2308201524.md",
+    "Journal/JR - 2308192123 - Townscaper (Game).md",
+    "Journal/JR - 2308241255 - Remainders.md",
+    "Inner/IN - 2308232032.md",
+    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
     "Nodes/ND - 2308201818 - Obsidan.md",
     "Inner/IN - 2308232041.md",
     "Excalidraw/EX - 2308232050.md",
-    "Inner/IN - 2308232032.md",
     "Journal/JR - 2308232051.md",
     "Excalidraw/EX - 2308221456.md",
     "Excalidraw/EX - 2308232053.md",
@@ -239,7 +193,6 @@
     "Inner/IN - 2308231739.md",
     "Stage/Untitled.md",
     "Inner/IN - 2308231455.md",
-    "Samples/SP - 230816 - Journal.md",
     "Attachments/Pasted image 20230819235511.png",
     "Attachments/CastleKeep2.svg",
     "Canvases/RB - 2308200001 - Box > Recent.canvas",

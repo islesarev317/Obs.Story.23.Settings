@@ -1,0 +1,20 @@
+/* horizontal */
+
+.view-content div hr{
+  //border-top-color:rgba(150, 150, 170, 0.35) !important;
+  border-top-color: #4E505A !important;
+  //border-top-width: 3.5px !important;
+  border-top-width: 0.24em !important;
+  border-top: dotted 5px;
+  //box-shadow: rgba(0, 0, 0, 0.08) 0px 0px 5px 0px !important;
+}
+
+/* <span class="vl"/> */
+
+span.vl{
+  border-left-color: rgba(59, 67, 87, 0.8) !important;
+  border-left-width: 0.2em !important;
+  border-left: dotted 3px;
+  margin-left: 1em;
+  margin-right: 1em !important;
+}

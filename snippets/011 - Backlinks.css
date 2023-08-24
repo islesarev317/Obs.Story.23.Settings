@@ -1,0 +1,23 @@
+/* Backlinks */
+
+.backlink-pane .search-results-children .tree-item-inner
+{
+  color: rgb(149, 148, 230) !important; /*rgb(149, 117, 245)*/
+}
+
+.backlink-pane .search-results-children .tree-item-flair
+{
+  display: none;
+}
+
+/* Outgoing links */
+
+.outgoing-link-pane .search-result-container .tree-item-inner
+{
+  color: rgb(149, 148, 230) !important; /*rgb(149, 117, 245)*/
+}
+
+.outgoing-link-pane .tree-item-inner-subtext
+{
+  display: none;
+}

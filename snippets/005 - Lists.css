@@ -1,0 +1,31 @@
+/* ------------------- */
+/* ---- Read mode ---- */
+/* ------------------- */
+
+li.task-list-item.is-checked {
+	text-decoration: none !important;
+	//color: rgb(146, 146, 146) !important;
+}
+
+li.task-list-item.is-checked strong{
+	opacity: 0.6;
+}
+
+/* ------------------- */
+/* ---- Edit mode ---- */
+/* ------------------- */
+
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="x"],
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="X"],
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="x"] span,
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="X"] span
+{
+  text-decoration: none !important;
+  //color: rgb(146, 146, 146) !important;
+}
+
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="x"] .cm-strong,
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="X"] .cm-strong
+{
+  opacity: 0.6;
+}

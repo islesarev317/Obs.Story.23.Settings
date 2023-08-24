@@ -1,11 +1,29 @@
 {
   "accentColor": "#9493e6",
   "textFontFamily": "Inter",
-  "baseFontSize": 15,
+  "baseFontSize": 14,
   "interfaceFontFamily": "Inter",
   "showViewHeader": true,
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
-    "000 - AnuPpuccin (extended-colorschemes)"
+    "000 - AnuPpuccin (extended-colorschemes)",
+    "001 - Align Images",
+    "002 - Code Blocks",
+    "003 - External Link",
+    "004 - Internal Links",
+    "005 - Lists",
+    "006 - Highlight",
+    "008 - Edit Mode",
+    "009 - Horizontal Bar",
+    "010 - Search Flashing",
+    "011 - Backlinks",
+    "012 - Tables",
+    "013 - Little Fix AnuPpuccin",
+    "014 - Wrap Note",
+    "015 - Quotes",
+    "017 - cMenu",
+    "018 - MultiColumn",
+    "016 - Canvas",
+    "007 - Excalidraw"
   ]
 }

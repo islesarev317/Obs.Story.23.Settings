@@ -1,0 +1,61 @@
+/* ------------------- */
+/* ---- Read mode ---- */
+/* ------------------- */
+
+a.external-link{
+	//color: rgb(160,97,177) !important;
+	color: rgb(175,107,187) !important;
+	text-decoration: none !important;
+	font-weight: normal !important;
+}
+
+a.external-link:hover{
+	//color: rgb(175,107,187) !important;
+	color: rgb(185,117,197) !important;
+}
+
+/* ------------------- */
+/* ---- Edit mode ---- */
+/* ------------------- */
+
+/* raw link */
+
+span.cm-url,
+span.cm-url span.cm-underline{
+  color: rgb(175,107,187) !important;
+	text-decoration: none !important;
+	font-weight: normal !important;
+}
+
+span.cm-url:hover,
+span.cm-url span.cm-underline:hover{
+    color: rgb(185,122,202) !important;
+		//text-decoration: underline !important;
+ }
+
+/* md link */
+
+span.cm-link,
+span.cm-link span.cm-underline{
+	color: rgb(160,97,177) !important;
+	text-decoration: none !important;
+	font-weight: normal !important;
+}
+
+span.cm-link:hover,
+span.cm-link span.cm-underline:hover{
+    color: rgb(175,112,192) !important;
+		//text-decoration: underline !important;
+}
+
+/* icon */
+
+a.external-link{
+	background-image: none;
+	padding-right: 0px;
+}
+
+span.cm-formatting.cm-formatting-link-string.cm-string.cm-url.external-link
+{
+	display: none;
+}

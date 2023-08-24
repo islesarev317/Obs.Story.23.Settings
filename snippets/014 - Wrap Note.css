@@ -1,0 +1,65 @@
+/* ------------------- */
+/* ---- Read mode ---- */
+/* ------------------- */
+
+.markdown-preview-sizer
+{
+  padding-top: 2px !important;
+  padding-bottom: 10px !important;
+  padding-left: 24px !important;
+  padding-right: 24px !important;
+  background-color: #232323;
+  border-radius: 20px;
+}
+
+.markdown-preview-view .inline-title
+{
+  margin-top: 0.5em;
+  padding-bottom: 0px !important;
+  color: #8A8C99;
+}
+
+.inline-title
+{
+  color: #8A8C99;
+}
+
+/* ------------------- */
+/* ---- Edit mode ---- */
+/* ------------------- */
+
+.markdown-source-view .inline-title
+{
+  margin-top: 0.0em;
+  padding-bottom: 0px !important;
+}
+
+.cm-sizer{
+  background-color: #232323;
+  border-radius: 20px;
+  padding: 24px !important;
+}
+
+.cm-content
+{
+  padding: 24px !important;
+}
+
+.cm-content,
+.cm-contentContainer
+{
+  block-size: fit-content !important;
+}
+
+/* ------------------- */
+/* ---- Both mode ---- */
+/* ------------------- */
+
+/*
+.nav-file-title.is-active,
+.nav-file-title:hover,
+.tree-item-self.is-clickable:hover
+{
+  background-color: rgba(149, 148, 200, 0.17) !important;
+}
+*/

@@ -1,0 +1,23 @@
+/* notes */
+
+.canvas-node-container {
+    //border: none;
+}
+
+.canvas-node-container {
+    //background: none;
+    box-shadow: none;
+}
+
+/* dots */
+
+svg.canvas-background {
+    display: none;
+}
+
+/* shadow */
+
+.canvas-node-container .markdown-preview-sizer
+{
+  //box-shadow: rgba(0, 0, 0, 0.12) 0px 0px 1px 2px !important;
+}

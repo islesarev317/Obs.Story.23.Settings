@@ -1,0 +1,33 @@
+/* Floating Images */
+img[alt*="left"] {
+    float:left;
+    clear:left;
+    margin-right: 1rem;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+img[alt*="right"] {
+    float:right;
+    clear:right;
+    margin-left: 1rem;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+img[alt*="center"],img[alt*="centre"] {
+    display:block;
+    margin-right: auto;
+	  padding-right: 3.5em;
+    margin-left: auto;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+.markdown-reading-view p img{
+	margin-top:0.4em !important;
+}
+
+img{
+  border-radius: 6px;
+}
