@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21c5d61ac4a876a0",
+        "id": "b8dc4847e9954f9e",
         "type": "tabs",
         "children": [
           {
-            "id": "d5995485a81c6991",
+            "id": "8f5bfd96ef8a378d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -47,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:(\"CV -\")",
+                "query": "file:(\"EX -\")",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -157,10 +157,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d5995485a81c6991",
+  "active": "8f5bfd96ef8a378d",
   "lastOpenFiles": [
     "Nodes/ND - 2308201818 - Obsidan.md",
     "Nodes/ND - 2308230006 - Origin.md",
+    "Excalidraw/EX - 2308221456 - Obsidian ~ Nodes.md",
+    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
+    "Stage/Untitled.md",
     "Canvases/CV - 2308241515 - Nodes Dashboard.canvas",
     "Nodes/ND - 2308230006 - Origin 1.md",
     "Journal/JR - 2308251426.md",
@@ -168,7 +171,6 @@
     "Journal/JR - 2308201534 - Obsidian ~ Version.md",
     "Journal/JR - 2308192123 - Townscaper (Game).md",
     "Journal/JR - 2308171506 - Git ~ Change Remote.md",
-    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
     "Excalidraw/EX - 2308252031.md",
     "Attachments/Без имени 1.html",
     "Attachments/lu6541quvab1.tmp",
@@ -181,13 +183,11 @@
     "Inner/IN - 2308201546.md",
     "Canvases/CV - 2308192121 - Journal - A1.canvas",
     "Excalidraw/EX - 2308171438 - Obsidian ~ Git.md",
-    "Stage/Untitled.md",
     "Inner/IN - 2308231455.md",
     "Journal/JR - 2308242123.md",
     "Excalidraw/EX - 2308242123.md",
     "Journal/JR - 2308242121.md",
     "Excalidraw/EX - 2308242121.md",
-    "Excalidraw/EX - 2308221456 - Obsidian ~ Nodes.md",
     "Inner/IN - 2308171532.md",
     "Inner/IN - 2308231955.md",
     "Canvases/CV - 2308192121 - Journal ~ Box ~ A1.canvas",
