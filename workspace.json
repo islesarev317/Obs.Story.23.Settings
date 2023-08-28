@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b8dc4847e9954f9e",
+        "id": "de53ad8f7a1702d9",
         "type": "tabs",
         "children": [
           {
-            "id": "8f5bfd96ef8a378d",
+            "id": "a0f8baee196d6aee",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -47,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:(\"EX -\")",
+                "query": "file:(\"CV -\")",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -157,14 +157,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8f5bfd96ef8a378d",
+  "active": "a0f8baee196d6aee",
   "lastOpenFiles": [
-    "Nodes/ND - 2308201818 - Obsidan.md",
+    "Canvases/CV - 2308241515 - Nodes Dashboard.canvas",
     "Nodes/ND - 2308230006 - Origin.md",
+    "Nodes/ND - 2308201818 - Obsidan.md",
     "Excalidraw/EX - 2308221456 - Obsidian ~ Nodes.md",
     "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
     "Stage/Untitled.md",
-    "Canvases/CV - 2308241515 - Nodes Dashboard.canvas",
     "Nodes/ND - 2308230006 - Origin 1.md",
     "Journal/JR - 2308251426.md",
     "Journal/JR - 2308241255 - Remainders.md",
