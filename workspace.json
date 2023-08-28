@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "92a3a2e721c0a5de",
+        "id": "21c5d61ac4a876a0",
         "type": "tabs",
         "children": [
           {
-            "id": "86980ad521ab04a1",
+            "id": "d5995485a81c6991",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md",
-                "mode": "preview",
-                "source": false
+                "file": "Nodes/ND - 2308230006 - Origin.md"
               }
             }
           }
@@ -49,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Journal/A1",
+                "query": "file:(\"CV -\")",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387
+    "width": 338.5
   },
   "right": {
     "id": "b72c096914b0850b",
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md",
+                "file": "Nodes/ND - 2308230006 - Origin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md",
+                "file": "Nodes/ND - 2308230006 - Origin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md"
+                "file": "Nodes/ND - 2308230006 - Origin.md"
               }
             }
           }
@@ -143,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,38 +157,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "86980ad521ab04a1",
+  "active": "d5995485a81c6991",
   "lastOpenFiles": [
+    "Nodes/ND - 2308201818 - Obsidan.md",
+    "Nodes/ND - 2308230006 - Origin.md",
+    "Canvases/CV - 2308241515 - Nodes Dashboard.canvas",
+    "Nodes/ND - 2308230006 - Origin 1.md",
+    "Journal/JR - 2308251426.md",
+    "Journal/JR - 2308241255 - Remainders.md",
+    "Journal/JR - 2308201534 - Obsidian ~ Version.md",
     "Journal/JR - 2308192123 - Townscaper (Game).md",
-    "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
     "Journal/JR - 2308171506 - Git ~ Change Remote.md",
     "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
-    "Inner/IN - 2308171532.md",
+    "Excalidraw/EX - 2308252031.md",
+    "Attachments/Без имени 1.html",
+    "Attachments/lu6541quvab1.tmp",
+    "Attachments/Pasted image 20230825201823.png",
+    "Attachments/Без имени 1.csv",
+    "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
     "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
-    "Inner/IN - 2308231955.md",
-    "Inner/IN - 2308201546.md",
+    "Inner/IN - 2308232032.md",
     "Inner/IN - 2308231739.md",
-    "Inner/IN - 2308201524.md",
-    "Nodes/ND - 2308230006 - Origin.md",
+    "Inner/IN - 2308201546.md",
     "Canvases/CV - 2308192121 - Journal - A1.canvas",
     "Excalidraw/EX - 2308171438 - Obsidian ~ Git.md",
-    "Canvases/CV - 2308241515 - Nodes Dashboard.canvas",
-    "Journal/JR - 2308201534 - Obsidian ~ Version.md",
-    "Journal/JR - 2308241255 - Remainders.md",
-    "Inner/IN - 2308232032.md",
-    "Nodes/ND - 2308201818 - Obsidan.md",
-    "Inner/IN - 2308232041.md",
-    "Excalidraw/EX - 2308232050.md",
-    "Journal/JR - 2308232051.md",
-    "Excalidraw/EX - 2308221456.md",
-    "Excalidraw/EX - 2308232053.md",
-    "Inner/IN - 2308232016.md",
-    "Journal/JR - 2308232030.md",
-    "Canvases/CV - 2308192121 - Journal ~ Box ~ A1.canvas",
-    "Canvases/CV - 2308192121 - Box ~ A1.canvas",
-    "Nodes/ND - 2308211636 - Obsidian ~ First Setup.md",
     "Stage/Untitled.md",
     "Inner/IN - 2308231455.md",
+    "Journal/JR - 2308242123.md",
+    "Excalidraw/EX - 2308242123.md",
+    "Journal/JR - 2308242121.md",
+    "Excalidraw/EX - 2308242121.md",
+    "Excalidraw/EX - 2308221456 - Obsidian ~ Nodes.md",
+    "Inner/IN - 2308171532.md",
+    "Inner/IN - 2308231955.md",
+    "Canvases/CV - 2308192121 - Journal ~ Box ~ A1.canvas",
+    "Canvases/CV - 2308192121 - Box ~ A1.canvas",
     "Attachments/Pasted image 20230819235511.png",
     "Attachments/CastleKeep2.svg",
     "Canvases/RB - 2308200001 - Box > Recent.canvas",
@@ -202,7 +204,6 @@
     "Attachments/Pasted image 20230820143944.png",
     "Attachments/1690966578Gate1c.svg",
     "Attachments/Pasted image 20230820001310.png",
-    "Attachments/Pasted image 20230819204212.png",
     "Ribbons/RB - 230817 - Box 00.canvas",
     "Ribbons/RB - 230818 - Box > A.canvas",
     "Canvases/Untitled.canvas",
@@ -212,9 +213,6 @@
     "Ribbons/RB - 230819 - Box.A.canvas",
     "Canvases",
     "Ribbons",
-    "Journal/Box",
-    "Journal/B1",
-    "Disorder/Untitled 1.canvas",
-    "Templates"
+    "Disorder/Untitled 1.canvas"
   ]
 }
