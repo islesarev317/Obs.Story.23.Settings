@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b6d2c29c8e5221c2",
+        "id": "6b5b9ff6674ff482",
         "type": "tabs",
         "children": [
           {
-            "id": "725fd29529c4152e",
+            "id": "d3e969ed5d257a82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2308301117 - Daily Note.md",
+                "file": "Inner/IN - 2308231955.md",
                 "mode": "preview",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:(\"JR -\")",
+                "query": "tag:#Journal/Recent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2308301117 - Daily Note.md",
+                "file": "Inner/IN - 2308231955.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2308301117 - Daily Note.md",
+                "file": "Inner/IN - 2308231955.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,12 +134,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2308301117 - Daily Note.md"
+                "file": "Inner/IN - 2308231955.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,19 +158,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "725fd29529c4152e",
+  "active": "d3e969ed5d257a82",
   "lastOpenFiles": [
-    "Journal/JR - 2308301200.md",
-    "Journal/JR - 2308241255 - Remainders.md",
+    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
     "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
+    "Journal/JR - 2308301117 - Daily Note.md",
+    "Journal/JR - 2308291330 - Countries.md",
+    "Inner/IN - 2308231955.md",
+    "Inner/IN - 2308301405.md",
+    "Inner/IN - YYMMDDHHmm.md",
+    "Inner/IN - 2308301404.md",
     "Journal/JR - 2308251426 - Relocate.md",
+    "Journal/JR - 2308241255 - Remainders.md",
     "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
+    "Journal/JR - 2308301200.md",
     "Journal/JR - 2308192123 - Townscaper (Game).md",
     "Journal/JR - 2308201534 - Obsidian ~ Version.md",
     "Journal/JR - 2308171506 - Git ~ Change Remote.md",
-    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
-    "Journal/JR - 2308291330 - Countries.md",
-    "Journal/JR - 2308301117 - Daily Note.md",
     "Inner/IN - 2308232032.md",
     "Canvases/CV - 2308192121 - Journal - A1.canvas",
     "Nodes/ND - 2308230006 - Origin.md",
@@ -185,14 +188,10 @@
     "Samples/SP - 230816 - Journal.md",
     "Templates/TP - 230818 - Metadata.md",
     "Nodes/ND - 2308201818 - Obsidan.md",
-    "Excalidraw/EX - 2308221456 - Obsidian ~ Nodes.md",
-    "Nodes/ND - 2308230006 - Origin 1.md",
-    "Excalidraw/EX - 2308252031.md",
     "Attachments/Без имени 1.html",
     "Attachments/lu6541quvab1.tmp",
     "Attachments/Pasted image 20230825201823.png",
     "Attachments/Без имени 1.csv",
-    "Inner/IN - 2308231739.md",
     "Canvases/CV - 2308192121 - Journal ~ Box ~ A1.canvas",
     "Canvases/CV - 2308192121 - Box ~ A1.canvas",
     "Attachments/Pasted image 20230819235511.png",

@@ -205,5 +205,15 @@
       ],
       "key": "I"
     }
+  ],
+  "note-refactor-obsidian:app:extract-selection-first-line": [],
+  "note-refactor-obsidian:app:extract-selection-content-only": [],
+  "note-refactor-obsidian:app:extract-selection-autogenerate-name": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
   ]
 }
