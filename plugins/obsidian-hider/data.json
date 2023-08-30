@@ -7,7 +7,7 @@
   "hideTooltips": false,
   "hideFileNavButtons": false,
   "hideSearchSuggestions": false,
-  "hideSearchCounts": false,
+  "hideSearchCounts": true,
   "hideInstructions": false,
   "hideMeta": false,
   "hideVault": true

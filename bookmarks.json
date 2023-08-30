@@ -17,6 +17,11 @@
           "title": "tag:#Journal/A1"
         },
         {
+          "type": "search",
+          "ctime": 1693256964769,
+          "query": "tag:#Journal/Archive"
+        },
+        {
           "type": "file",
           "ctime": 1692885142710,
           "path": "Nodes/ND - 2308230006 - Origin.md"
