@@ -46,5 +46,7 @@
   "anuppuccin-theme-settings@@anp-h5-color-custom": "anp-h5-flamingo",
   "anuppuccin-theme-settings@@anp-h6-color-custom": "anp-h6-flamingo",
   "anuppuccin-theme-settings@@anp-h4-color-custom": "anp-h4-flamingo",
-  "anuppuccin-theme-settings@@anp-h1-color-custom": "anp-h1-yellow"
+  "anuppuccin-theme-settings@@anp-h1-color-custom": "anp-h1-yellow",
+  "anuppuccin-theme-settings@@anp-h2-divider": false,
+  "anuppuccin-theme-settings@@ctp-custom-yellow@@dark": "#DCAA79"
 }

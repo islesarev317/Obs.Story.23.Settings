@@ -11,9 +11,11 @@
             "id": "d3e969ed5d257a82",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Nodes/ND - 2308201818 - Obsidan.md"
+                "file": "Journal/JR - 2308311354 - Ideas.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -47,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:(\"EX -\")",
+                "query": "tag:#Journal/Recent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nodes/ND - 2308201818 - Obsidan.md",
+                "file": "Journal/JR - 2308311354 - Ideas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nodes/ND - 2308201818 - Obsidan.md",
+                "file": "Journal/JR - 2308311354 - Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nodes/ND - 2308201818 - Obsidan.md"
+                "file": "Journal/JR - 2308311354 - Ideas.md"
               }
             }
           }
@@ -159,25 +161,26 @@
   },
   "active": "d3e969ed5d257a82",
   "lastOpenFiles": [
-    "Nodes/ND - 2308230006 - Origin.md",
-    "Nodes/ND - 2308201818 - Obsidan.md",
-    "Excalidraw/EX - 2308311415 - The note-taking concept.md",
-    "Excalidraw/EX - 2308171438 - Obsidian ~ Git.md",
-    "Excalidraw/EX - 2308221456 - Obsidian ~ Nodes.md",
-    "Journal/JR - 2308311354 - Ideas.md",
+    "Journal/JR - 2308301117 - Daily Note.md",
+    "Journal/JR - 2308291330 - Countries.md",
     "Journal/JR - 2308251426 - Relocate.md",
     "Journal/JR - 2308241255 - Remainders.md",
-    "Journal/JR - 2308291330 - Countries.md",
-    "Journal/JR - 2308301117 - Daily Note.md",
-    "Journal/JR - 2308311407 - The note-taking concept.md",
+    "Journal/JR - 2308311354 - Ideas.md",
+    "Journal/JR - 2308311952.md",
+    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
+    "Journal/JR - 2308201534 - Obsidian ~ Version.md",
+    "Journal/JR - 2308192123 - Townscaper (Game).md",
+    "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
+    "Journal/JR - 2308171506 - Git ~ Change Remote.md",
     "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
+    "Nodes/ND - 2308230006 - Origin.md",
+    "Excalidraw/EX - 2308311415 - The note-taking concept.md",
+    "Nodes/ND - 2308201818 - Obsidan.md",
+    "Excalidraw/EX - 2308171438 - Obsidian ~ Git.md",
+    "Excalidraw/EX - 2308221456 - Obsidian ~ Nodes.md",
+    "Journal/JR - 2308311407 - The note-taking concept.md",
     "Inner/IN - 2308171532.md",
     "Excalidraw/EX - 2308301415.md",
-    "Journal/JR - 2308171506 - Git ~ Change Remote.md",
-    "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
-    "Journal/JR - 2308192123 - Townscaper (Game).md",
-    "Journal/JR - 2308201534 - Obsidian ~ Version.md",
-    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
     "Attachments/Pasted Image 20230830141823_507.svg",
     "Attachments/Pasted image 20230819235511.png",
     "Inner/IN - 2308231955.md",
@@ -187,7 +190,6 @@
     "Journal/JR - 2308301200.md",
     "Inner/IN - 2308232032.md",
     "Canvases/CV - 2308192121 - Journal - A1.canvas",
-    "Stage/Untitled.md",
     "Canvases/CV - 2308241515 - Nodes Dashboard.canvas",
     "Attachments/Без имени 1.html",
     "Attachments/lu6541quvab1.tmp",
