@@ -11,11 +11,9 @@
             "id": "d3e969ed5d257a82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Inner/IN - 2308231955.md",
-                "mode": "preview",
-                "source": false
+                "file": "Nodes/ND - 2308201818 - Obsidan.md"
               }
             }
           }
@@ -49,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Journal/Recent",
+                "query": "file:(\"EX -\")",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inner/IN - 2308231955.md",
+                "file": "Nodes/ND - 2308201818 - Obsidan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inner/IN - 2308231955.md",
+                "file": "Nodes/ND - 2308201818 - Obsidan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,11 +132,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inner/IN - 2308231955.md"
+                "file": "Nodes/ND - 2308201818 - Obsidan.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -160,41 +159,42 @@
   },
   "active": "d3e969ed5d257a82",
   "lastOpenFiles": [
-    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
-    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
-    "Journal/JR - 2308301117 - Daily Note.md",
+    "Nodes/ND - 2308230006 - Origin.md",
+    "Nodes/ND - 2308201818 - Obsidan.md",
+    "Excalidraw/EX - 2308311415 - The note-taking concept.md",
+    "Excalidraw/EX - 2308171438 - Obsidian ~ Git.md",
+    "Excalidraw/EX - 2308221456 - Obsidian ~ Nodes.md",
+    "Journal/JR - 2308311354 - Ideas.md",
+    "Journal/JR - 2308251426 - Relocate.md",
+    "Journal/JR - 2308241255 - Remainders.md",
     "Journal/JR - 2308291330 - Countries.md",
+    "Journal/JR - 2308301117 - Daily Note.md",
+    "Journal/JR - 2308311407 - The note-taking concept.md",
+    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
+    "Inner/IN - 2308171532.md",
+    "Excalidraw/EX - 2308301415.md",
+    "Journal/JR - 2308171506 - Git ~ Change Remote.md",
+    "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
+    "Journal/JR - 2308192123 - Townscaper (Game).md",
+    "Journal/JR - 2308201534 - Obsidian ~ Version.md",
+    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
+    "Attachments/Pasted Image 20230830141823_507.svg",
+    "Attachments/Pasted image 20230819235511.png",
     "Inner/IN - 2308231955.md",
     "Inner/IN - 2308301405.md",
     "Inner/IN - YYMMDDHHmm.md",
     "Inner/IN - 2308301404.md",
-    "Journal/JR - 2308251426 - Relocate.md",
-    "Journal/JR - 2308241255 - Remainders.md",
-    "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
     "Journal/JR - 2308301200.md",
-    "Journal/JR - 2308192123 - Townscaper (Game).md",
-    "Journal/JR - 2308201534 - Obsidian ~ Version.md",
-    "Journal/JR - 2308171506 - Git ~ Change Remote.md",
     "Inner/IN - 2308232032.md",
     "Canvases/CV - 2308192121 - Journal - A1.canvas",
-    "Nodes/ND - 2308230006 - Origin.md",
     "Stage/Untitled.md",
-    "Stage/Untitled 1.md",
     "Canvases/CV - 2308241515 - Nodes Dashboard.canvas",
-    "Journal/JR - 2308290034.md",
-    "Templates/TP - 230828 - Date H3.md",
-    "Journal/JR - 2308290006.md",
-    "Journal/JR - 2308282356.md",
-    "Samples/SP - 230816 - Journal.md",
-    "Templates/TP - 230818 - Metadata.md",
-    "Nodes/ND - 2308201818 - Obsidan.md",
     "Attachments/Без имени 1.html",
     "Attachments/lu6541quvab1.tmp",
     "Attachments/Pasted image 20230825201823.png",
     "Attachments/Без имени 1.csv",
     "Canvases/CV - 2308192121 - Journal ~ Box ~ A1.canvas",
     "Canvases/CV - 2308192121 - Box ~ A1.canvas",
-    "Attachments/Pasted image 20230819235511.png",
     "Attachments/CastleKeep2.svg",
     "Canvases/RB - 2308200001 - Box > Recent.canvas",
     "Nodes",
@@ -205,7 +205,6 @@
     "Attachments/ChurchTower.svg",
     "Attachments/Pasted image 20230820143944.png",
     "Attachments/1690966578Gate1c.svg",
-    "Attachments/Pasted image 20230820001310.png",
     "Ribbons/RB - 230817 - Box 00.canvas",
     "Ribbons/RB - 230818 - Box > A.canvas",
     "Canvases/Untitled.canvas",
