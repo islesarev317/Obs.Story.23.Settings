@@ -8,7 +8,7 @@
   padding-bottom: 10px !important;
   padding-left: 24px !important;
   padding-right: 24px !important;
-  background-color: #232323;
+  background-color: #262626;
   border-radius: 20px;
   border-color: var(--tab-outline-color);
   border-width: var(--tab-outline-width);
@@ -18,11 +18,11 @@
 .markdown-preview-view .inline-title
 {
   margin-top: 0.5em;
-  color: #8A8C99;
 }
 
 .inline-title
 {
+  color: #8A8C99;
   font-style: italic;
   font-family: serif;
 }
@@ -44,7 +44,7 @@
 }
 
 .cm-sizer{
-  background-color: #232323;
+  background-color: #262626;
   border-radius: 20px;
   padding: 24px !important;
   border-color: var(--tab-outline-color);
