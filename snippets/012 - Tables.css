@@ -1,7 +1,7 @@
 .workspace-leaf-content[data-type="markdown"] table thead,
 .workspace-leaf-content[data-type="canvas"] table thead
 {
-  background-color: rgba(100, 110, 120, 0.15); !important;
+  background-color: #31313A; !important;
 }
 
 .workspace-leaf-content[data-type="markdown"] table thead,
