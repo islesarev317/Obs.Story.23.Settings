@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "752941fa340343a5",
+        "id": "a5e2e75a3c6fc397",
         "type": "tabs",
         "children": [
           {
-            "id": "a8d459d2e130d681",
+            "id": "ca86534a9b621c74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2308291330 - Countries.md",
+                "file": "Stage/Untitled 1.md",
                 "mode": "preview",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "4d0108dc5c5c7701",
         "type": "tabs",
-        "dimension": 45.26066350710901,
+        "dimension": 37.796208530805686,
         "children": [
           {
             "id": "9f6a3908e07c0678",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Journal/Recent",
+                "query": "path:(Stage/)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -64,7 +64,7 @@
       {
         "id": "1c9b3f5873b7dacf",
         "type": "tabs",
-        "dimension": 54.739336492891,
+        "dimension": 62.203791469194314,
         "children": [
           {
             "id": "b2c01e09f9a3c5b5",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 262.5
   },
   "right": {
     "id": "b72c096914b0850b",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2308291330 - Countries.md",
+                "file": "Stage/Untitled 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2308291330 - Countries.md",
+                "file": "Stage/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2308291330 - Countries.md"
+                "file": "Stage/Untitled 1.md"
               }
             }
           }
@@ -158,31 +158,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a8d459d2e130d681",
+  "active": "6ce10a9068dcdc1d",
   "lastOpenFiles": [
-    "Journal/JR - 2308241255 - Remainders.md",
-    "Nodes/ND - 2308230006 - Origin.md",
-    "Journal/JR - 2308291330 - Countries.md",
-    "Journal/JR - 2308251426 - Relocate.md",
-    "Journal/JR - 2308201534 - Obsidian ~ Version.md",
-    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
-    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
-    "Inner/IN - 2308201524.md",
-    "Excalidraw/EX - 2308171438 - Obsidian ~ Git.md",
-    "Inner/IN - 2308171532.md",
-    "Journal/JR - 2308311354 - Ideas.md",
-    "Journal/JR - 2308301117 - Daily Note.md",
-    "Stage/Untitled 1.md",
+    "Stage/Untitled.md",
     "Stage/Untitled 2.md",
+    "Stage/Untitled 1.md",
+    "Excalidraw/EX - 2308311415 - The note-taking concept.md",
+    "Excalidraw/EX - 2308221456 - Obsidian ~ Nodes.md",
+    "Excalidraw/EX - 2308171438 - Obsidian ~ Git.md",
+    "Nodes/ND - 2308230006 - Origin.md",
+    "Excalidraw/EX - 2308301415 - World Map.md",
+    "Canvases/CV - 2308192121 - Journal - A1.canvas",
+    "Canvases/CV - 2308241515 - Nodes Dashboard.canvas",
+    "Journal/JR - 2308311354 - Ideas.md",
+    "Journal/JR - 2308251426 - Relocate.md",
+    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
+    "Journal/JR - 2308291330 - Countries.md",
+    "Journal/JR - 2308201534 - Obsidian ~ Version.md",
     "Journal/JR - 2308192123 - Townscaper (Game).md",
     "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
     "Journal/JR - 2308171506 - Git ~ Change Remote.md",
-    "Excalidraw/EX - 2308311415 - The note-taking concept.md",
+    "Inner/IN - 2308171532.md",
+    "Inner/IN - 2308201524.md",
+    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
+    "Journal/JR - 2308301117 - Daily Note.md",
+    "Journal/JR - 2308241255 - Remainders.md",
     "Nodes/ND - 2308201818 - Obsidan.md",
-    "Stage/Untitled.md",
-    "Canvases/CV - 2308192121 - Journal - A1.canvas",
-    "Excalidraw/EX - 2308301415 - World Map.md",
-    "Canvases/CV - 2308241515 - Nodes Dashboard.canvas",
     "Attachments/Pasted Image 20230902005355_415.svg",
     "Attachments/Pasted Image 20230902005207_379.svg",
     "Attachments/Pasted Image 20230902005021_355.svg",
@@ -193,7 +194,6 @@
     "Canvases/Untitled.canvas",
     "Journal/JR - 2308312024.md",
     "Journal/JR - 2308311952.md",
-    "Excalidraw/EX - 2308221456 - Obsidian ~ Nodes.md",
     "Attachments/Pasted image 20230819235511.png",
     "Attachments/Без имени 1.html",
     "Attachments/lu6541quvab1.tmp",
