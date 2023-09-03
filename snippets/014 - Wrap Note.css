@@ -10,6 +10,9 @@
   padding-right: 24px !important;
   background-color: #232323;
   border-radius: 20px;
+  border-color: var(--tab-outline-color);
+  border-width: var(--tab-outline-width);
+  border-style: solid;
 }
 
 .markdown-preview-view .inline-title
@@ -46,6 +49,9 @@
   background-color: #232323;
   border-radius: 20px;
   padding: 24px !important;
+  border-color: var(--tab-outline-color);
+  border-width: var(--tab-outline-width);
+  border-style: solid;
 }
 
 .cm-content

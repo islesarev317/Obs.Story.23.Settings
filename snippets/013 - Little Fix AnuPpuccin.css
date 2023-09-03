@@ -16,3 +16,31 @@
 .workspace-tab-container{
   border: none !important;
 }
+
+/* border */
+
+.workspace-tab-header-container{
+  border-left: none !important;
+}
+
+.view-header{
+  border-bottom-color: var(--tab-outline-color);
+  border-bottom-width: var(--tab-outline-width);
+  border-bottom-style: solid;
+}
+
+.Island{
+  border-color: var(--tab-outline-color);
+  border-width: var(--tab-outline-width);
+  border-style: solid;
+}
+
+.mobile-misc-tools-container{
+  border-color: var(--tab-outline-color) !important;
+  border-width: var(--tab-outline-width) !important;
+  border-style: solid !important;
+}
+
+.Stack_horizontal>button.ToolIcon_type_button.ToolIcon{
+  background-color: inherit !important;
+}
