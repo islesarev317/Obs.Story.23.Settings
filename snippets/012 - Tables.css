@@ -13,7 +13,7 @@
 {
   border-width: 2px !important;
   //border-width: 0px !important;
-  border-color: #4E505A !important;
+  border-color: var(--hr-color) !important;
   padding-top: 2px !important;
   padding-bottom: 2px !important;
 

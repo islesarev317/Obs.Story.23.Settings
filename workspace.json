@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stage/Untitled 1.md",
+                "file": "Journal/JR - 2308251426 - Relocate.md",
                 "mode": "preview",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:(Stage/)",
+                "query": "tag:#Journal/Recent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stage/Untitled 1.md",
+                "file": "Journal/JR - 2308251426 - Relocate.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stage/Untitled 1.md",
+                "file": "Journal/JR - 2308251426 - Relocate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stage/Untitled 1.md"
+                "file": "Journal/JR - 2308251426 - Relocate.md"
               }
             }
           }
@@ -158,11 +158,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ce10a9068dcdc1d",
+  "active": "ca86534a9b621c74",
   "lastOpenFiles": [
+    "Journal/JR - 2308241255 - Remainders.md",
     "Stage/Untitled.md",
-    "Stage/Untitled 2.md",
     "Stage/Untitled 1.md",
+    "Stage/Untitled 2.md",
     "Excalidraw/EX - 2308311415 - The note-taking concept.md",
     "Excalidraw/EX - 2308221456 - Obsidian ~ Nodes.md",
     "Excalidraw/EX - 2308171438 - Obsidian ~ Git.md",
@@ -182,7 +183,6 @@
     "Inner/IN - 2308201524.md",
     "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
     "Journal/JR - 2308301117 - Daily Note.md",
-    "Journal/JR - 2308241255 - Remainders.md",
     "Nodes/ND - 2308201818 - Obsidan.md",
     "Attachments/Pasted Image 20230902005355_415.svg",
     "Attachments/Pasted Image 20230902005207_379.svg",
