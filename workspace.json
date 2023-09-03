@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ac9b146d422625f8",
+        "id": "3b4d095ad81dce36",
         "type": "tabs",
         "children": [
           {
-            "id": "a83300a626d04767",
+            "id": "32f468c695f52271",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2308192123 - Townscaper (Game).md",
+                "file": "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2308192123 - Townscaper (Game).md",
+                "file": "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2308192123 - Townscaper (Game).md",
+                "file": "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2308192123 - Townscaper (Game).md"
+                "file": "Journal/JR - 2308161801 - Obsidian ~ First Setup.md"
               }
             }
           }
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,19 +158,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a83300a626d04767",
+  "active": "32f468c695f52271",
   "lastOpenFiles": [
-    "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
-    "Nodes/ND - 2308230006 - Origin.md",
-    "Journal/JR - 2308291330 - Countries.md",
-    "Journal/JR - 2308301117 - Daily Note.md",
-    "Journal/JR - 2308251426 - Relocate.md",
-    "Journal/JR - 2308241255 - Remainders.md",
-    "Journal/JR - 2308171506 - Git ~ Change Remote.md",
-    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
-    "Journal/JR - 2308192123 - Townscaper (Game).md",
-    "Inner/IN - 2308171532.md",
     "Journal/JR - 2308201534 - Obsidian ~ Version.md",
+    "Journal/JR - 2308192123 - Townscaper (Game).md",
+    "Journal/JR - 2308171506 - Git ~ Change Remote.md",
+    "Nodes/ND - 2308230006 - Origin.md",
+    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
+    "Journal/JR - 2308291330 - Countries.md",
+    "Journal/JR - 2308251426 - Relocate.md",
+    "Inner/IN - 2308171532.md",
+    "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
+    "Journal/JR - 2308301117 - Daily Note.md",
+    "Journal/JR - 2308241255 - Remainders.md",
     "Inner/IN - 2308201524.md",
     "Journal/JR - 2308311354 - Ideas.md",
     "Excalidraw/EX - 2308311415 - The note-taking concept.md",

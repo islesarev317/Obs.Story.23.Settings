@@ -23,16 +23,14 @@
 
 .inline-title
 {
-  color: #A4A5AF;
-  //font-style: italic;
+  font-style: italic;
   font-family: serif;
-
 }
 
 .inline-title{
-  border-bottom-color: #4E505A !important;
-  border-bottom-width: 0.12em !important;
-  border-bottom: dotted 5px;
+  border-bottom-color: var(--hr-color);
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
   padding-bottom: 10px !important;
 }
 
