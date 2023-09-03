@@ -4,7 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "3b4d095ad81dce36",
+        "id": "752941fa340343a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8d459d2e130d681",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "190dd2c6ceb78ad3",
         "type": "tabs",
         "children": [
           {
@@ -13,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2308291330 - Countries.md",
+                "file": "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
                 "mode": "preview",
                 "source": false
               }
@@ -49,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Journal/Recent",
+                "query": "tag:#Journal/A1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2308291330 - Countries.md",
+                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2308291330 - Countries.md",
+                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2308291330 - Countries.md"
+                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md"
               }
             }
           }
@@ -158,27 +176,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "32f468c695f52271",
+  "active": "a8d459d2e130d681",
   "lastOpenFiles": [
-    "Stage/Untitled 1.md",
-    "Stage/Untitled 2.md",
-    "Journal/JR - 2308311354 - Ideas.md",
-    "Journal/JR - 2308291330 - Countries.md",
-    "Journal/JR - 2308301117 - Daily Note.md",
-    "Journal/JR - 2308241255 - Remainders.md",
+    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
     "Nodes/ND - 2308230006 - Origin.md",
     "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
+    "Inner/IN - 2308201524.md",
+    "Excalidraw/EX - 2308171438 - Obsidian ~ Git.md",
+    "Inner/IN - 2308171532.md",
+    "Journal/JR - 2308311354 - Ideas.md",
+    "Journal/JR - 2308301117 - Daily Note.md",
+    "Journal/JR - 2308291330 - Countries.md",
+    "Stage/Untitled 1.md",
+    "Stage/Untitled 2.md",
+    "Journal/JR - 2308241255 - Remainders.md",
     "Journal/JR - 2308192123 - Townscaper (Game).md",
     "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
     "Journal/JR - 2308201534 - Obsidian ~ Version.md",
     "Journal/JR - 2308171506 - Git ~ Change Remote.md",
     "Journal/JR - 2308251426 - Relocate.md",
-    "Inner/IN - 2308171532.md",
-    "Inner/IN - 2308201524.md",
     "Excalidraw/EX - 2308311415 - The note-taking concept.md",
     "Nodes/ND - 2308201818 - Obsidan.md",
-    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
-    "Excalidraw/EX - 2308171438 - Obsidian ~ Git.md",
     "Stage/Untitled.md",
     "Canvases/CV - 2308192121 - Journal - A1.canvas",
     "Excalidraw/EX - 2308301415 - World Map.md",
