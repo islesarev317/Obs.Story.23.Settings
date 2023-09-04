@@ -3,10 +3,9 @@
 .view-content div hr{
   //border-top-color:rgba(150, 150, 170, 0.35) !important;
   border-top-color: #4E505A !important;
-  //border-top-width: 3.5px !important;
   border-top-width: 0.24em !important;
-  border-top: dotted 5px;
-  //box-shadow: rgba(0, 0, 0, 0.08) 0px 0px 5px 0px !important;
+  border-top-style: dotted;
+  //box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 5px 0px !important;
 }
 
 /* <span class="vl"/> */
