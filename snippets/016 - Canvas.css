@@ -21,3 +21,10 @@ svg.canvas-background {
 {
   //box-shadow: rgba(0, 0, 0, 0.12) 0px 0px 1px 2px !important;
 }
+
+/* ---- */
+
+.canvas-node-container .markdown-preview-sizer
+{
+  padding-top: 15px !important;
+}
