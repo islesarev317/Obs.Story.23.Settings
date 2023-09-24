@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed87bfb0fe840c8a",
+            "id": "9dcdeba5142fac04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/JR - 2308291330 - All Countries in the World.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65d73ae8c0d2dfa7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -47,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:(\"JR -\")",
+                "query": "tag:#Journal/Recent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -92,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/EX - 2308301415 - World Map.md",
+                "file": "Journal/JR - 2308291330 - All Countries in the World.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/EX - 2308301415 - World Map.md",
+                "file": "Journal/JR - 2308291330 - All Countries in the World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/EX - 2308301415 - World Map.md"
+                "file": "Journal/JR - 2308291330 - All Countries in the World.md"
               }
             }
           }
@@ -157,27 +169,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ce10a9068dcdc1d",
+  "active": "9dcdeba5142fac04",
   "lastOpenFiles": [
+    "Inner/IN - 230924135841.md",
     "Journal/JR - 2308291330 - All Countries in the World.md",
-    "Stage/Untitled.md",
-    "Canvases/CV - 2308241515 - Achievements.canvas",
-    "Nodes/ND - 2308230006 - Origin.md",
+    "Inner/IN - 2308232032.md",
+    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
+    "Inner/IN - 2308201546.md",
+    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
+    "Inner/IN - 2309241356.md",
+    "Inner/IN - 2309241352.md",
+    "Inner/IN - 2309241351.md",
+    "Inner/IN - 2309241350.md",
+    "Inner/IN - 2309241353.md",
     "Excalidraw/EX - 2308301415 - World Map.md",
-    "Journal/JR - 2309041846 - Geography ~ Continents.md",
+    "Attachments/Pasted image 20230922142100.png",
+    "Attachments/Pasted image 20230922124521.png",
+    "Attachments/Pasted image 20230922124517.png",
+    "Canvases/CV - 2308241515 - Achievements.canvas",
     "Journal/JR - 2309151723 - Pattern of Life.md",
-    "Journal/JR - 2309151544 - The Thought ~ Obsidian.md",
     "Journal/JR - 2308311354 - Ideas.md",
     "Journal/JR - 2309061332 - Vimium (Chrome).md",
-    "Journal/JR - 2308301117 - Daily Note.md",
-    "Journal/JR - 2308251426 - Relocate.md",
-    "Journal/JR - 2308241255 - Remainders.md",
-    "Excalidraw/EX - 2309151545.md",
-    "Nodes/ND - 2308201818 - Obsidan.md",
-    "Excalidraw/EX - 2308311415 - The note-taking concept.md",
-    "Stage/Untitled 1.md",
+    "Journal/JR - 2308192123 - Townscaper (Game).md",
+    "Journal/JR - 2308201534 - Obsidian ~ Version.md",
+    "Inner/IN - 2308231739.md",
+    "Inner/IN - 2308201524.md",
+    "Inner/IN - 2308171532.md",
+    "Journal/JR - 2308171506 - Git ~ Change Remote.md",
+    "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
+    "Stage/Untitled.md",
+    "Nodes/ND - 2308230006 - Origin.md",
+    "Journal/JR - 2309041846 - Geography ~ Continents.md",
+    "Journal/JR - 2309151544 - The Thought ~ Obsidian.md",
     "Canvases/CV - 2308192121 - Journal - A1.canvas",
-    "Journal/JR - 2309111426.md",
     "Attachments/Pasted image 20230911151458.png",
     "Attachments/Pasted image 20230911151107.png",
     "Attachments/IMG_5705.jpg",
@@ -185,17 +209,6 @@
     "Attachments/Pasted Image 20230830141823_507.svg",
     "Attachments/Pasted image 20230906180204.png",
     "Attachments/Pasted image 20230907141148.png",
-    "Attachments/Pasted image 20230908192333.png",
-    "Attachments/Pasted image 20230908214345.png",
-    "Attachments/Pasted image 20230911143512.png",
-    "Excalidraw/EX - 2309111414.md",
-    "Nodes/ND - 2308201818 - Obsidan 1.md",
-    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
-    "Inner/IN - 2308231455.md",
-    "Inner/IN - 2308171532.md",
-    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
-    "Inner/IN - 2308201546.md",
-    "Inner/IN - 2308201524.md",
     "Canvases/Untitled.canvas",
     "Attachments/Без имени 1.html",
     "Attachments/lu6541quvab1.tmp",

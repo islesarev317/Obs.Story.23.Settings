@@ -4,7 +4,7 @@
   "headingFormat": "#",
   "newFileLocation": 2,
   "customFolder": "Inner",
-  "fileNamePrefix": "IN - {{date:YYMMDDHHmm}}",
+  "fileNamePrefix": "IN - {{date:YYMMDDHHmmss}}",
   "transcludeByDefault": false,
   "noteLinkTemplate": "",
   "refactoredNoteTemplate": ""
