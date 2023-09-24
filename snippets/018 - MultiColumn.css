@@ -11,3 +11,12 @@
 .mcm-column-parent-container{
   overflow-x: visible;
 }
+
+/* YAML frontmatter */
+
+.multi-column-list-12 ul{
+  max-height: 12em;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
