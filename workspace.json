@@ -4,29 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1ca9fedb60b52ece",
+        "id": "59c5d8e7f04c7c7f",
         "type": "tabs",
         "children": [
           {
-            "id": "9dcdeba5142fac04",
+            "id": "3786af891fd66f24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/JR - 2308291330 - All Countries in the World.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65d73ae8c0d2dfa7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/EX - 2308301415 - World Map.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 341.5
   },
   "right": {
     "id": "b72c096914b0850b",
@@ -104,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2308291330 - All Countries in the World.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2308291330 - All Countries in the World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Journal/JR - 2308291330 - All Countries in the World.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -169,46 +151,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9dcdeba5142fac04",
+  "active": "3786af891fd66f24",
   "lastOpenFiles": [
-    "Inner/IN - 230924135841.md",
-    "Journal/JR - 2308291330 - All Countries in the World.md",
-    "Inner/IN - 2308232032.md",
-    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
-    "Inner/IN - 2308201546.md",
-    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
-    "Inner/IN - 2309241356.md",
-    "Inner/IN - 2309241352.md",
-    "Inner/IN - 2309241351.md",
-    "Inner/IN - 2309241350.md",
-    "Inner/IN - 2309241353.md",
+    "Canvases/CV - 2308241515 - Achievements.canvas",
+    "Journal/JR - 2309151723 - Pattern of Life.md",
+    "Nodes/ND - 2309251427 - Root.md",
+    "Journal/JR - 2308291330 - All Countries.md",
+    "Nodes/ND - 2309251452 - Countries.md",
+    "Nodes/ND - 2309251444 - Obsidian.md",
+    "Nodes/ND - 2308230006 - Origin (Archive).md",
+    "Nodes/ND - 2308201818 - Obsidan (Archive).md",
+    "Journal/JR - 2308311354 - Ideas.md",
+    "Journal/JR - 2308301117 - Daily Note.md",
+    "Journal/JR - 2308251426 - Relocate.md",
+    "Journal/JR - 2308241255 - Remainders.md",
+    "Journal/JR - 2309061332 - Vimium (Chrome).md",
+    "Inner/IN - 2309041846.md",
     "Excalidraw/EX - 2308301415 - World Map.md",
+    "Inner/IN - 230924140529.md",
+    "Canvases/Untitled 1.canvas",
+    "Attachments/mqdefault_6s.webp",
+    "Excalidraw/EX - 2309251255.md",
+    "Inner/IN - 230924135841.md",
+    "Attachments/Pasted image 20230906180204.png",
+    "Attachments/Pasted image 20230907141148.png",
+    "Inner/IN - 230924140344.md",
+    "Inner/IN - 230924140118.md",
+    "Inner/IN - 230924140702.md",
+    "Inner/IN - 230924140305.md",
+    "Inner/IN - 230924140449.md",
+    "Inner/IN - 230924140427.md",
+    "Inner/IN - 230924140412.md",
+    "Inner/IN - 230924140358.md",
     "Attachments/Pasted image 20230922142100.png",
     "Attachments/Pasted image 20230922124521.png",
     "Attachments/Pasted image 20230922124517.png",
-    "Canvases/CV - 2308241515 - Achievements.canvas",
-    "Journal/JR - 2309151723 - Pattern of Life.md",
-    "Journal/JR - 2308311354 - Ideas.md",
-    "Journal/JR - 2309061332 - Vimium (Chrome).md",
-    "Journal/JR - 2308192123 - Townscaper (Game).md",
-    "Journal/JR - 2308201534 - Obsidian ~ Version.md",
-    "Inner/IN - 2308231739.md",
-    "Inner/IN - 2308201524.md",
-    "Inner/IN - 2308171532.md",
-    "Journal/JR - 2308171506 - Git ~ Change Remote.md",
-    "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
-    "Stage/Untitled.md",
-    "Nodes/ND - 2308230006 - Origin.md",
-    "Journal/JR - 2309041846 - Geography ~ Continents.md",
-    "Journal/JR - 2309151544 - The Thought ~ Obsidian.md",
     "Canvases/CV - 2308192121 - Journal - A1.canvas",
     "Attachments/Pasted image 20230911151458.png",
     "Attachments/Pasted image 20230911151107.png",
     "Attachments/IMG_5705.jpg",
     "Attachments/Pasted image 20230819235511.png",
-    "Attachments/Pasted Image 20230830141823_507.svg",
-    "Attachments/Pasted image 20230906180204.png",
-    "Attachments/Pasted image 20230907141148.png",
     "Canvases/Untitled.canvas",
     "Attachments/Без имени 1.html",
     "Attachments/lu6541quvab1.tmp",
@@ -225,7 +207,6 @@
     "Inner",
     "Ribbons/RB - 230819 - Box.A.canvas",
     "Canvases",
-    "Ribbons",
-    "Disorder/Untitled 1.canvas"
+    "Ribbons"
   ]
 }

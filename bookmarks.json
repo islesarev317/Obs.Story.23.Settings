@@ -8,14 +8,14 @@
           "type": "file",
           "ctime": 1694431104967,
           "path": "Stage/Untitled.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1694430975401,
-          "path": "Canvases/CV - 2308241515 - Achievements.canvas"
         }
       ],
       "title": "Desk"
+    },
+    {
+      "type": "file",
+      "ctime": 1694430975401,
+      "path": "Canvases/CV - 2308241515 - Achievements.canvas"
     },
     {
       "type": "group",
@@ -40,8 +40,13 @@
         },
         {
           "type": "file",
+          "ctime": 1695641346465,
+          "path": "Nodes/ND - 2309251427 - Root.md"
+        },
+        {
+          "type": "file",
           "ctime": 1692885142710,
-          "path": "Nodes/ND - 2308230006 - Origin.md"
+          "path": "Nodes/ND - 2308230006 - Origin (Archive).md"
         }
       ],
       "title": "Pins"
