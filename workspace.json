@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "59c5d8e7f04c7c7f",
+        "id": "218c84d9d174208b",
         "type": "tabs",
         "children": [
           {
-            "id": "3786af891fd66f24",
+            "id": "839b3d6dfc1f7c71",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Nodes/ND - 2309251427 - Root.md"
+              }
             }
           }
         ]
@@ -27,7 +29,7 @@
       {
         "id": "4d0108dc5c5c7701",
         "type": "tabs",
-        "dimension": 48.102815177478575,
+        "dimension": 56.303549571603426,
         "children": [
           {
             "id": "9f6a3908e07c0678",
@@ -60,7 +62,7 @@
       {
         "id": "1c9b3f5873b7dacf",
         "type": "tabs",
-        "dimension": 51.897184822521425,
+        "dimension": 43.696450428396574,
         "children": [
           {
             "id": "b2c01e09f9a3c5b5",
@@ -74,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 337.5
   },
   "right": {
     "id": "b72c096914b0850b",
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Nodes/ND - 2309251427 - Root.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Nodes/ND - 2309251427 - Root.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Nodes/ND - 2309251427 - Root.md"
+              }
             }
           }
         ],
@@ -151,47 +157,49 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3786af891fd66f24",
+  "active": "839b3d6dfc1f7c71",
   "lastOpenFiles": [
-    "Canvases/CV - 2308241515 - Achievements.canvas",
-    "Journal/JR - 2309151723 - Pattern of Life.md",
-    "Nodes/ND - 2309251427 - Root.md",
-    "Journal/JR - 2308291330 - All Countries.md",
     "Nodes/ND - 2309251452 - Countries.md",
+    "Journal/JR - 2308291330 - All Countries.md",
+    "Nodes/ND - 2309251427 - Root.md",
+    "Nodes/ND - 2309271752 - Desk 1.md",
     "Nodes/ND - 2309251444 - Obsidian.md",
     "Nodes/ND - 2308230006 - Origin (Archive).md",
-    "Nodes/ND - 2308201818 - Obsidan (Archive).md",
-    "Journal/JR - 2308311354 - Ideas.md",
-    "Journal/JR - 2308301117 - Daily Note.md",
-    "Journal/JR - 2308251426 - Relocate.md",
-    "Journal/JR - 2308241255 - Remainders.md",
-    "Journal/JR - 2309061332 - Vimium (Chrome).md",
-    "Inner/IN - 2309041846.md",
+    "Canvases/CV - 2308241515 - Achievements.canvas",
+    "Canvases/Untitled.canvas",
+    "Journal/JR - 2309272044 - Python ~ Pandas.md",
+    "Journal/JR - 2309261255.md",
+    "Journal/JR - 2309151723 - Habits.md",
     "Excalidraw/EX - 2308301415 - World Map.md",
+    "Inner/IN - 230924140325.md",
+    "Inner/IN - 230924140131.md",
+    "Inner/IN - 230924140221.md",
+    "Inner/IN - 230924140032.md",
+    "Inner/IN - 230924140539.md",
     "Inner/IN - 230924140529.md",
-    "Canvases/Untitled 1.canvas",
-    "Attachments/mqdefault_6s.webp",
-    "Excalidraw/EX - 2309251255.md",
-    "Inner/IN - 230924135841.md",
-    "Attachments/Pasted image 20230906180204.png",
-    "Attachments/Pasted image 20230907141148.png",
-    "Inner/IN - 230924140344.md",
-    "Inner/IN - 230924140118.md",
-    "Inner/IN - 230924140702.md",
-    "Inner/IN - 230924140305.md",
+    "Inner/IN - 230924140049.md",
+    "Inner/IN - 230924140000.md",
     "Inner/IN - 230924140449.md",
+    "Inner/IN - 230924140639.md",
+    "Inner/IN - 230924140702.md",
     "Inner/IN - 230924140427.md",
+    "Inner/IN - 230924140553.md",
     "Inner/IN - 230924140412.md",
     "Inner/IN - 230924140358.md",
+    "Inner/IN - 230924140344.md",
+    "Attachments/Pasted image 20230906180204.png",
+    "Attachments/Pasted image 20230907141148.png",
+    "Attachments/Pasted image 20230926190334.png",
+    "Attachments/Pasted image 20230925181037.png",
+    "Entities",
+    "Canvases/Untitled 1.canvas",
+    "Attachments/mqdefault_6s.webp",
     "Attachments/Pasted image 20230922142100.png",
     "Attachments/Pasted image 20230922124521.png",
     "Attachments/Pasted image 20230922124517.png",
     "Canvases/CV - 2308192121 - Journal - A1.canvas",
     "Attachments/Pasted image 20230911151458.png",
     "Attachments/Pasted image 20230911151107.png",
-    "Attachments/IMG_5705.jpg",
-    "Attachments/Pasted image 20230819235511.png",
-    "Canvases/Untitled.canvas",
     "Attachments/Без имени 1.html",
     "Attachments/lu6541quvab1.tmp",
     "Attachments/Без имени 1.csv",
@@ -206,7 +214,6 @@
     "Groups",
     "Inner",
     "Ribbons/RB - 230819 - Box.A.canvas",
-    "Canvases",
-    "Ribbons"
+    "Canvases"
   ]
 }

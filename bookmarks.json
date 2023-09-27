@@ -6,16 +6,21 @@
       "items": [
         {
           "type": "file",
+          "ctime": 1695641346465,
+          "path": "Nodes/ND - 2309251427 - Root.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1694430975401,
+          "path": "Canvases/CV - 2308241515 - Achievements.canvas"
+        },
+        {
+          "type": "file",
           "ctime": 1694431104967,
           "path": "Stage/Untitled.md"
         }
       ],
       "title": "Desk"
-    },
-    {
-      "type": "file",
-      "ctime": 1694430975401,
-      "path": "Canvases/CV - 2308241515 - Achievements.canvas"
     },
     {
       "type": "group",
@@ -37,16 +42,6 @@
           "type": "search",
           "ctime": 1693256964769,
           "query": "tag:#Journal/Archive"
-        },
-        {
-          "type": "file",
-          "ctime": 1695641346465,
-          "path": "Nodes/ND - 2309251427 - Root.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1692885142710,
-          "path": "Nodes/ND - 2308230006 - Origin (Archive).md"
         }
       ],
       "title": "Pins"
@@ -81,8 +76,8 @@
         },
         {
           "type": "search",
-          "ctime": 1692828026672,
-          "query": "file:(\"CV -\")",
+          "ctime": 1695840845691,
+          "query": "path:Canvases",
           "title": "Canvases"
         },
         {
