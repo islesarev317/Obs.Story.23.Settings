@@ -11,11 +11,9 @@
             "id": "493fd3624df76523",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Journal/JR - 2309272044 - Python ~ Pandas.md",
-                "mode": "preview",
-                "source": false
+                "file": "Nodes/ND - 2309251427 - Root.md"
               }
             }
           }
@@ -31,7 +29,7 @@
       {
         "id": "4d0108dc5c5c7701",
         "type": "tabs",
-        "dimension": 53.672985781990526,
+        "dimension": 43.009478672985786,
         "children": [
           {
             "id": "9f6a3908e07c0678",
@@ -64,7 +62,7 @@
       {
         "id": "1c9b3f5873b7dacf",
         "type": "tabs",
-        "dimension": 46.327014218009474,
+        "dimension": 56.99052132701422,
         "children": [
           {
             "id": "b2c01e09f9a3c5b5",
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 324.5
   },
   "right": {
     "id": "b72c096914b0850b",
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2309272044 - Python ~ Pandas.md",
+                "file": "Nodes/ND - 2309251427 - Root.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2309272044 - Python ~ Pandas.md",
+                "file": "Nodes/ND - 2309251427 - Root.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2309272044 - Python ~ Pandas.md"
+                "file": "Nodes/ND - 2309251427 - Root.md"
               }
             }
           }
@@ -159,36 +157,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "493fd3624df76523",
+  "active": "b2c01e09f9a3c5b5",
   "lastOpenFiles": [
+    "Stage/Untitled.md",
+    "Canvases/CV - 2308241515 - Achievements.canvas",
+    "Journal/JR - 2309272044 - Python ~ Pandas.md",
+    "Journal/JR - 2309061332 - Vimium (Chrome).md",
+    "Journal/JR - 2309151544 - The Thought ~ Obsidian.md",
+    "Journal/JR - 2308311354 - Ideas.md",
+    "Journal/JR - 2308291330 - All Countries.md",
+    "Journal/JR - 2309151723 - Habits.md",
+    "Journal/JR - 2308301117 - Daily Note.md",
+    "Journal/JR - 2308251426 - Relocate.md",
+    "Journal/JR - 2308241255 - Remainders.md",
+    "Journal/JR - 2309261255 - Travel.md",
     "Nodes/ND - 2309251427 - Root.md",
     "Nodes/ND - 2309251452 - Countries.md",
     "Nodes/ND - 2309272222 - Python.md",
     "Entities/Countries.md",
     "Entities/Root.md",
-    "Journal/JR - 2309151723 - Habits.md",
-    "Stage/Untitled.md",
     "Nodes/ND - 2308230006 - Origin (Archive).md",
-    "Journal/JR - 2308291330 - All Countries.md",
     "Nodes/ND - 2309271752 - Desk 1.md",
     "Nodes/ND - 2309251444 - Obsidian.md",
-    "Canvases/CV - 2308241515 - Achievements.canvas",
     "Canvases/Untitled.canvas",
-    "Journal/JR - 2309272044 - Python ~ Pandas.md",
-    "Journal/JR - 2309261255.md",
     "Excalidraw/EX - 2308301415 - World Map.md",
     "Inner/IN - 230924140325.md",
     "Inner/IN - 230924140131.md",
     "Inner/IN - 230924140221.md",
     "Inner/IN - 230924140032.md",
     "Inner/IN - 230924140539.md",
-    "Inner/IN - 230924140529.md",
-    "Inner/IN - 230924140049.md",
-    "Inner/IN - 230924140000.md",
-    "Inner/IN - 230924140449.md",
-    "Inner/IN - 230924140639.md",
-    "Inner/IN - 230924140702.md",
-    "Inner/IN - 230924140427.md",
     "Attachments/Pasted image 20230906180204.png",
     "Attachments/Pasted image 20230907141148.png",
     "Attachments/Pasted image 20230926190334.png",

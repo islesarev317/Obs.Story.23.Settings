@@ -2,30 +2,20 @@
   "items": [
     {
       "type": "group",
-      "ctime": 1694430952821,
+      "ctime": 1692872663359,
       "items": [
-        {
-          "type": "file",
-          "ctime": 1695641346465,
-          "path": "Nodes/ND - 2309251427 - Root.md"
-        },
         {
           "type": "file",
           "ctime": 1694430975401,
-          "path": "Canvases/CV - 2308241515 - Achievements.canvas"
+          "path": "Canvases/CV - 2308241515 - Achievements.canvas",
+          "title": "CV - Achievements"
         },
         {
           "type": "file",
-          "ctime": 1694431104967,
-          "path": "Stage/Untitled.md"
-        }
-      ],
-      "title": "Desk"
-    },
-    {
-      "type": "group",
-      "ctime": 1692872663359,
-      "items": [
+          "ctime": 1695641346465,
+          "path": "Nodes/ND - 2309251427 - Root.md",
+          "title": "ND - Root"
+        },
         {
           "type": "search",
           "ctime": 1692828320798,
