@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f1bbc97e19376a89",
+        "id": "5906d8d2119ef4e9",
         "type": "tabs",
         "children": [
           {
-            "id": "1d20c66f4d41df1b",
+            "id": "b4fa9071ae3662d8",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Nodes/ND - 2309272222 - Python.md"
+                "file": "Nodes/ND - 2309251427 - Root.md"
               }
             }
           }
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 404.5
   },
   "right": {
     "id": "b72c096914b0850b",
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nodes/ND - 2309272222 - Python.md",
+                "file": "Nodes/ND - 2309251427 - Root.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nodes/ND - 2309272222 - Python.md",
+                "file": "Nodes/ND - 2309251427 - Root.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nodes/ND - 2309272222 - Python.md"
+                "file": "Nodes/ND - 2309251427 - Root.md"
               }
             }
           }
@@ -156,21 +156,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ce10a9068dcdc1d",
+  "active": "b4fa9071ae3662d8",
   "lastOpenFiles": [
     "Nodes/ND - 2309271752 - Desk 1.md",
+    "Nodes/ND - 2309251427 - Root.md",
+    "Journal/JR - 2310011347 - Typing.md",
+    "Nodes/ND - 2309272222 - Python.md",
+    "Groups/GR - 2310032055 - Python.md",
+    "Attachments/Pasted Image 20231003203142_717.png",
+    "Journal/JR - 2310021650 - Samurai Champloo.md",
+    "Journal/JR - 2310012159 - Jupyter Notebook ~ Install.md",
+    "Journal/JR - 2310021153 - Linux ~ Free space in root.md",
+    "Canvases/Untitled.canvas",
     "Canvases/CV - 2308241515 - Achievements.canvas",
+    "Attachments/Pasted Image 20231003203549_815.png",
+    "Attachments/Pasted Image 20231003203519_806.png",
+    "Nodes/ND - 2309251452 - Countries.md",
+    "Attachments/Pasted Image 20231003203344_792.png",
+    "Attachments/Pasted Image 20231003203035_638.png",
     "Journal/JR - 2309272044 - Python ~ Pandas.md",
     "Attachments/notebookPandasEdu.pdf",
     "Stage/Untitled 2.md",
-    "Journal/JR - 2310012159 - Jupyter Notebook ~ Install.md",
     "Inner/IN - 230928142217.md",
     "Inner/IN - 230928214605.md",
     "Inner/IN - 230928182942.md",
-    "Journal/JR - 2310021650 - Samurai Champloo.md",
     "Journal/JR - 2310021648.md",
     "Attachments/Pasted image 20231002164815.png",
-    "Journal/JR - 2310021153 - Linux ~ Free space in root.md",
     "Journal/JR - 2308291330 - All Countries.md",
     "Journal/JR - 2308192123 - Townscaper (Game).md",
     "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
@@ -179,26 +190,15 @@
     "Journal/JR - 2309061332 - Vimium (Chrome).md",
     "Journal/JR - 2308311354 - Ideas.md",
     "Journal/JR - 2309151723 - Habits.md",
-    "Journal/JR - 2310011347 - Typing.md",
     "Inner/IN - 2308171532.md",
     "Journal/JR - 2309291736 - Food.md",
-    "Nodes/ND - 2309251427 - Root.md",
-    "Journal/JR - 2309281949 - GitHub ~ 2FA.md",
-    "Nodes/ND - 2309272222 - Python.md",
     "Attachments/Pasted image 20230928195102.png",
-    "Nodes/ND - 2309251452 - Countries.md",
     "Canvases/CV - 2308192121 - Journal - A1.canvas",
-    "Canvases/Untitled.canvas",
     "Attachments/Pasted image 20230906180204.png",
     "Attachments/Pasted image 20230907141148.png",
     "Attachments/Pasted image 20230926190334.png",
-    "Attachments/Pasted image 20230925181037.png",
     "Entities",
     "Canvases/Untitled 1.canvas",
-    "Attachments/mqdefault_6s.webp",
-    "Attachments/Pasted image 20230922142100.png",
-    "Attachments/Pasted image 20230922124521.png",
-    "Attachments/Pasted image 20230922124517.png",
     "Attachments/Без имени 1.html",
     "Attachments/lu6541quvab1.tmp",
     "Attachments/Без имени 1.csv",
