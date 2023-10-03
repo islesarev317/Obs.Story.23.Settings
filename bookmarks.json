@@ -12,10 +12,23 @@
         },
         {
           "type": "file",
+          "ctime": 1695846626611,
+          "path": "Nodes/ND - 2309271752 - Desk 1.md",
+          "title": "ND - Desk 1"
+        },
+        {
+          "type": "file",
           "ctime": 1695641346465,
           "path": "Nodes/ND - 2309251427 - Root.md",
           "title": "ND - Root"
-        },
+        }
+      ],
+      "title": "Pins"
+    },
+    {
+      "type": "group",
+      "ctime": 1696165289830,
+      "items": [
         {
           "type": "search",
           "ctime": 1692828320798,
@@ -34,7 +47,7 @@
           "query": "tag:#Journal/Archive"
         }
       ],
-      "title": "Pins"
+      "title": "Journal"
     },
     {
       "type": "group",
