@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Nodes/ND - 2309251427 - Root.md"
+                "file": "Nodes/ND - 2309271752 - Desk 1.md"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nodes/ND - 2309251427 - Root.md",
+                "file": "Nodes/ND - 2309271752 - Desk 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nodes/ND - 2309251427 - Root.md",
+                "file": "Nodes/ND - 2309271752 - Desk 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nodes/ND - 2309251427 - Root.md"
+                "file": "Nodes/ND - 2309271752 - Desk 1.md"
               }
             }
           }
@@ -156,25 +156,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b4fa9071ae3662d8",
+  "active": "6ce10a9068dcdc1d",
   "lastOpenFiles": [
+    "Nodes/ND - 2309272222 - Python.md",
     "Nodes/ND - 2309271752 - Desk 1.md",
     "Nodes/ND - 2309251427 - Root.md",
-    "Journal/JR - 2310011347 - Typing.md",
-    "Nodes/ND - 2309272222 - Python.md",
     "Groups/GR - 2310032055 - Python.md",
-    "Attachments/Pasted Image 20231003203142_717.png",
-    "Journal/JR - 2310021650 - Samurai Champloo.md",
+    "Nodes/ND - 2309251444 - Obsidian.md",
+    "Nodes/ND - 2309251452 - Countries.md",
+    "Journal/JR - 2309281949 - GitHub ~ 2FA.md",
+    "Journal/JR - 2309291736 - Food.md",
+    "Journal/JR - 2310011347 - Typing.md",
     "Journal/JR - 2310012159 - Jupyter Notebook ~ Install.md",
     "Journal/JR - 2310021153 - Linux ~ Free space in root.md",
+    "Journal/JR - 2309151723 - Habits.md",
+    "Journal/JR - 2309272044 - Python ~ Pandas.md",
+    "Attachments/Pasted Image 20231003203142_717.png",
+    "Journal/JR - 2310021650 - Samurai Champloo.md",
     "Canvases/Untitled.canvas",
     "Canvases/CV - 2308241515 - Achievements.canvas",
     "Attachments/Pasted Image 20231003203549_815.png",
     "Attachments/Pasted Image 20231003203519_806.png",
-    "Nodes/ND - 2309251452 - Countries.md",
     "Attachments/Pasted Image 20231003203344_792.png",
     "Attachments/Pasted Image 20231003203035_638.png",
-    "Journal/JR - 2309272044 - Python ~ Pandas.md",
     "Attachments/notebookPandasEdu.pdf",
     "Stage/Untitled 2.md",
     "Inner/IN - 230928142217.md",
@@ -189,9 +193,6 @@
     "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
     "Journal/JR - 2309061332 - Vimium (Chrome).md",
     "Journal/JR - 2308311354 - Ideas.md",
-    "Journal/JR - 2309151723 - Habits.md",
-    "Inner/IN - 2308171532.md",
-    "Journal/JR - 2309291736 - Food.md",
     "Attachments/Pasted image 20230928195102.png",
     "Canvases/CV - 2308192121 - Journal - A1.canvas",
     "Attachments/Pasted image 20230906180204.png",
