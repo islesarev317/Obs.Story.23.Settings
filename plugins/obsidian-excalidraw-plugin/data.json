@@ -74,6 +74,40 @@
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.20",
     "libraryItems": [
       {
+        "id": "eRQxjuwVHOTfaiTCCCh_2",
+        "status": "unpublished",
+        "elements": [
+          {
+            "type": "ellipse",
+            "version": 793,
+            "versionNonce": 1782151222,
+            "isDeleted": false,
+            "id": "GnTrmz0BK1xvlg1u-c9rF",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "dashed",
+            "roughness": 0,
+            "opacity": 100,
+            "angle": 0,
+            "x": -2197.078273861691,
+            "y": -727.2781868865928,
+            "strokeColor": "#808080",
+            "backgroundColor": "#262626",
+            "width": 471.37077240251074,
+            "height": 450.2291301499066,
+            "seed": 1345105910,
+            "groupIds": [],
+            "frameId": null,
+            "roundness": null,
+            "boundElements": [],
+            "updated": 1696612033179,
+            "link": null,
+            "locked": false
+          }
+        ],
+        "created": 1696612038545
+      },
+      {
         "id": "mSeXXUyE-mQVaw1RFAbAf",
         "status": "unpublished",
         "elements": [
