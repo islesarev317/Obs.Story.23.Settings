@@ -21,7 +21,7 @@
   "dynamicStyling": "none",
   "isLeftHanded": false,
   "iframeMatchExcalidrawTheme": false,
-  "matchTheme": true,
+  "matchTheme": false,
   "matchThemeAlways": false,
   "matchThemeTrigger": false,
   "defaultMode": "normal",
