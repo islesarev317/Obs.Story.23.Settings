@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "019145fdb85a18f9",
+        "id": "163d3dcf9d3bb23f",
         "type": "tabs",
         "children": [
           {
-            "id": "3263ffde972db6b1",
+            "id": "032c1bd2a921bc7b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Nodes/ND - 2309271752 - Desk 1.md"
+                "file": "Inner/IN - 231005200633.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c66e2abde90608fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stage/Untitled 3.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -29,7 +43,7 @@
       {
         "id": "4d0108dc5c5c7701",
         "type": "tabs",
-        "dimension": 57.16034271725826,
+        "dimension": 61.19951040391677,
         "children": [
           {
             "id": "9f6a3908e07c0678",
@@ -62,7 +76,7 @@
       {
         "id": "1c9b3f5873b7dacf",
         "type": "tabs",
-        "dimension": 42.83965728274174,
+        "dimension": 38.80048959608323,
         "children": [
           {
             "id": "b2c01e09f9a3c5b5",
@@ -76,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 410.5
   },
   "right": {
     "id": "b72c096914b0850b",
@@ -92,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nodes/ND - 2309271752 - Desk 1.md",
+                "file": "Inner/IN - 231005200633.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nodes/ND - 2309271752 - Desk 1.md",
+                "file": "Inner/IN - 231005200633.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,12 +146,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nodes/ND - 2309271752 - Desk 1.md"
+                "file": "Inner/IN - 231005200633.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -157,40 +171,42 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3263ffde972db6b1",
+  "active": "032c1bd2a921bc7b",
   "lastOpenFiles": [
-    "Canvases/CV - 2308241515 - Achievements.canvas",
-    "Nodes/ND - 2309271752 - Desk 1.md",
-    "Nodes/ND - 2310041955 - Git.md",
-    "Journal/JR - 2310011347 - Typing.md",
-    "Stage/Untitled 3.md",
     "Journal/JR - 2310041913 - Git.md",
-    "Nodes/ND - 2309251427 - Root.md",
-    "Nodes/ND - 2309272222 - Python.md",
+    "Journal/JR - 2310061536 - Vim ~ noundofile.md",
+    "Inner/IN - 2308232032.md",
+    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
+    "Inner/IN - 231006175337.md",
+    "Journal/JR - 2308311354 - Ideas.md",
+    "Journal/JR - 2309061332 - Vimium (Chrome).md",
+    "Inner/IN - 231007003716.md",
+    "Inner/IN - 231006203049.md",
+    "Excalidraw/EX - 2310061525.md",
+    "Inner/IN - 231006173747.md",
+    "Inner/IN - 231006205719.md",
+    "Inner/IN - 231005200633.md",
+    "Inner/IN - 2308232016.md",
+    "Inner/IN - 2308231955.md",
+    "Journal/JR - 2308291330 - All Countries.md",
+    "Inner/IN - 2309041846.md",
+    "Excalidraw/EX - 2308301415 - World Map.md",
+    "Inner/IN - 231005204809.md",
+    "Stage/Untitled 3.md",
+    "Inner/IN - 2308231455.md",
+    "Inner/IN - 2308171532.md",
+    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
+    "Inner/IN - 2308201546.md",
+    "Inner/IN - 2308201524.md",
+    "Inner/IN - 231007004428.md",
+    "Attachments/SWTM-2088_Atlassian-Git-Cheatsheet.pdf",
+    "Canvases/CV - 2310042336 - Log.canvas",
+    "Canvases/CV - 2308241515 - Achievements.canvas",
     "Canvases/CV - 2310041743 - Some Openings.canvas",
-    "Stage/Untitled 2.md",
-    "Canvases/CV - 2308192121 - Journal - A1.canvas",
+    "Canvases/CV - 2308192121 - Journal ~ A1.canvas",
     "Attachments/Pasted image 20231004185221.png",
     "Attachments/Pasted image 20231004183546.png",
-    "Canvases/Untitled.canvas",
-    "Journal/JR - 2310021650 - Samurai Champloo.md",
     "Attachments/Pasted image 20231004182457.png",
-    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
-    "Journal/JR - 2308201534 - Obsidian ~ Version.md",
-    "Journal/JR - 2308192123 - Townscaper (Game).md",
-    "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
-    "Journal/JR - 2308171506 - Git ~ Change Remote.md",
-    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
-    "Nodes/ND - 2309251452 - Countries.md",
-    "Nodes/ND - 2309251444 - Obsidian.md",
-    "Journal/JR - 2309291736 - Food.md",
-    "Journal/JR - 2309151723 - Habits.md",
-    "Journal/JR - 2308291330 - All Countries.md",
-    "Groups/GR - 2310032055 - Python.md",
-    "Journal/JR - 2309281949 - GitHub ~ 2FA.md",
-    "Journal/JR - 2310012159 - Jupyter Notebook ~ Install.md",
-    "Journal/JR - 2310021153 - Linux ~ Free space in root.md",
-    "Journal/JR - 2309272044 - Python ~ Pandas.md",
     "Attachments/Pasted Image 20231003203142_717.png",
     "Attachments/Pasted Image 20231003203549_815.png",
     "Attachments/Pasted Image 20231003203519_806.png",
@@ -212,7 +228,6 @@
     "Ribbons/RB - 230818 - Box > A.canvas",
     "Attic",
     "Groups",
-    "Inner",
     "Ribbons/RB - 230819 - Box.A.canvas"
   ]
 }
