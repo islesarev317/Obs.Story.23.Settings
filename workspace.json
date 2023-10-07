@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inner/IN - 231005200633.md",
+                "file": "Journal/JR - 2310041913 - Git.md",
                 "mode": "preview",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inner/IN - 231005200633.md",
+                "file": "Journal/JR - 2310041913 - Git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inner/IN - 231005200633.md",
+                "file": "Journal/JR - 2310041913 - Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inner/IN - 231005200633.md"
+                "file": "Journal/JR - 2310041913 - Git.md"
               }
             }
           }
@@ -173,10 +173,17 @@
   },
   "active": "032c1bd2a921bc7b",
   "lastOpenFiles": [
+    "Inner/IN - 231005200633.md",
     "Journal/JR - 2310041913 - Git.md",
-    "Journal/JR - 2310061536 - Vim ~ noundofile.md",
-    "Inner/IN - 2308232032.md",
     "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
+    "Inner/IN - 2308232032.md",
+    "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
+    "Journal/JR - 2308171506 - Git ~ Change Remote.md",
+    "Journal/JR - 2308291330 - All Countries.md",
+    "Journal/JR - 2308201534 - Obsidian ~ Version.md",
+    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
+    "Inner/IN - 2308231955.md",
+    "Journal/JR - 2310061536 - Vim ~ noundofile.md",
     "Inner/IN - 231006175337.md",
     "Journal/JR - 2308311354 - Ideas.md",
     "Journal/JR - 2309061332 - Vimium (Chrome).md",
@@ -185,20 +192,13 @@
     "Excalidraw/EX - 2310061525.md",
     "Inner/IN - 231006173747.md",
     "Inner/IN - 231006205719.md",
-    "Inner/IN - 231005200633.md",
     "Inner/IN - 2308232016.md",
-    "Inner/IN - 2308231955.md",
-    "Journal/JR - 2308291330 - All Countries.md",
     "Inner/IN - 2309041846.md",
     "Excalidraw/EX - 2308301415 - World Map.md",
     "Inner/IN - 231005204809.md",
     "Stage/Untitled 3.md",
     "Inner/IN - 2308231455.md",
     "Inner/IN - 2308171532.md",
-    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
-    "Inner/IN - 2308201546.md",
-    "Inner/IN - 2308201524.md",
-    "Inner/IN - 231007004428.md",
     "Attachments/SWTM-2088_Atlassian-Git-Cheatsheet.pdf",
     "Canvases/CV - 2310042336 - Log.canvas",
     "Canvases/CV - 2308241515 - Achievements.canvas",
