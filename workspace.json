@@ -11,9 +11,11 @@
             "id": "c9a30fe6cc14cd32",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Nodes/ND - 2309251427 - Root.md"
+                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -47,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Journal/Recent",
+                "query": "tag:#Journal/A1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nodes/ND - 2309251427 - Root.md",
+                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nodes/ND - 2309251427 - Root.md",
+                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nodes/ND - 2309251427 - Root.md"
+                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md"
               }
             }
           }
@@ -159,14 +161,17 @@
   },
   "active": "c9a30fe6cc14cd32",
   "lastOpenFiles": [
-    "Nodes/ND - 2309271752 - Desk 1.md",
-    "Nodes/ND - 2309251427 - Root.md",
     "Journal/JR - 2310041913 - Git.md",
+    "Journal/JR - 2310061536 - Vim ~ noundofile.md",
+    "Nodes/ND - 2309271752 - Desk 1.md",
+    "Canvases/CV - 2310042336 - Log.canvas",
     "Inner/IN - 231005200633.md",
+    "Journal/JR - 2310021650 - Samurai Champloo.md",
+    "Inner/IN - 2308232032.md",
+    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
+    "Nodes/ND - 2309251427 - Root.md",
     "Journal/JR - 2310012159 - Jupyter Notebook ~ Install.md",
     "Journal/JR - 2310011347 - Typing.md",
-    "Journal/JR - 2310061536 - Vim ~ noundofile.md",
-    "Canvases/CV - 2310042336 - Log.canvas",
     "Canvases/CV - 2308192121 - Journal ~ A1.canvas",
     "Canvases/CV - 2308241515 - Achievements.canvas",
     "Canvases/CV - 2310041743 - Some Openings.canvas",
@@ -177,15 +182,12 @@
     "Inner/IN - 231006203049.md",
     "Inner/IN - 231006175337.md",
     "Inner/IN - 231005204809.md",
-    "Journal/JR - 2310021650 - Samurai Champloo.md",
     "Journal/JR - 2309281949 - GitHub ~ 2FA.md",
     "Inner/IN - 231006205719.md",
     "Inner/IN - 231007004428.md",
     "Inner/IN - 231006173747.md",
     "Journal/JR - 2309151544 - The Thought ~ Obsidian.md",
     "Journal/JR - 2309291736 - Food.md",
-    "Inner/IN - 2308232032.md",
-    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
     "Journal/JR - 2310021153 - Linux ~ Free space in root.md",
     "Stage/Untitled 3.md",
     "Excalidraw/EX - 2310061525.md",

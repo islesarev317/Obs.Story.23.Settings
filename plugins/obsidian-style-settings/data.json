@@ -50,8 +50,9 @@
   "anuppuccin-theme-settings@@anp-h2-divider": false,
   "anuppuccin-theme-settings@@ctp-custom-yellow@@dark": "#DCAA79",
   "anuppuccin-theme-settings@@ctp-custom-base@@dark": "#2C2C2C",
-  "anuppuccin-theme-settings@@ctp-custom-surface0@@dark": "#464646",
+  "anuppuccin-theme-settings@@ctp-custom-surface0@@dark": "#525252",
   "anuppuccin-theme-settings@@h4-font": "serif",
   "anuppuccin-theme-settings@@h5-font": "serif",
-  "anuppuccin-theme-settings@@h6-font": "serif"
+  "anuppuccin-theme-settings@@h6-font": "serif",
+  "anuppuccin-theme-settings@@ctp-custom-overlay2@@dark": "#BFBFBF"
 }
