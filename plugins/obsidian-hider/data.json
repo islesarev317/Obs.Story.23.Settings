@@ -9,6 +9,7 @@
   "hideSearchSuggestions": false,
   "hideSearchCounts": true,
   "hideInstructions": false,
-  "hideMeta": false,
-  "hideVault": true
+  "hidePropertiesReading": true,
+  "hideVault": true,
+  "hideMeta": false
 }
