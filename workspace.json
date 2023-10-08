@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "163d3dcf9d3bb23f",
+        "id": "58a6310aeaae96d4",
         "type": "tabs",
         "children": [
           {
-            "id": "032c1bd2a921bc7b",
+            "id": "c9a30fe6cc14cd32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Inner/IN - 231005200633.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c66e2abde90608fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stage/Untitled 3.md",
-                "mode": "source",
-                "source": false
+                "file": "Nodes/ND - 2309251427 - Root.md"
               }
             }
           }
@@ -90,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 399.5
   },
   "right": {
     "id": "b72c096914b0850b",
@@ -106,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inner/IN - 231005200633.md",
+                "file": "Nodes/ND - 2309251427 - Root.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inner/IN - 231005200633.md",
+                "file": "Nodes/ND - 2309251427 - Root.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inner/IN - 231005200633.md"
+                "file": "Nodes/ND - 2309251427 - Root.md"
               }
             }
           }
@@ -171,39 +157,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "032c1bd2a921bc7b",
+  "active": "c9a30fe6cc14cd32",
   "lastOpenFiles": [
+    "Nodes/ND - 2309271752 - Desk 1.md",
+    "Nodes/ND - 2309251427 - Root.md",
     "Journal/JR - 2310041913 - Git.md",
-    "Inner/IN - 231006203049.md",
-    "Journal/JR - 2309151544 - The Thought ~ Obsidian.md",
-    "Journal/JR - 2310011347 - Typing.md",
-    "Journal/JR - 2310012159 - Jupyter Notebook ~ Install.md",
-    "Journal/JR - 2309291736 - Food.md",
-    "Inner/IN - 231006173747.md",
-    "Inner/IN - 231006175337.md",
-    "Inner/IN - 231005204809.md",
     "Inner/IN - 231005200633.md",
-    "Inner/IN - 2308232032.md",
-    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
-    "Journal/JR - 2309272044 - Python ~ Pandas.md",
-    "Journal/JR - 2309281949 - GitHub ~ 2FA.md",
-    "Journal/JR - 2310021153 - Linux ~ Free space in root.md",
-    "Journal/JR - 2310021650 - Samurai Champloo.md",
-    "Inner/IN - 231007004428.md",
-    "Inner/IN - 231007003716.md",
-    "Stage/Untitled 3.md",
-    "Excalidraw/EX - 2310061525.md",
-    "Journal/JR - 2308311354 - Ideas.md",
-    "Journal/JR - 2308291330 - All Countries.md",
+    "Journal/JR - 2310012159 - Jupyter Notebook ~ Install.md",
+    "Journal/JR - 2310011347 - Typing.md",
     "Journal/JR - 2310061536 - Vim ~ noundofile.md",
-    "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
-    "Journal/JR - 2308171506 - Git ~ Change Remote.md",
-    "Journal/JR - 2308201534 - Obsidian ~ Version.md",
-    "Attachments/SWTM-2088_Atlassian-Git-Cheatsheet.pdf",
     "Canvases/CV - 2310042336 - Log.canvas",
+    "Canvases/CV - 2308192121 - Journal ~ A1.canvas",
     "Canvases/CV - 2308241515 - Achievements.canvas",
     "Canvases/CV - 2310041743 - Some Openings.canvas",
-    "Canvases/CV - 2308192121 - Journal ~ A1.canvas",
+    "Journal/JR - 2309272044 - Python ~ Pandas.md",
+    "Inner/IN - 231007003716.md",
+    "Attachments/SWTM-2088_Atlassian-Git-Cheatsheet.pdf",
+    "Excalidraw/EX - 2310061244.md",
+    "Inner/IN - 231006203049.md",
+    "Inner/IN - 231006175337.md",
+    "Inner/IN - 231005204809.md",
+    "Journal/JR - 2310021650 - Samurai Champloo.md",
+    "Journal/JR - 2309281949 - GitHub ~ 2FA.md",
+    "Inner/IN - 231006205719.md",
+    "Inner/IN - 231007004428.md",
+    "Inner/IN - 231006173747.md",
+    "Journal/JR - 2309151544 - The Thought ~ Obsidian.md",
+    "Journal/JR - 2309291736 - Food.md",
+    "Inner/IN - 2308232032.md",
+    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
+    "Journal/JR - 2310021153 - Linux ~ Free space in root.md",
+    "Stage/Untitled 3.md",
+    "Excalidraw/EX - 2310061525.md",
     "Attachments/Pasted image 20231004185221.png",
     "Attachments/Pasted image 20231004183546.png",
     "Attachments/Pasted image 20231004182457.png",
