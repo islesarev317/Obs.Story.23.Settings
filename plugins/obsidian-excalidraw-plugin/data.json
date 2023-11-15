@@ -1903,7 +1903,9 @@
   "latexBoilerplate": "\\color{blue}",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
-  "pinnedScripts": [],
+  "pinnedScripts": [
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md"
+  ],
   "customPens": [
     {
       "type": "default",
