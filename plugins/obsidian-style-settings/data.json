@@ -7,7 +7,6 @@
   "anuppuccin-theme-settings@@anp-layout-select": "anp-border-layout",
   "anuppuccin-theme-settings@@anp-bg-fix": false,
   "anuppuccin-theme-settings@@anp-hide-borders": false,
-  "anuppuccin-theme-settings@@ctp-custom-crust@@dark": "#532C48",
   "anuppuccin-theme-settings@@anp-active-line": "anp-no-highlight",
   "anuppuccin-theme-settings@@anp-code-bg-color@@dark": "#202121",
   "anuppuccin-theme-settings@@anp-codeblock-numbers": false,
@@ -54,5 +53,6 @@
   "anuppuccin-theme-settings@@h4-font": "serif",
   "anuppuccin-theme-settings@@h5-font": "serif",
   "anuppuccin-theme-settings@@h6-font": "serif",
-  "anuppuccin-theme-settings@@ctp-custom-overlay2@@dark": "#BFBFBF"
+  "anuppuccin-theme-settings@@ctp-custom-overlay2@@dark": "#BFBFBF",
+  "anuppuccin-theme-settings@@ctp-custom-crust@@dark": "#3E3E3E"
 }

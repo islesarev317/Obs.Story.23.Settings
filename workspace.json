@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "58a6310aeaae96d4",
+        "id": "dacf6c0fb2fe8277",
         "type": "tabs",
         "children": [
           {
-            "id": "c9a30fe6cc14cd32",
+            "id": "fc559c301acd32b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md",
+                "file": "Groups/GR - 2311222003 - English.md",
                 "mode": "preview",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "4d0108dc5c5c7701",
         "type": "tabs",
-        "dimension": 61.19951040391677,
+        "dimension": 62.4235006119951,
         "children": [
           {
             "id": "9f6a3908e07c0678",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Journal/A1",
+                "query": "tag:#Journal/Recent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -64,7 +64,7 @@
       {
         "id": "1c9b3f5873b7dacf",
         "type": "tabs",
-        "dimension": 38.80048959608323,
+        "dimension": 37.5764993880049,
         "children": [
           {
             "id": "b2c01e09f9a3c5b5",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md",
+                "file": "Groups/GR - 2311222003 - English.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md",
+                "file": "Groups/GR - 2311222003 - English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,17 +134,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md"
+                "file": "Groups/GR - 2311222003 - English.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,38 +158,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c9a30fe6cc14cd32",
+  "active": "fc559c301acd32b6",
   "lastOpenFiles": [
-    "Journal/JR - 2310041913 - Git.md",
-    "Journal/JR - 2310061536 - Vim ~ noundofile.md",
-    "Nodes/ND - 2309271752 - Desk 1.md",
+    "Journal/JR - 2310261317 - Introduction in English.md",
+    "Groups/GR - 2311222003 - English.md",
+    "Groups/GR - 2310032055 - Python.md",
+    "Stage/Untitled 5.md",
+    "Journal/JR - 2311061407 - The Ending of English.md",
+    "Journal/JR - 2310181919 - Little, Few (English).md",
+    "Journal/JR - 2310241614 - Harry Potter Audiobooks.md",
+    "Journal/JR - 2310292151 - Cellural Automata.md",
+    "Journal/JR - 2310292308 - OK English (A2).md",
     "Canvases/CV - 2310042336 - Log.canvas",
-    "Inner/IN - 231005200633.md",
-    "Journal/JR - 2310021650 - Samurai Champloo.md",
-    "Inner/IN - 2308232032.md",
-    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
+    "Nodes/ND - 2309271752 - Desk 1.md",
+    "Journal/JR - 2310131715 - Listening Time (A1).md",
+    "Journal/JR - 2310112036 - Pomodoro.md",
     "Nodes/ND - 2309251427 - Root.md",
-    "Journal/JR - 2310012159 - Jupyter Notebook ~ Install.md",
-    "Journal/JR - 2310011347 - Typing.md",
+    "Inner/IN - 231120225540.md",
+    "Excalidraw/EX - 2311211716.md",
+    "Stage/Untitled 4.md",
+    "Excalidraw/EX - 2310292219.md",
+    "Nodes/ND - 2309272222 - Python.md",
+    "Nodes/ND - 2311212121 - Knowledge.md",
+    "Nodes/ND - 2311212106 - 5 Elements.md",
+    "Journal/JR - 2308291330 - All Countries.md",
+    "Excalidraw/EX - 2308301415 - World Map.md",
+    "Excalidraw/EX - 2311201700.md",
+    "Journal/JR - 2311211802 - Resume.md",
+    "Journal/JR - 2311201622 - Small Talk.md",
+    "Journal/JR - 2310041913 - Git.md",
     "Canvases/CV - 2308192121 - Journal ~ A1.canvas",
     "Canvases/CV - 2308241515 - Achievements.canvas",
     "Canvases/CV - 2310041743 - Some Openings.canvas",
-    "Journal/JR - 2309272044 - Python ~ Pandas.md",
-    "Inner/IN - 231007003716.md",
     "Attachments/SWTM-2088_Atlassian-Git-Cheatsheet.pdf",
-    "Excalidraw/EX - 2310061244.md",
-    "Inner/IN - 231006203049.md",
-    "Inner/IN - 231006175337.md",
-    "Inner/IN - 231005204809.md",
-    "Journal/JR - 2309281949 - GitHub ~ 2FA.md",
-    "Inner/IN - 231006205719.md",
-    "Inner/IN - 231007004428.md",
-    "Inner/IN - 231006173747.md",
-    "Journal/JR - 2309151544 - The Thought ~ Obsidian.md",
-    "Journal/JR - 2309291736 - Food.md",
-    "Journal/JR - 2310021153 - Linux ~ Free space in root.md",
-    "Stage/Untitled 3.md",
-    "Excalidraw/EX - 2310061525.md",
     "Attachments/Pasted image 20231004185221.png",
     "Attachments/Pasted image 20231004183546.png",
     "Attachments/Pasted image 20231004182457.png",
