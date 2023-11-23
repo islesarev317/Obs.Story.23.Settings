@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stage/Untitled.md",
+                "file": "Journal/JR - 2311061407 - The Ending of English.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stage/Untitled.md",
+                "file": "Journal/JR - 2311061407 - The Ending of English.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stage/Untitled.md",
+                "file": "Journal/JR - 2311061407 - The Ending of English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stage/Untitled.md"
+                "file": "Journal/JR - 2311061407 - The Ending of English.md"
               }
             }
           }
@@ -159,8 +159,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ce10a9068dcdc1d",
+  "active": "1c4b10a7e745059f",
   "lastOpenFiles": [
+    "Stage/Untitled.md",
     "Journal/JR - 2310261317 - Introduction in English.md",
     "Journal/JR - 2310292308 - OK English (A2).md",
     "Journal/JR - 2310292151 - Cellural Automata.md",
@@ -187,7 +188,6 @@
     "Nodes/ND - 2309272222 - Python.md",
     "Nodes/ND - 2311212121 - Knowledge.md",
     "Nodes/ND - 2311212106 - 5 Elements.md",
-    "Excalidraw/EX - 2308301415 - World Map.md",
     "Canvases/CV - 2308192121 - Journal ~ A1.canvas",
     "Canvases/CV - 2308241515 - Achievements.canvas",
     "Canvases/CV - 2310041743 - Some Openings.canvas",
