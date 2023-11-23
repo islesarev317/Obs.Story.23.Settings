@@ -11,11 +11,9 @@
             "id": "1c4b10a7e745059f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Journal/JR - 2311061407 - The Ending of English.md",
-                "mode": "preview",
-                "source": false
+                "file": "Nodes/ND - 2309272222 - Python.md"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2311061407 - The Ending of English.md",
+                "file": "Nodes/ND - 2309272222 - Python.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2311061407 - The Ending of English.md",
+                "file": "Nodes/ND - 2309272222 - Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2311061407 - The Ending of English.md"
+                "file": "Nodes/ND - 2309272222 - Python.md"
               }
             }
           }
@@ -161,11 +159,14 @@
   },
   "active": "1c4b10a7e745059f",
   "lastOpenFiles": [
+    "Nodes/ND - 2311212121 - Knowledge.md",
+    "Nodes/ND - 2311212106 - 5 Elements.md",
+    "Nodes/ND - 2309251427 - Root.md",
+    "Journal/JR - 2311061407 - The Ending of English.md",
     "Stage/Untitled.md",
     "Journal/JR - 2310261317 - Introduction in English.md",
     "Journal/JR - 2310292308 - OK English (A2).md",
     "Journal/JR - 2310292151 - Cellural Automata.md",
-    "Journal/JR - 2311061407 - The Ending of English.md",
     "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
     "Canvases/CV - 2310042336 - Log.canvas",
     "Groups/GR - 2310032055 - Python.md",
@@ -181,13 +182,10 @@
     "Nodes/ND - 2309271752 - Desk 1.md",
     "Journal/JR - 2310131715 - Listening Time (A1).md",
     "Journal/JR - 2310112036 - Pomodoro.md",
-    "Nodes/ND - 2309251427 - Root.md",
     "Excalidraw/EX - 2311211716.md",
     "Stage/Untitled 4.md",
     "Excalidraw/EX - 2310292219.md",
     "Nodes/ND - 2309272222 - Python.md",
-    "Nodes/ND - 2311212121 - Knowledge.md",
-    "Nodes/ND - 2311212106 - 5 Elements.md",
     "Canvases/CV - 2308192121 - Journal ~ A1.canvas",
     "Canvases/CV - 2308241515 - Achievements.canvas",
     "Canvases/CV - 2310041743 - Some Openings.canvas",
