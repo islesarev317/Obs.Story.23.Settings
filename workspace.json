@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "445c92ed0452c8d7",
+        "id": "7fed6350770f0ee9",
         "type": "tabs",
         "children": [
           {
-            "id": "1c4b10a7e745059f",
+            "id": "b89ac8e1904b69dd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Nodes/ND - 2309272222 - Python.md"
+                "file": "Inner/IN - 231123181605.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -47,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Journal/A2",
+                "query": "tag:#Journal/Recent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nodes/ND - 2309272222 - Python.md",
+                "file": "Inner/IN - 231123181605.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nodes/ND - 2309272222 - Python.md",
+                "file": "Inner/IN - 231123181605.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nodes/ND - 2309272222 - Python.md"
+                "file": "Inner/IN - 231123181605.md"
               }
             }
           }
@@ -157,35 +159,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c4b10a7e745059f",
+  "active": "b89ac8e1904b69dd",
   "lastOpenFiles": [
+    "Journal/JR - 2311231813 - Python ADV-IT.md",
+    "Inner/IN - 231123181526.md",
+    "Inner/IN - 231123181545.md",
+    "Inner/IN - 231123181605.md",
+    "Nodes/ND - 2309272222 - Python.md",
     "Nodes/ND - 2311212121 - Knowledge.md",
+    "Nodes/ND - 2310092105 - English.md",
     "Nodes/ND - 2311212106 - 5 Elements.md",
     "Nodes/ND - 2309251427 - Root.md",
-    "Journal/JR - 2311061407 - The Ending of English.md",
-    "Stage/Untitled.md",
-    "Journal/JR - 2310261317 - Introduction in English.md",
-    "Journal/JR - 2310292308 - OK English (A2).md",
-    "Journal/JR - 2310292151 - Cellural Automata.md",
-    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
-    "Canvases/CV - 2310042336 - Log.canvas",
-    "Groups/GR - 2310032055 - Python.md",
-    "Groups/GR - 2311222003 - English.md",
-    "Inner/IN - 230924140449.md",
-    "Journal/JR - 2308291330 - All Countries.md",
-    "Inner/IN - 230924140529.md",
-    "Inner/IN - 231120225540.md",
-    "Nodes/ND - 2310092105 - English.md",
-    "Stage/Untitled 5.md",
-    "Journal/JR - 2310181919 - Little, Few (English).md",
-    "Journal/JR - 2310241614 - Harry Potter Audiobooks.md",
     "Nodes/ND - 2309271752 - Desk 1.md",
-    "Journal/JR - 2310131715 - Listening Time (A1).md",
-    "Journal/JR - 2310112036 - Pomodoro.md",
-    "Excalidraw/EX - 2311211716.md",
-    "Stage/Untitled 4.md",
-    "Excalidraw/EX - 2310292219.md",
-    "Nodes/ND - 2309272222 - Python.md",
+    "Nodes/ND - 2310292138 - Desk 2.md",
+    "Inner/IN - 231123181856.md",
+    "Inner/IN - 231123181844.md",
+    "Inner/IN - 231123181831.md",
+    "Inner/IN - 231123181820.md",
+    "Inner/IN - 231123181808.md",
+    "Inner/IN - 231123181757.md",
+    "Inner/IN - 231123181731.md",
+    "Inner/IN - 231123181717.md",
+    "Inner/IN - 231123181704.md",
+    "Inner/IN - 231123181651.md",
+    "Inner/IN - 231123181622.md",
+    "Journal/JR - 2310041913 - Git.md",
+    "Journal/JR - 2310061536 - Vim ~ noundofile.md",
+    "Journal/JR - 2310181919 - Little, Few (English).md",
+    "Journal/JR - 2311061407 - The Ending of English.md",
+    "Canvases/CV - 2310042336 - Log.canvas",
     "Canvases/CV - 2308192121 - Journal ~ A1.canvas",
     "Canvases/CV - 2308241515 - Achievements.canvas",
     "Canvases/CV - 2310041743 - Some Openings.canvas",
