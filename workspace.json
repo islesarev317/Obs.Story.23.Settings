@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groups/GR - 2310032055 - Python.md",
+                "file": "Stage/Untitled.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Groups/GR - 2310032055 - Python.md",
+                "file": "Stage/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Groups/GR - 2310032055 - Python.md",
+                "file": "Stage/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Groups/GR - 2310032055 - Python.md"
+                "file": "Stage/Untitled.md"
               }
             }
           }
@@ -159,23 +159,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c4b10a7e745059f",
+  "active": "6ce10a9068dcdc1d",
   "lastOpenFiles": [
-    "Groups/GR - 2311222003 - English.md",
+    "Journal/JR - 2310261317 - Introduction in English.md",
+    "Journal/JR - 2310292308 - OK English (A2).md",
+    "Journal/JR - 2310292151 - Cellural Automata.md",
     "Journal/JR - 2311061407 - The Ending of English.md",
+    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
+    "Canvases/CV - 2310042336 - Log.canvas",
+    "Groups/GR - 2310032055 - Python.md",
+    "Groups/GR - 2311222003 - English.md",
     "Inner/IN - 230924140449.md",
     "Journal/JR - 2308291330 - All Countries.md",
     "Inner/IN - 230924140529.md",
     "Inner/IN - 231120225540.md",
-    "Canvases/CV - 2310042336 - Log.canvas",
     "Nodes/ND - 2310092105 - English.md",
-    "Journal/JR - 2310261317 - Introduction in English.md",
-    "Groups/GR - 2310032055 - Python.md",
     "Stage/Untitled 5.md",
     "Journal/JR - 2310181919 - Little, Few (English).md",
     "Journal/JR - 2310241614 - Harry Potter Audiobooks.md",
-    "Journal/JR - 2310292151 - Cellural Automata.md",
-    "Journal/JR - 2310292308 - OK English (A2).md",
     "Nodes/ND - 2309271752 - Desk 1.md",
     "Journal/JR - 2310131715 - Listening Time (A1).md",
     "Journal/JR - 2310112036 - Pomodoro.md",
@@ -187,7 +188,6 @@
     "Nodes/ND - 2311212121 - Knowledge.md",
     "Nodes/ND - 2311212106 - 5 Elements.md",
     "Excalidraw/EX - 2308301415 - World Map.md",
-    "Excalidraw/EX - 2311201700.md",
     "Canvases/CV - 2308192121 - Journal ~ A1.canvas",
     "Canvases/CV - 2308241515 - Achievements.canvas",
     "Canvases/CV - 2310041743 - Some Openings.canvas",
