@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inner/IN - 231123181605.md",
+                "file": "Journal/JR - 2311232222 - NumPy ~ Tutorials.md",
                 "mode": "preview",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Journal/Recent",
+                "query": "tag:#Journal/A3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 439.5
   },
   "right": {
     "id": "b72c096914b0850b",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inner/IN - 231123181605.md",
+                "file": "Journal/JR - 2311232222 - NumPy ~ Tutorials.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inner/IN - 231123181605.md",
+                "file": "Journal/JR - 2311232222 - NumPy ~ Tutorials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inner/IN - 231123181605.md"
+                "file": "Journal/JR - 2311232222 - NumPy ~ Tutorials.md"
               }
             }
           }
@@ -161,48 +161,48 @@
   },
   "active": "b89ac8e1904b69dd",
   "lastOpenFiles": [
-    "Journal/JR - 2311231813 - Python ADV-IT.md",
-    "Inner/IN - 231123181526.md",
-    "Inner/IN - 231123181545.md",
-    "Inner/IN - 231123181605.md",
-    "Nodes/ND - 2309272222 - Python.md",
-    "Nodes/ND - 2311212121 - Knowledge.md",
-    "Nodes/ND - 2310092105 - English.md",
-    "Nodes/ND - 2311212106 - 5 Elements.md",
-    "Nodes/ND - 2309251427 - Root.md",
-    "Nodes/ND - 2309271752 - Desk 1.md",
-    "Nodes/ND - 2310292138 - Desk 2.md",
-    "Inner/IN - 231123181856.md",
-    "Inner/IN - 231123181844.md",
-    "Inner/IN - 231123181831.md",
-    "Inner/IN - 231123181820.md",
-    "Inner/IN - 231123181808.md",
-    "Inner/IN - 231123181757.md",
-    "Inner/IN - 231123181731.md",
-    "Inner/IN - 231123181717.md",
-    "Inner/IN - 231123181704.md",
-    "Inner/IN - 231123181651.md",
-    "Inner/IN - 231123181622.md",
-    "Journal/JR - 2310041913 - Git.md",
-    "Journal/JR - 2310061536 - Vim ~ noundofile.md",
-    "Journal/JR - 2310181919 - Little, Few (English).md",
-    "Journal/JR - 2311061407 - The Ending of English.md",
+    "Journal/JR - 2311231813 - Python ~ ADV-IT.md",
+    "Journal/JR - 2311231839 - Python ~ Metanit.md",
+    "Journal/JR - 2311232009 - Python ~ GUI.md",
+    "Journal/JR - 2311232017 - Python ~ WITH.md",
+    "Journal/JR - 2311232026 - Python ~ Immutable Types.md",
+    "Journal/JR - 2311232029 - Python ~ __call__.md",
+    "Journal/JR - 2311232032 - Python ~ Overloading.md",
+    "Journal/JR - 2311232036 - Python ~ Особенности наследования.md",
+    "Journal/JR - 2311232100 - Blender ~ Scripting.md",
+    "Journal/JR - 2311232118 - Blender ~ Geometry Nodes.md",
+    "Journal/JR - 2311232127 - Blender ~ Volume Scatter.md",
+    "Journal/JR - 2311232152 - NumPy ~ Getting Started.md",
+    "Journal/JR - 2311232200 - NumPy ~ Fundamentals.md",
+    "Journal/JR - 2311232221 - NumPy ~ Game of Life.md",
+    "Journal/JR - 2311232222 - NumPy ~ Tutorials.md",
+    "Journal/JR - 2309151544 - The Thought ~ Obsidian.md",
+    "Journal/JR - 2308311354 - Ideas.md",
+    "Journal/JR - 2308291330 - All Countries.md",
+    "Journal/JR - 2309291736 - Food.md",
+    "Journal/JR - 2310021650 - Samurai Champloo.md",
+    "Journal/JR - 2310111442 - Tiny Glade (Game).md",
+    "Journal/JR - 2310171533 - Tim Burton.md",
+    "Journal/JR - 2309061332 - Vimium (Chrome).md",
+    "Journal/JR - 2309281949 - GitHub ~ 2FA.md",
+    "Journal/JR - 2310021153 - Linux ~ Free space in root.md",
+    "Journal/JR - 2310011347 - Typing.md",
+    "Attachments/Pasted Image 20231123215601_803.png",
+    "Attachments/Pasted Image 20231123215601_800.png",
+    "Attachments/Pasted Image 20231123215601_781.png",
+    "Attachments/Pasted image 20230928195102.png",
+    "Attachments/Pasted Image 20230824152421_887.svg",
+    "Attachments/Pasted Image 20230801144535_858.png",
+    "Attachments/Pasted Image 20230801144420_830.png",
+    "Attachments/Pasted Image 20230727225710_647.png",
+    "Attachments/Pasted image 20230718172859.png",
+    "Attachments/Pasted image 20230626194333.png",
     "Canvases/CV - 2310042336 - Log.canvas",
     "Canvases/CV - 2308192121 - Journal ~ A1.canvas",
     "Canvases/CV - 2308241515 - Achievements.canvas",
     "Canvases/CV - 2310041743 - Some Openings.canvas",
     "Attachments/SWTM-2088_Atlassian-Git-Cheatsheet.pdf",
-    "Attachments/Pasted image 20231004185221.png",
-    "Attachments/Pasted image 20231004183546.png",
-    "Attachments/Pasted image 20231004182457.png",
-    "Attachments/Pasted Image 20231003203142_717.png",
-    "Attachments/Pasted Image 20231003203549_815.png",
-    "Attachments/Pasted Image 20231003203519_806.png",
-    "Attachments/Pasted Image 20231003203344_792.png",
-    "Attachments/Pasted Image 20231003203035_638.png",
     "Attachments/notebookPandasEdu.pdf",
-    "Attachments/Pasted image 20231002164815.png",
-    "Attachments/Pasted image 20230928195102.png",
     "Entities",
     "Attachments/Без имени 1.html",
     "Attachments/lu6541quvab1.tmp",
