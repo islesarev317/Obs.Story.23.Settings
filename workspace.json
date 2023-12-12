@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c6f6eba25dbafb35",
+        "id": "782d85b96510126a",
         "type": "tabs",
         "children": [
           {
-            "id": "5852edf592f30a93",
+            "id": "4a43102d81453fc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2311241323 - Python ~ Perspective.md",
+                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
                 "mode": "preview",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Journal/A3",
+                "query": "tag:#Journal/Recent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2311241323 - Python ~ Perspective.md",
+                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2311241323 - Python ~ Perspective.md",
+                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2311241323 - Python ~ Perspective.md"
+                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md"
               }
             }
           }
@@ -159,34 +159,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5852edf592f30a93",
+  "active": "4a43102d81453fc0",
   "lastOpenFiles": [
-    "Journal/JR - 2311061407 - The Ending of English.md",
-    "Journal/JR - 2310292151 - Cellular Automata.md",
-    "Journal/JR - 2311232222 - NumPy ~ Tutorials.md",
-    "Journal/JR - 2311241323 - Python ~ Perspective.md",
-    "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
-    "Journal/JR - 2311281931 - Asynchronous Python.md",
-    "Excalidraw/EX - 2311301953.md",
+    "Journal/JR - 2310292151 - Cellular Automata In Blender.md",
+    "Journal/JR - 2312111945dsffd.md",
+    "Excalidraw/EX - 2310292219.md",
+    "Journal/JR - 2312111224.md",
+    "Journal/JR - 2310021153 - Linux ~ Free space in root.md",
+    "Journal/JR - 2312101625.md",
     "Excalidraw/EX - 2311291620.md",
-    "Inner/IN - 231123181757.md",
-    "Journal/JR - 2311231813 - Python ~ ADV-IT.md",
-    "Inner/IN - 231123193233.md",
-    "Inner/IN - 231123193521.md",
-    "Inner/IN - 231123193509.md",
-    "Inner/IN - 231123193454.md",
+    "Journal/JR - 2312092116.md",
+    "Journal/JR - 2311232032 - Python ~ Overloading (__add__).md",
+    "Journal/JR - 2312091513.md",
+    "Inner/IN - 231123210246.md",
+    "Journal/JR - 2311232100 - Blender ~ Scripting.md",
+    "Journal/JR - 2312081545.md",
+    "Nodes/ND - 2309251427 - Root.md",
+    "Nodes/ND - 2309271752 - Desk 1.md",
+    "Nodes/ND - 2311212121 - Knowledge.md",
+    "Nodes/ND - 2309251452 - Countries.md",
+    "Journal/JR - 2312080014.md",
+    "Journal/JR - 2312072351.md",
     "Journal/JR - 2311231839 - Python ~ Metanit.md",
-    "Journal/JR - 2311232036 - Python ~ Особенности наследования.md",
-    "Journal/JR - 2311282352 - Chocolate Festival.md",
-    "Groups/GR - 2310032055 - Python.md",
-    "Inner/IN - 231024162915.md",
-    "Nodes/ND - 2311281738 - Essential Python.md",
-    "Excalidraw/EX - 2310191503_0.md",
-    "Excalidraw/EX - 2310191503.md",
-    "Excalidraw/EX - 2310061244.md",
-    "Excalidraw/EX - 2309251255.md",
-    "Excalidraw/EX - 2309151545.md",
-    "Excalidraw/EX - 2311232155.md",
+    "Inner/IN - 231123193233.md",
+    "Inner/IN - 231123193509.md",
+    "Journal/JR - 2312071934.md",
+    "Journal/JR - 2312071853.md",
+    "Journal/JR - 2312071731.md",
+    "Journal/JR - 2311232200 - NumPy ~ Fundamentals.md",
+    "Attachments/Pasted image 20231206165352.png",
     "Attachments/Pasted Image 20230830141823_507.svg",
     "Excalidraw/EX - 2311291620.svg",
     "Attachments/Pasted image 20230819235511.png",
@@ -198,7 +199,6 @@
     "Attachments/Pasted Image 20231123215601_800.png",
     "Attachments/Pasted Image 20231123215601_781.png",
     "Attachments/Pasted image 20230928195102.png",
-    "Attachments/Pasted Image 20230824152421_887.svg",
     "Canvases/CV - 2308192121 - Journal ~ A1.canvas",
     "Canvases/CV - 2308241515 - Achievements.canvas",
     "Canvases/CV - 2310041743 - Some Openings.canvas",
