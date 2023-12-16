@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Nodes/ND - 2310292138 - Recent.md"
+                "file": "Nodes/ND - 2309251427 - Root.md"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nodes/ND - 2310292138 - Recent.md",
+                "file": "Nodes/ND - 2309251427 - Root.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nodes/ND - 2310292138 - Recent.md",
+                "file": "Nodes/ND - 2309251427 - Root.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nodes/ND - 2310292138 - Recent.md"
+                "file": "Nodes/ND - 2309251427 - Root.md"
               }
             }
           }
@@ -159,10 +159,10 @@
   },
   "active": "023fc80f724472d1",
   "lastOpenFiles": [
-    "Nodes/ND - 2309251427 - Root.md",
     "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
-    "Canvases/CV - 2310042336 - Log.canvas",
+    "Nodes/ND - 2309251427 - Root.md",
     "Nodes/ND - 2310292138 - Recent.md",
+    "Canvases/CV - 2310042336 - Log.canvas",
     "Nodes/ND - 2311212121 - Knowledge.md",
     "Journal/JR - 2312151342.md",
     "Journal/JR - 2311281931 - Asynchronous Python.md",
