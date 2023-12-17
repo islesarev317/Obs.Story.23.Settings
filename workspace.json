@@ -31,7 +31,7 @@
       {
         "id": "4d0108dc5c5c7701",
         "type": "tabs",
-        "dimension": 71.57190635451505,
+        "dimension": 62.17870257037944,
         "children": [
           {
             "id": "9f6a3908e07c0678",
@@ -64,7 +64,7 @@
       {
         "id": "1c9b3f5873b7dacf",
         "type": "tabs",
-        "dimension": 28.428093645484946,
+        "dimension": 37.821297429620564,
         "children": [
           {
             "id": "b2c01e09f9a3c5b5",
@@ -161,9 +161,10 @@
   },
   "active": "594cc0421e2a843e",
   "lastOpenFiles": [
+    "Canvases/CV - 2310042336 - Log.canvas",
+    "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
     "Journal/JR - 2311281931 - Asynchronous Python.md",
     "Nodes/ND - 2309251427 - Root.md",
-    "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
     "Journal/JR - 2311232036 - Python ~ Особенности наследования.md",
     "Journal/JR - 2311232118 - Blender ~ Geometry Nodes.md",
     "Journal/JR - 2311232152 - NumPy ~ Getting Started.md",
@@ -178,7 +179,6 @@
     "Excalidraw/EX - 2312042221.md",
     "Excalidraw/EX - 2310292219.md",
     "Nodes/ND - 2310292138 - Recent.md",
-    "Canvases/CV - 2310042336 - Log.canvas",
     "Journal/JR - 2312151342.md",
     "Journal/JR - 2310021153 - Linux ~ Free space in root.md",
     "Journal/JR - 2311232127 - Blender ~ Volume Scatter.md",
@@ -189,7 +189,6 @@
     "Excalidraw/EX - 2311291620.md",
     "Journal/JR - 2312092116.md",
     "Journal/JR - 2311232032 - Python ~ Overloading (__add__).md",
-    "Journal/JR - 2312091513.md",
     "Attachments/Pasted image 20231206165352.png",
     "Attachments/Pasted Image 20230830141823_507.svg",
     "Excalidraw/EX - 2311291620.svg",
