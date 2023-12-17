@@ -1,11 +1,12 @@
 /* horizontal */
 
 .view-content div hr{
-  //border-top-color:rgba(150, 150, 170, 0.35) !important;
-  border-top-color: #4E505A !important;
+  border-top-color: var(--hr-color) !important;
   border-top-width: 0.22em !important;
   border-top-style: dotted;
-  //box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 5px 0px !important;
+  //border: none;
+  //padding-top: 2px;
+  //background-image: repeating-linear-gradient(90deg,var(--hr-color) 0 0.40em, #0000 0 0.65em) !important;
 }
 
 /* <span class="vl"/> */
