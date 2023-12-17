@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2311281931 - Asynchronous Python.md",
+                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2311281931 - Asynchronous Python.md",
+                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2311281931 - Asynchronous Python.md",
+                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2311281931 - Asynchronous Python.md"
+                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "594cc0421e2a843e",
   "lastOpenFiles": [
-    "Nodes/ND - 2309251427 - Root.md",
     "Journal/JR - 2311281931 - Asynchronous Python.md",
+    "Nodes/ND - 2309251427 - Root.md",
     "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
     "Journal/JR - 2311232036 - Python ~ Особенности наследования.md",
     "Journal/JR - 2311232118 - Blender ~ Geometry Nodes.md",
