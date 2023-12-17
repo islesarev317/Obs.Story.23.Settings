@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b83d5b75d7484419",
+        "id": "6fb54021326542d2",
         "type": "tabs",
         "children": [
           {
-            "id": "023fc80f724472d1",
+            "id": "594cc0421e2a843e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Nodes/ND - 2309251427 - Root.md"
+                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -29,7 +31,7 @@
       {
         "id": "4d0108dc5c5c7701",
         "type": "tabs",
-        "dimension": 51.897184822521425,
+        "dimension": 71.57190635451505,
         "children": [
           {
             "id": "9f6a3908e07c0678",
@@ -47,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Journal/A3",
+                "query": "tag:#Journal/A1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -62,7 +64,7 @@
       {
         "id": "1c9b3f5873b7dacf",
         "type": "tabs",
-        "dimension": 48.102815177478575,
+        "dimension": 28.428093645484946,
         "children": [
           {
             "id": "b2c01e09f9a3c5b5",
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nodes/ND - 2309251427 - Root.md",
+                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nodes/ND - 2309251427 - Root.md",
+                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nodes/ND - 2309251427 - Root.md"
+                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md"
               }
             }
           }
@@ -141,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -157,34 +159,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "023fc80f724472d1",
+  "active": "6ce10a9068dcdc1d",
   "lastOpenFiles": [
+    "Journal/JR - 2311232036 - Python ~ Особенности наследования.md",
+    "Journal/JR - 2311232118 - Blender ~ Geometry Nodes.md",
+    "Journal/JR - 2311232152 - NumPy ~ Getting Started.md",
+    "Journal/JR - 2311232221 - NumPy ~ Game of Life.md",
     "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
+    "Journal/JR - 2311281931 - Asynchronous Python.md",
     "Nodes/ND - 2309251427 - Root.md",
+    "Journal/JR - 2311241323 - Python ~ Perspective.md",
+    "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
+    "Journal/JR - 2310292151 - Cellular Automata In Blender.md",
+    "Nodes/ND - 2311212121 - Knowledge.md",
+    "Nodes/ND - 2309272222 - Python.md",
+    "Attachments/Basic-Cube-2.png",
+    "Attachments/Growing-Sphere-v2.png",
+    "Excalidraw/EX - 2312042221.md",
+    "Excalidraw/EX - 2310292219.md",
     "Nodes/ND - 2310292138 - Recent.md",
     "Canvases/CV - 2310042336 - Log.canvas",
-    "Nodes/ND - 2311212121 - Knowledge.md",
     "Journal/JR - 2312151342.md",
-    "Journal/JR - 2311281931 - Asynchronous Python.md",
-    "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
     "Journal/JR - 2310021153 - Linux ~ Free space in root.md",
-    "Journal/JR - 2310292151 - Cellular Automata In Blender.md",
     "Journal/JR - 2311232127 - Blender ~ Volume Scatter.md",
     "Journal/JR - 2312121440 - Planning.md",
     "Journal/JR - 2312111945dsffd.md",
-    "Excalidraw/EX - 2310292219.md",
     "Journal/JR - 2312111224.md",
     "Journal/JR - 2312101625.md",
     "Excalidraw/EX - 2311291620.md",
     "Journal/JR - 2312092116.md",
     "Journal/JR - 2311232032 - Python ~ Overloading (__add__).md",
     "Journal/JR - 2312091513.md",
-    "Inner/IN - 231123210246.md",
-    "Journal/JR - 2311232100 - Blender ~ Scripting.md",
-    "Journal/JR - 2312081545.md",
-    "Nodes/ND - 2309271752 - Desk 1.md",
-    "Nodes/ND - 2309251452 - Countries.md",
-    "Journal/JR - 2312080014.md",
     "Attachments/Pasted image 20231206165352.png",
     "Attachments/Pasted Image 20230830141823_507.svg",
     "Excalidraw/EX - 2311291620.svg",
@@ -194,8 +199,6 @@
     "Attachments/Pasted image 20231129130211.png",
     "Attachments/Pasted Image 20231123215601_803.png",
     "Attachments/Pasted Image 20231123215601_800.png",
-    "Attachments/Pasted Image 20231123215601_781.png",
-    "Attachments/Pasted image 20230928195102.png",
     "Canvases/CV - 2308192121 - Journal ~ A1.canvas",
     "Canvases/CV - 2308241515 - Achievements.canvas",
     "Canvases/CV - 2310041743 - Some Openings.canvas",

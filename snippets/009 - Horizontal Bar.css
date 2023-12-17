@@ -21,7 +21,7 @@ span.vl{
 /* title */
 
 .inline-title{
-  border-bottom-color: #4E505A !important;
+  border-bottom-color: var(--hr-color) !important;
   border-bottom-width: 0.12em !important;
   border-bottom-style: dotted !important;
   padding-bottom: 10px !important;
