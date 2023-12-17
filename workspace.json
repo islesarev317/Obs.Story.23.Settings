@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2311281931 - Asynchronous Python.md",
+                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2311281931 - Asynchronous Python.md",
+                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2311281931 - Asynchronous Python.md",
+                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2311281931 - Asynchronous Python.md"
+                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "594cc0421e2a843e",
   "lastOpenFiles": [
-    "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
     "Journal/JR - 2311281931 - Asynchronous Python.md",
+    "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
+    "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
     "Inner/IN - 231123212233.md",
     "Journal/JR - 2311232118 - Blender ~ Geometry Nodes.md",
     "Journal/JR - 2311232127 - Blender ~ Volume Scatter.md",
@@ -176,7 +177,6 @@
     "Journal/JR - 2311232152 - NumPy ~ Getting Started.md",
     "Journal/JR - 2311232221 - NumPy ~ Game of Life.md",
     "Journal/JR - 2311241323 - Python ~ Perspective.md",
-    "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
     "Journal/JR - 2310292151 - Cellular Automata In Blender.md",
     "Nodes/ND - 2311212121 - Knowledge.md",
     "Nodes/ND - 2309272222 - Python.md",
