@@ -209,7 +209,7 @@
             "containerId": null,
             "originalText": "-5   -4    -3   -2   -1   0      1    2     3    4    5",
             "lineHeight": 1.25,
-            "baseline": 12
+            "baseline": 13
           },
           {
             "type": "text",
@@ -1425,7 +1425,7 @@
             "containerId": null,
             "originalText": "-5   -4    -3   -2   -1   0      1    2     3    4    5",
             "lineHeight": 1.25,
-            "baseline": 12
+            "baseline": 13
           },
           {
             "type": "text",
@@ -3030,7 +3030,7 @@
             "containerId": null,
             "originalText": "-5   -4   -3  -2   -1   0    1    2   3   4    5",
             "lineHeight": 1.25,
-            "baseline": 12
+            "baseline": 13
           }
         ],
         "id": "tbEQodw_eVx6OA2POnIkv",
@@ -42274,7 +42274,7 @@
             "containerId": null,
             "originalText": "The \nnote-taking \nconcept",
             "lineHeight": 1.25,
-            "baseline": 608
+            "baseline": 609
           }
         ],
         "created": 1693499623742
@@ -42417,7 +42417,7 @@
             "containerId": null,
             "originalText": "Link\nTo Node",
             "lineHeight": 1.25,
-            "baseline": 157
+            "baseline": 158
           }
         ],
         "created": 1693237715852
@@ -42554,7 +42554,7 @@
             "containerId": null,
             "originalText": "Drawing",
             "lineHeight": 1.25,
-            "baseline": 555
+            "baseline": 554
           }
         ],
         "created": 1692881248341
@@ -42710,7 +42710,7 @@
             "containerId": "Zm9Y1zhwos0kOODxm4N-U",
             "originalText": "Draft",
             "lineHeight": 1.15,
-            "baseline": 24
+            "baseline": 25
           }
         ],
         "created": 1692879999539

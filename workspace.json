@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
+                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md",
                 "mode": "preview",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Journal/A3",
+                "query": "tag:#Journal/A1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
+                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
+                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md"
+                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md"
               }
             }
           }
@@ -161,9 +161,14 @@
   },
   "active": "594cc0421e2a843e",
   "lastOpenFiles": [
-    "Journal/JR - 2311281931 - Asynchronous Python.md",
-    "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
+    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
+    "Inner/IN - 2308201546.md",
+    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
+    "Inner/IN - 2308201524.md",
     "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
+    "Journal/JR - 2311281931 - Asynchronous Python.md",
+    "Nodes/ND - 2309251427 - Root.md",
+    "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
     "Inner/IN - 231123212233.md",
     "Journal/JR - 2311232118 - Blender ~ Geometry Nodes.md",
     "Journal/JR - 2311232127 - Blender ~ Volume Scatter.md",
@@ -171,9 +176,7 @@
     "Journal/JR - 2311232036 - Python ~ Особенности наследования.md",
     "Journal/JR - 2308192123 - Townscaper (Game).md",
     "Journal/JR - 2308201534 - Obsidian ~ Version.md",
-    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
     "Canvases/CV - 2310042336 - Log.canvas",
-    "Nodes/ND - 2309251427 - Root.md",
     "Journal/JR - 2311232152 - NumPy ~ Getting Started.md",
     "Journal/JR - 2311232221 - NumPy ~ Game of Life.md",
     "Journal/JR - 2311241323 - Python ~ Perspective.md",
@@ -188,9 +191,6 @@
     "Journal/JR - 2312151342.md",
     "Journal/JR - 2310021153 - Linux ~ Free space in root.md",
     "Journal/JR - 2312121440 - Planning.md",
-    "Journal/JR - 2312111945dsffd.md",
-    "Journal/JR - 2312111224.md",
-    "Journal/JR - 2312101625.md",
     "Attachments/Pasted image 20231206165352.png",
     "Attachments/Pasted Image 20230830141823_507.svg",
     "Excalidraw/EX - 2311291620.svg",

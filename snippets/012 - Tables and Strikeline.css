@@ -18,3 +18,16 @@
   padding-bottom: 2px !important;
 
 }
+
+/* -- Strikeline -- */
+
+.markdown-source-view.is-live-preview .cm-strikethrough, del
+{
+  text-decoration-color: rgba(222, 222, 224, 0.77) !important;
+  text-decoration-thickness: 0.12em;
+}
+
+.markdown-source-view:not(.is-live-preview) .cm-strikethrough
+{
+  text-decoration: none !important;
+}
