@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
+                "file": "Journal/JR - 2311281931 - Asynchronous Python.md",
                 "mode": "preview",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "4d0108dc5c5c7701",
         "type": "tabs",
-        "dimension": 62.17870257037944,
+        "dimension": 65.1006711409396,
         "children": [
           {
             "id": "9f6a3908e07c0678",
@@ -64,7 +64,7 @@
       {
         "id": "1c9b3f5873b7dacf",
         "type": "tabs",
-        "dimension": 37.821297429620564,
+        "dimension": 34.899328859060404,
         "children": [
           {
             "id": "b2c01e09f9a3c5b5",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
+                "file": "Journal/JR - 2311281931 - Asynchronous Python.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
+                "file": "Journal/JR - 2311281931 - Asynchronous Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md"
+                "file": "Journal/JR - 2311281931 - Asynchronous Python.md"
               }
             }
           }
@@ -161,12 +161,18 @@
   },
   "active": "594cc0421e2a843e",
   "lastOpenFiles": [
-    "Canvases/CV - 2310042336 - Log.canvas",
     "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
     "Journal/JR - 2311281931 - Asynchronous Python.md",
-    "Nodes/ND - 2309251427 - Root.md",
-    "Journal/JR - 2311232036 - Python ~ Особенности наследования.md",
+    "Inner/IN - 231123212233.md",
     "Journal/JR - 2311232118 - Blender ~ Geometry Nodes.md",
+    "Journal/JR - 2311232127 - Blender ~ Volume Scatter.md",
+    "Attachments/Pasted image 20231129130211.png",
+    "Journal/JR - 2311232036 - Python ~ Особенности наследования.md",
+    "Journal/JR - 2308192123 - Townscaper (Game).md",
+    "Journal/JR - 2308201534 - Obsidian ~ Version.md",
+    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
+    "Canvases/CV - 2310042336 - Log.canvas",
+    "Nodes/ND - 2309251427 - Root.md",
     "Journal/JR - 2311232152 - NumPy ~ Getting Started.md",
     "Journal/JR - 2311232221 - NumPy ~ Game of Life.md",
     "Journal/JR - 2311241323 - Python ~ Perspective.md",
@@ -181,21 +187,16 @@
     "Nodes/ND - 2310292138 - Recent.md",
     "Journal/JR - 2312151342.md",
     "Journal/JR - 2310021153 - Linux ~ Free space in root.md",
-    "Journal/JR - 2311232127 - Blender ~ Volume Scatter.md",
     "Journal/JR - 2312121440 - Planning.md",
     "Journal/JR - 2312111945dsffd.md",
     "Journal/JR - 2312111224.md",
     "Journal/JR - 2312101625.md",
-    "Excalidraw/EX - 2311291620.md",
-    "Journal/JR - 2312092116.md",
-    "Journal/JR - 2311232032 - Python ~ Overloading (__add__).md",
     "Attachments/Pasted image 20231206165352.png",
     "Attachments/Pasted Image 20230830141823_507.svg",
     "Excalidraw/EX - 2311291620.svg",
     "Attachments/Pasted image 20230819235511.png",
     "Attachments/Pasted image 20231129192046.png",
     "Attachments/SWTM-2088_Atlassian-Git-Cheatsheet.pdf",
-    "Attachments/Pasted image 20231129130211.png",
     "Attachments/Pasted Image 20231123215601_803.png",
     "Attachments/Pasted Image 20231123215601_800.png",
     "Canvases/CV - 2308192121 - Journal ~ A1.canvas",
