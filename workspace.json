@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6fb54021326542d2",
+        "id": "c20e4faf161e8045",
         "type": "tabs",
         "children": [
           {
-            "id": "594cc0421e2a843e",
+            "id": "f6a4e7000911fa73",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Journal/A1",
+                "query": "tag:#Journal/A3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +117,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "useHierarchy": true
               }
             }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Journal/JR - 2308201534 - Obsidian ~ Version.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -143,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 224.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,63 +150,63 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "594cc0421e2a843e",
+  "active": "48e42c70b7fa30ba",
   "lastOpenFiles": [
+    "Journal/JR - 2312191543 - Job Search.md",
+    "Nodes/ND - 2309272222 - Python.md",
+    "Nodes/ND - 2311212121 - Knowledge.md",
+    "Nodes/ND - 2309251427 - Root.md",
+    "Nodes/ND - 2311281738 - Essential Python.md",
+    "Journal/JR - 2311231839 - Python ~ Metanit.md",
+    "Inner/IN - 231123190645.md",
+    "Inner/IN - 231123190841.md",
+    "Inner/IN - 231123190823.md",
+    "Inner/IN - 231123190744.md",
+    "Journal/JR - 2311231813 - Python ~ ADV-IT.md",
+    "Journal/JR - 2311232026 - Python ~ Immutable Types.md",
+    "Journal/JR - 2311281931 - Asynchronous Python.md",
+    "Journal/JR - 2311241323 - Python ~ Perspective.md",
+    "Attachments/011-Async-Await-Tasks.py",
+    "Attachments/010-Async-Await-Gather.py",
+    "Journal/JR - 2312181441 - Python ~ Iterators.md",
+    "Journal/JR - 2312181434 - Python ~ Generators.md",
+    "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
+    "Inner/IN - 231124135650.md",
+    "Attachments/009-Yield-From.py",
+    "Attachments/008-Yield-Send 1.py",
+    "Attachments/008-Yield-Send.py",
+    "Attachments/007-Socket-Generators.py",
+    "Attachments/006-Round-Robin.py",
+    "Attachments/005-Iterators.py",
+    "Attachments/004-Generator.py",
+    "Attachments/003-Selectors.py",
+    "Journal/JR - 2309291736 - Food.md",
+    "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
+    "Journal/JR - 2308201534 - Obsidian ~ Version.md",
     "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
     "Inner/IN - 2308201546.md",
     "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
     "Inner/IN - 2308201524.md",
     "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
-    "Journal/JR - 2311281931 - Asynchronous Python.md",
-    "Nodes/ND - 2309251427 - Root.md",
-    "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
-    "Inner/IN - 231123212233.md",
-    "Journal/JR - 2311232118 - Blender ~ Geometry Nodes.md",
-    "Journal/JR - 2311232127 - Blender ~ Volume Scatter.md",
     "Attachments/Pasted image 20231129130211.png",
-    "Journal/JR - 2311232036 - Python ~ Особенности наследования.md",
-    "Journal/JR - 2308192123 - Townscaper (Game).md",
-    "Journal/JR - 2308201534 - Obsidian ~ Version.md",
     "Canvases/CV - 2310042336 - Log.canvas",
-    "Journal/JR - 2311232152 - NumPy ~ Getting Started.md",
-    "Journal/JR - 2311232221 - NumPy ~ Game of Life.md",
-    "Journal/JR - 2311241323 - Python ~ Perspective.md",
-    "Journal/JR - 2310292151 - Cellular Automata In Blender.md",
-    "Nodes/ND - 2311212121 - Knowledge.md",
-    "Nodes/ND - 2309272222 - Python.md",
     "Attachments/Basic-Cube-2.png",
     "Attachments/Growing-Sphere-v2.png",
-    "Excalidraw/EX - 2312042221.md",
-    "Excalidraw/EX - 2310292219.md",
-    "Nodes/ND - 2310292138 - Recent.md",
-    "Journal/JR - 2312151342.md",
-    "Journal/JR - 2310021153 - Linux ~ Free space in root.md",
-    "Journal/JR - 2312121440 - Planning.md",
     "Attachments/Pasted image 20231206165352.png",
     "Attachments/Pasted Image 20230830141823_507.svg",
     "Excalidraw/EX - 2311291620.svg",
     "Attachments/Pasted image 20230819235511.png",
     "Attachments/Pasted image 20231129192046.png",
-    "Attachments/SWTM-2088_Atlassian-Git-Cheatsheet.pdf",
     "Attachments/Pasted Image 20231123215601_803.png",
     "Attachments/Pasted Image 20231123215601_800.png",
     "Canvases/CV - 2308192121 - Journal ~ A1.canvas",
     "Canvases/CV - 2308241515 - Achievements.canvas",
     "Canvases/CV - 2310041743 - Some Openings.canvas",
-    "Attachments/notebookPandasEdu.pdf",
-    "Entities",
-    "Attachments/Без имени 1.html",
-    "Attachments/lu6541quvab1.tmp",
-    "Attachments/Без имени 1.csv",
     "Canvases/CV - 2308192121 - Journal ~ Box ~ A1.canvas",
     "Canvases/CV - 2308192121 - Box ~ A1.canvas",
     "Canvases/RB - 2308200001 - Box > Recent.canvas",
-    "Nodes",
-    "Subnodes",
     "Ribbons/RB - 230817 - Box 00.canvas",
     "Ribbons/RB - 230818 - Box > A.canvas",
-    "Attic",
-    "Groups",
     "Ribbons/RB - 230819 - Box.A.canvas"
   ]
 }
