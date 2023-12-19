@@ -209,7 +209,7 @@
             "containerId": null,
             "originalText": "-5   -4    -3   -2   -1   0      1    2     3    4    5",
             "lineHeight": 1.25,
-            "baseline": 13
+            "baseline": 14
           },
           {
             "type": "text",
@@ -1425,7 +1425,7 @@
             "containerId": null,
             "originalText": "-5   -4    -3   -2   -1   0      1    2     3    4    5",
             "lineHeight": 1.25,
-            "baseline": 13
+            "baseline": 14
           },
           {
             "type": "text",
@@ -3030,7 +3030,7 @@
             "containerId": null,
             "originalText": "-5   -4   -3  -2   -1   0    1    2   3   4    5",
             "lineHeight": 1.25,
-            "baseline": 13
+            "baseline": 14
           }
         ],
         "id": "tbEQodw_eVx6OA2POnIkv",
@@ -41605,7 +41605,7 @@
             "containerId": null,
             "originalText": "Title",
             "lineHeight": 1.2,
-            "baseline": 564
+            "baseline": 563
           }
         ],
         "created": 1696498960926
@@ -42047,7 +42047,7 @@
             "containerId": null,
             "originalText": "Title",
             "lineHeight": 1.2,
-            "baseline": 873
+            "baseline": 872
           }
         ],
         "created": 1695652819584
@@ -42417,7 +42417,7 @@
             "containerId": null,
             "originalText": "Link\nTo Node",
             "lineHeight": 1.25,
-            "baseline": 158
+            "baseline": 157
           }
         ],
         "created": 1693237715852
@@ -42554,7 +42554,7 @@
             "containerId": null,
             "originalText": "Drawing",
             "lineHeight": 1.25,
-            "baseline": 554
+            "baseline": 555
           }
         ],
         "created": 1692881248341
