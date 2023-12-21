@@ -22,7 +22,9 @@
 
 .inline-title
 {
-  color: #A4A5AF;
+  //color: var(--italic-color);
+  //color: var(--h1-color);
+  color: rgb(var(--ctp-overlay2));
   //font-style: italic;
   font-family: serif;
 }
