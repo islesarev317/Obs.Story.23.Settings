@@ -44,3 +44,23 @@
 .Stack_horizontal>button.ToolIcon_type_button.ToolIcon{
   background-color: inherit !important;
 }
+
+/* -- fix colors for tab button -- */
+
+.mod-left-split .mod-top .workspace-tab-header.is-active,
+.mod-right-split .mod-top .workspace-tab-header.is-active
+{
+  background-color: rgba(43, 43, 44, 0.4);
+  border-radius: 7px;
+}
+
+.mod-left-split .mod-top .workspace-tab-header.is-active:hover,
+.mod-right-split .mod-top .workspace-tab-header.is-active:hover
+{
+  background-color: rgba(43, 43, 44, 1);
+}
+
+.titlebar-button
+{
+  color: rgb(var(--ctp-overlay2));
+}
