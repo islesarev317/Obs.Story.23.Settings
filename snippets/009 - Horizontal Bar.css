@@ -2,7 +2,7 @@
 
 .view-content div hr{
   border-top-color: var(--hr-color) !important;
-  border-top-width: 0.22em !important;
+  border-top-width: 0.24em !important;
   border-top-style: dotted;
   //border: none;
   //padding-top: 2px;
@@ -23,7 +23,7 @@ span.vl{
 
 .inline-title{
   border-bottom-color: var(--hr-color) !important;
-  border-bottom-width: 0.12em !important;
+  border-bottom-width: 0.133em !important;
   border-bottom-style: dotted !important;
   padding-bottom: 10px !important;
 }

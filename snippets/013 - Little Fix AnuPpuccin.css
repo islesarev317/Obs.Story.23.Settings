@@ -14,13 +14,13 @@
 
 /* bookmark header */
 .workspace-tab-container{
-  border: none !important;
+//  border: none !important;
 }
 
 /* border */
 
 .workspace-tab-header-container{
-  border-left: none !important;
+//  border-left: none !important;
 }
 
 .view-header{
@@ -46,7 +46,7 @@
 }
 
 /* -- fix colors for tab button -- */
-
+/*
 .mod-left-split .mod-top .workspace-tab-header.is-active,
 .mod-right-split .mod-top .workspace-tab-header.is-active
 {
@@ -64,3 +64,4 @@
 {
   color: rgb(var(--ctp-overlay2));
 }
+*/
