@@ -60,7 +60,7 @@
 .mod-left-split .mod-top .workspace-tab-header.is-active:hover,
 .mod-right-split .mod-top .workspace-tab-header.is-active:hover
 {
-  background-color: rgba(43, 43, 44, 1);
+  background-color: rgba(43, 43, 44, 0.8);
 }
 
 .titlebar-button
