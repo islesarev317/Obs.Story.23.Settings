@@ -46,12 +46,15 @@
 }
 
 /* -- fix colors for tab button -- */
-/*
+
 .mod-left-split .mod-top .workspace-tab-header.is-active,
 .mod-right-split .mod-top .workspace-tab-header.is-active
 {
   background-color: rgba(43, 43, 44, 0.4);
   border-radius: 7px;
+  border-color: var(--tab-outline-color);
+  border-width: var(--tab-outline-width);
+  border-style: solid;
 }
 
 .mod-left-split .mod-top .workspace-tab-header.is-active:hover,
@@ -64,4 +67,3 @@
 {
   color: rgb(var(--ctp-overlay2));
 }
-*/
