@@ -50,6 +50,7 @@
 .mod-left-split .mod-top .workspace-tab-header.is-active,
 .mod-right-split .mod-top .workspace-tab-header.is-active
 {
+  color: rgb(var(--ctp-overlay2)) !important;
   background-color: rgba(43, 43, 44, 0.4);
   border-radius: 7px;
   border-color: var(--tab-outline-color);
@@ -63,7 +64,18 @@
   background-color: rgba(43, 43, 44, 0.8);
 }
 
+.mod-left-split .mod-top .workspace-tab-header-inner-icon,
+.mod-right-split .mod-top .workspace-tab-header-inner-icon
+{
+  color: rgb(var(--ctp-overlay2)) !important;
+}
+
 .titlebar-button
 {
   color: rgb(var(--ctp-overlay2));
+}
+
+.workspace-tab-header-inner-title
+{
+  color: rgb(var(--ctp-overlay2)) !important;
 }
