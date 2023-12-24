@@ -85,6 +85,12 @@
   color: rgb(var(--ctp-overlay2)) !important;
 }
 
+.workspace-tab-container{
+  border-bottom-color: var(--tab-outline-color);
+  border-bottom-width: var(--tab-outline-width);
+  border-bottom-style: solid;
+}
+
 /* BG for buttons */
 
 .workspace-split:not(.mod-root) .mod-top .workspace-tab-header-inner div,
@@ -101,7 +107,8 @@
 
 /* --- BACKGROUND --- */
 
-.workspace{
+.workspace
+{
   background-color: transparent !important;
 }
 
