@@ -109,8 +109,8 @@
 .titlebar-button
 {
   color: rgb(var(--ctp-rosewater)) !important;
-  background-color: rgba(var(--ctp-base), 0.3);
-  box-shadow: 1px 1px 2px 1px rgba(var(--ctp-base), 0.3);
+  background-color: rgba(var(--ctp-base), 0.2);
+  box-shadow: 0px 0px 2px 1px rgba(var(--ctp-base), 0.2);
   border-color: var(--tab-outline-color);
   border-width: var(--tab-outline-width);
   border-style: none;
