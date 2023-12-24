@@ -52,7 +52,7 @@
 {
   color: rgb(var(--ctp-overlay2)) !important;
   //background-color: rgba(43, 43, 44, 0.4);
-  background-color: #222222;
+  background-color: rgb(var(--ctp-base));
   border-radius: 7px;
   border-color: var(--tab-outline-color);
   border-width: var(--tab-outline-width);
@@ -73,7 +73,8 @@
 
 .titlebar-button
 {
-  color: rgb(var(--ctp-overlay2));
+  //color: rgb(var(--ctp-overlay2));
+  color: #EDEDEE;
   margin: 4px;
   padding-left: 12px !important;
   padding-right: 12px !important;
@@ -86,16 +87,16 @@
 
 /* BG for buttons */
 
-.workspace-split:not(.mod-root) .workspace-tab-header,
+.workspace-split:not(.mod-root) .mod-top .workspace-tab-header-inner div,
 .workspace-ribbon div div,
-.workspace-tab-header-container .clickable-icon,
-.titlebar-button
+.workspace-tab-header-container .clickable-icon
 {
-  background-color: rgba(var(--ctp-base), 0.8);
-  border-radius: 7px;
-  border-color: var(--tab-outline-color);
-  border-width: var(--tab-outline-width);
-  border-style: solid;
+  //background-color: rgba(var(--ctp-base), 0.8);
+  //border-radius: 7px;
+  //border-color: var(--tab-outline-color);
+  //border-width: var(--tab-outline-width);
+  //border-style: solid;
+  color: var(--h1-color) !important;
 }
 
 /* --- BACKGROUND --- */
