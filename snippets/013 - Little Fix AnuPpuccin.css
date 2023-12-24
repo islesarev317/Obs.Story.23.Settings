@@ -51,7 +51,8 @@
 .mod-right-split .mod-top .workspace-tab-header.is-active
 {
   color: rgb(var(--ctp-overlay2)) !important;
-  background-color: rgba(43, 43, 44, 0.4);
+  //background-color: rgba(43, 43, 44, 0.4);
+  background-color: #222222;
   border-radius: 7px;
   border-color: var(--tab-outline-color);
   border-width: var(--tab-outline-width);
@@ -73,9 +74,44 @@
 .titlebar-button
 {
   color: rgb(var(--ctp-overlay2));
+  margin: 4px;
+  padding-left: 12px !important;
+  padding-right: 12px !important;
 }
 
 .workspace-tab-header-inner-title
 {
   color: rgb(var(--ctp-overlay2)) !important;
+}
+
+/* BG for buttons */
+
+.workspace-split:not(.mod-root) .workspace-tab-header,
+.workspace-ribbon div div,
+.workspace-tab-header-container .clickable-icon,
+.titlebar-button
+{
+  background-color: rgba(var(--ctp-base), 0.8);
+  border-radius: 7px;
+  border-color: var(--tab-outline-color);
+  border-width: var(--tab-outline-width);
+  border-style: solid;
+}
+
+/* --- BACKGROUND --- */
+
+.workspace{
+  background-color: transparent !important;
+}
+
+body {
+    --card-background-color: transparent !important;
+    --titlebar-background-focused: transparent !important;
+}
+
+body {
+  background: radial-gradient(circle at 50% 100%, #2b2a2a80 5%, #2b2a2a 5% 10%, #2b2a2a80 10% 15%, #2b2a2a 15% 20%, #2b2a2a80 20% 25%, #2b2a2a 25% 30%, #2b2a2a80 30% 35%, #2b2a2a 35% 40%, transparent 40%), radial-gradient(circle at 100% 50%, #2b2a2a80 5%, #2b2a2a 5% 10%, #2b2a2a80 10% 15%, #2b2a2a 15% 20%, #2b2a2a80 20% 25%, #2b2a2a 25% 30%, #2b2a2a80 30% 35%, #2b2a2a 35% 40%, transparent 40%), radial-gradient(circle at 50% 0%, #2b2a2a80 5%, #2b2a2a 5% 10%, #2b2a2a80 10% 15%, #2b2a2a 15% 20%, #2b2a2a80 20% 25%, #2b2a2a 25% 30%, #2b2a2a80 30% 35%, #2b2a2a 35% 40%, transparent 40%), radial-gradient(circle at 0 50%, #2b2a2a80 5%, #2b2a2a 5% 10%, #2b2a2a80 10% 15%, #2b2a2a 15% 20%, #2b2a2a80 20% 25%, #2b2a2a 25% 30%, #2b2a2a80 30% 35%, #2b2a2a 35% 40%, transparent 40%);
+        background-size: 4em 4em;
+        background-color: #6f6e70;
+        opacity: 1;
 }
