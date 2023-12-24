@@ -122,4 +122,4 @@ body {
         background-size: 4em 4em;
         background-color: #6f6e70;
         opacity: 1;
-}
+        backdrop-filter: saturate(200%);
