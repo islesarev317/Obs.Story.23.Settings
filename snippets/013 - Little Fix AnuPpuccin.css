@@ -70,7 +70,6 @@
 .mod-right-split .mod-top .workspace-tab-header-inner-icon
 {
   color: rgb(var(--ctp-overlay2)) !important;
-  color: rgb(var(--ctp-rosewater));
 }
 
 .titlebar-button
@@ -114,7 +113,7 @@
   border-color: var(--tab-outline-color);
   border-width: var(--tab-outline-width);
   border-style: none;
-  border-radius: 8px;
+  border-radius: 6px;
 }
 
 .mod-left-split .mod-top .workspace-tab-header.is-active:hover,
@@ -151,5 +150,5 @@ body {
   background-size: 4em 4em;
   background-color: #6f6e70;
   opacity: 1;
-  backdrop-filter: saturate(200%) brightness(105%);
+  backdrop-filter: saturate(200%) brightness(85%) contrast(75%);
 }
