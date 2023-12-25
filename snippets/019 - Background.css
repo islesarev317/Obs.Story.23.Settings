@@ -15,5 +15,5 @@ body {
   background-size: 4em 4em;
   background-color: #6f6e70;
   opacity: 1;
-  backdrop-filter: saturate(200%) brightness(85%) contrast(75%);
+  backdrop-filter: saturate(200%) brightness(65%) contrast(85%);
 }
