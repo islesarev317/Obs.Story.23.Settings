@@ -23,7 +23,7 @@ span.vl{
 
 .inline-title{
   border-bottom-color: var(--hr-color) !important;
-  border-bottom-width: 0.133em !important;
+  border-bottom-width: 0.17em !important;
   border-bottom-style: dotted !important;
   padding-bottom: 10px !important;
 }

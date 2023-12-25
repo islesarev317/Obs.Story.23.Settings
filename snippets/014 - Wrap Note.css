@@ -17,7 +17,7 @@
 
 .markdown-preview-view .inline-title
 {
-  margin-top: 0.5em;
+  margin-top: 0.7em;
 }
 
 .inline-title
@@ -27,13 +27,14 @@
   //color: rgb(var(--ctp-overlay2));
   //font-style: italic;
   font-family: serif;
+  font-size: 1.4em;
 }
 
 .inline-title{
   border-bottom-color: var(--hr-color);
   border-bottom-width: 2px;
   border-bottom-style: solid;
-  padding-bottom: 10px !important;
+  padding-bottom: 0.35em !important;
 }
 
 /* ------------------- */
