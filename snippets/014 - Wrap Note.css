@@ -19,7 +19,7 @@
   border-bottom-color: var(--hr-color);
   border-bottom-width: 2px;
   border-bottom-style: solid;
-  padding-bottom: 10px !important;
+  //padding-bottom: 10px !important;
 }
 
 /* ------------------- */
