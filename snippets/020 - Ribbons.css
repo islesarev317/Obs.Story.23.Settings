@@ -20,7 +20,7 @@
 .workspace-tab-header-inner-title,
 .workspace-tab-header-inner-icon svg
 {
-  color: rgb(var(--ctp-rosewater)) !important;
+  //color: rgb(var(--ctp-rosewater)) !important;
 }
 
 .workspace-tab-container{
