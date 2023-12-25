@@ -35,7 +35,7 @@ span.vl{
   //font-style: italic;
   //font-family: serif;
   font-size: 1.12em;
-  font-weight: normal ;
+  font-weight: 600 ;
   border-bottom-color: var(--hr-color) !important;
   border-bottom-width: 0.217em !important;
   border-bottom-style: dotted !important;
