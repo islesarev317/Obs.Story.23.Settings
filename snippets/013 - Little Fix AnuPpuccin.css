@@ -43,4 +43,9 @@
 
 .Stack_horizontal>button.ToolIcon_type_button.ToolIcon{
   background-color: inherit !important;
+  border-color: transparent !important;
+}
+
+.excalidraw{
+  --button-hover-bg: rgba(255, 255, 255, 0.15) !important;
 }
