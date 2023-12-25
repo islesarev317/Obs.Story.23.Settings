@@ -21,9 +21,21 @@ span.vl{
 
 /* title */
 
+.markdown-preview-view .inline-title
+{
+  margin-top: 1.1em;
+}
+
 .inline-title{
+  color: var(--italic-color);
+  //color: var(--h1-color);
+  //color: rgb(var(--ctp-overlay2));
+  font-style: italic;
+  //font-family: serif;
+  font-size: 1em;
+  font-weight: normal;
   border-bottom-color: var(--hr-color) !important;
-  border-bottom-width: 0.133em !important;
+  border-bottom-width: 0.24em !important;
   border-bottom-style: dotted !important;
   padding-bottom: 10px !important;
 }

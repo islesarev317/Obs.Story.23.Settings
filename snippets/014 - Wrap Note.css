@@ -15,21 +15,6 @@
   border-style: solid;
 }
 
-.markdown-preview-view .inline-title
-{
-  margin-top: 0.5em;
-}
-
-.inline-title
-{
-  color: var(--italic-color);
-  //color: var(--h1-color);
-  //color: rgb(var(--ctp-overlay2));
-  //font-style: italic;
-  font-family: serif;
-  //font-size: 1.4em;
-}
-
 .inline-title{
   border-bottom-color: var(--hr-color);
   border-bottom-width: 2px;
