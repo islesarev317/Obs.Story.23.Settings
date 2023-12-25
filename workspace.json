@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4599dce1567cefdb",
+        "id": "edf7c6a0f6474880",
         "type": "tabs",
         "children": [
           {
-            "id": "ffb070bc1ba72671",
+            "id": "e98a1e52723ac57a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
+                "file": "Journal/JR - 2312202119 - New Year.md",
                 "mode": "preview",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "4d0108dc5c5c7701",
         "type": "tabs",
-        "dimension": 68.7041564792176,
+        "dimension": 53.07692307692308,
         "children": [
           {
             "id": "9f6a3908e07c0678",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Journal/A3",
+                "query": "tag:#Journal/Recent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -64,7 +64,7 @@
       {
         "id": "1c9b3f5873b7dacf",
         "type": "tabs",
-        "dimension": 31.295843520782395,
+        "dimension": 46.92307692307692,
         "children": [
           {
             "id": "b2c01e09f9a3c5b5",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
+                "file": "Journal/JR - 2312202119 - New Year.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
+                "file": "Journal/JR - 2312202119 - New Year.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2311241334 - FastAPI ~ Metanit.md"
+                "file": "Journal/JR - 2312202119 - New Year.md"
               }
             }
           }
@@ -159,8 +159,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ffb070bc1ba72671",
+  "active": "e98a1e52723ac57a",
   "lastOpenFiles": [
+    "Journal/JR - 2312202119 - New Year.md",
+    "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
     "Journal/JR - 2312181441 - Python ~ Iterators.md",
     "Stage/Untitled 4.md",
     "Nodes/ND - 2309251427 - Root.md",
@@ -185,8 +187,6 @@
     "Journal/JR - 2311232026 - Python ~ Immutable Types.md",
     "Inner/IN - 231123220152.md",
     "Journal/JR - 2311232200 - NumPy ~ Fundamentals.md",
-    "Journal/JR - 2311232036 - Python ~ Особенности наследования.md",
-    "Inner/IN - 231123201321.md",
     "Attachments/notebookPandasEdu.pdf",
     "Attachments/Pasted image 20230621224620.png",
     "Attachments/IMG_5705.jpg",
