@@ -8,7 +8,7 @@
   padding-bottom: 10px !important;
   padding-left: 24px !important;
   padding-right: 24px !important;
-  background-color: #222222;
+  background-color: rgb(var(--ctp-crust));
   border-radius: 20px;
   border-color: var(--tab-outline-color);
   border-width: var(--tab-outline-width);
@@ -47,7 +47,7 @@
 }
 
 .cm-sizer{
-  background-color: #222222;
+  background-color: rgb(var(--ctp-crust));
   border-radius: 20px;
   padding: 24px !important;
   border-color: var(--tab-outline-color);
