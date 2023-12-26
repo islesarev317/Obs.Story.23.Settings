@@ -3,18 +3,23 @@
 body{
   --left-icons-colors: var(--italic-color);
   --top-icons-colors: rgb(var(--ctp-overlay2));
-  --top-icons-active-hover: rgba(255, 255, 255, 0.85);
-  --top-icons-active-hover-bg: rgba(255, 255, 255, 0.2);
+  --top-icons-active-hover: rgb(var(--ctp-overlay2));
+  --top-icons-active-hover-bg: rgba(var(--ctp-flamingo), 0.3);
 }
 
 /* --- 1. CENTER TABS (INACTIVE) --- */
 
 .workspace-split.mod-root .workspace-tab-header:not(.is-active){
-  color: rgb(var(--ctp-overlay2)) !important;
+  color: var(--italic-color) !important;
   background-color: rgb(var(--ctp-crust)) !important;
   border-color: var(--tab-outline-color);
   border-width: var(--tab-outline-width);
   border-style: solid;
+  font-weight: 600;
+}
+
+.workspace-split.mod-root .workspace-tab-header{
+  font-weight: 600;
 }
 
 /* --- 2. ICONS (LEFT) --- */
