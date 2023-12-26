@@ -53,3 +53,9 @@ mark{
 		background-image: none !important;
 		background-color: inherit !important;
 }
+
+/* default */
+
+body{
+	--text-highlight-bg: rgba(220, 170, 121, 0.3) !important;
+}
