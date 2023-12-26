@@ -23,6 +23,7 @@ body{
 .workspace-ribbon .side-dock-settings .clickable-icon
 {
   color: var(--left-icons-colors) !important;
+  border-radius: 7px;
 }
 
 .workspace-ribbon .side-dock-actions,
