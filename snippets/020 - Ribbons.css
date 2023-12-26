@@ -1,66 +1,119 @@
-.mod-left-split .mod-top .workspace-tab-header-inner-icon,
-.mod-right-split .mod-top .workspace-tab-header-inner-icon
-{
+/* --- 0. VARS --- */
+
+body{
+  --left-icons-colors: var(--italic-color);
+  --top-icons-colors: rgb(var(--ctp-overlay2));
+  --top-icons-active-hover: rgba(255, 255, 255, 0.85);
+  --top-icons-active-hover-bg: rgba(255, 255, 255, 0.2);
+}
+
+/* --- 1. CENTER TABS (INACTIVE) --- */
+
+.workspace-split.mod-root .workspace-tab-header:not(.is-active){
   color: rgb(var(--ctp-overlay2)) !important;
-}
-
-.titlebar-button
-{
-  color: rgb(var(--ctp-rosewater)) !important;
-  margin: 7px;
-  padding-left: 7px !important;
-  padding-right: 7px !important;
-}
-
-.workspace-tab-header:not(.is-active){
-  margin: 3px !important;
-  color: rgb(var(--ctp-rosewater)) !important;
-}
-
-.workspace-tab-header-inner-title,
-.workspace-tab-header-inner-icon svg
-{
-  //color: rgb(var(--ctp-rosewater)) !important;
-}
-
-.workspace-tab-container{
-  border-bottom-color: var(--tab-outline-color);
-  border-bottom-width: var(--tab-outline-width);
-  border-bottom-style: solid;
-  color: rgb(var(--ctp-rosewater)) !important;
-}
-
-/* BG for buttons */
-
-.workspace-ribbon div div,
-.workspace-tab-header-container .clickable-icon,
-.workspace-tab-header:not(.is-active) .workspace-tab-header-inner,
-.mod-left-split .mod-top .workspace-tab-header.is-active,
-.mod-right-split .mod-top .workspace-tab-header.is-active,
-.titlebar-button
-{
-  color: rgb(var(--ctp-rosewater)) !important;
-  background-color: rgba(var(--ctp-base), 0.3);
-  box-shadow: 0px 0px 2px 1px rgba(var(--ctp-base), 0.3);
+  background-color: rgb(var(--ctp-crust)) !important;
   border-color: var(--tab-outline-color);
   border-width: var(--tab-outline-width);
-  border-style: none;
+  border-style: solid;
+}
+
+/* --- 2. ICONS (LEFT) --- */
+
+.workspace-ribbon .side-dock-actions .clickable-icon,
+.workspace-ribbon .side-dock-settings .clickable-icon
+{
+  color: var(--left-icons-colors) !important;
+}
+
+.workspace-ribbon .side-dock-actions,
+.workspace-ribbon .side-dock-settings
+{
+  background-color: rgb(var(--ctp-crust));
+  border-radius: 10px;
+  border-color: var(--tab-outline-color);
+  border-width: var(--tab-outline-width);
+  border-style: solid;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+/* --- 3. ICONS (TOP TABS) --- */
+
+/* INACTIVE */
+.mod-left-split .mod-top .workspace-tab-header:not(.is-active) .workspace-tab-header-inner-icon,
+.mod-right-split .mod-top .workspace-tab-header:not(.is-active) .workspace-tab-header-inner-icon
+{
+  color: var(--top-icons-colors);
+}
+
+/* ACTIVE AND HOVER */
+.mod-left-split .mod-top .workspace-tab-header.is-active,
+.mod-right-split .mod-top .workspace-tab-header.is-active,
+.mod-left-split .mod-top .workspace-tab-header:not(.is-active):hover,
+.mod-right-split .mod-top .workspace-tab-header:not(.is-active):hover
+{
+  background-color: var(--top-icons-active-hover-bg);
+  box-shadow: 0px 0px 2px 0px var(--top-icons-active-hover-bg);
   border-radius: 6px;
 }
 
-.mod-left-split .mod-top .workspace-tab-header.is-active:hover,
-.mod-right-split .mod-top .workspace-tab-header.is-active:hover
+.mod-left-split .mod-top .workspace-tab-header.is-active .workspace-tab-header-inner-icon,
+.mod-right-split .mod-top .workspace-tab-header.is-active .workspace-tab-header-inner-icon,
+.mod-left-split .mod-top .workspace-tab-header:not(.is-active):hover .workspace-tab-header-inner-icon,
+.mod-right-split .mod-top .workspace-tab-header:not(.is-active):hover .workspace-tab-header-inner-icon
 {
-  background-color: rgba(43, 43, 44, 0.8);
-  color: rgb(var(--ctp-rosewater)) !important;
+  color: var(--top-icons-active-hover) !important;
 }
 
-.workspace-split:not(.mod-root) .workspace-tab-header:hover
-{
-    background-color: var(--background-modifier-hover) !important;
-    color: rgb(var(--ctp-rosewater)) !important;
-}
+
+/* --- 4. TOGGLE BUTTONS --- */
 
 .sidebar-toggle-button .clickable-icon{
-  padding: 8px !important;
+  color: var(--top-icons-colors);
+}
+
+.sidebar-toggle-button .clickable-icon:hover{
+  background-color: var(--top-icons-active-hover-bg);
+  box-shadow: 0px 0px 4px 0px var(--top-icons-active-hover-bg);
+  border-radius: 6px;
+  color: var(--top-icons-active-hover);
+}
+
+/* --- 5. CLOSE MENU --- */
+
+.titlebar-button
+{
+  color: var(--top-icons-colors);
+  margin-top: 7px;
+  margin-bottom: 7px;
+  margin-left: 2px;
+  margin-right: 2px;
+  padding-left: 11px !important;
+  padding-right: 11px !important;
+  opacity: 1;
+}
+
+.titlebar-button:hover
+{
+  background-color: var(--top-icons-active-hover-bg);
+  box-shadow: 0px 0px 2px 0px var(--top-icons-active-hover-bg);
+  border-radius: 5px;
+  color: var(--top-icons-active-hover) !important;
+}
+
+/* --- 6. ADD TAB + ACTIONS LIST --- */
+
+.workspace-tab-header-tab-list .clickable-icon,
+.workspace-tab-header-new-tab .clickable-icon
+{
+  color: var(--top-icons-colors);
+}
+
+.workspace-tab-header-tab-list .clickable-icon:hover,
+.workspace-tab-header-new-tab .clickable-icon:hover
+{
+  background-color: var(--top-icons-active-hover-bg);
+  box-shadow: 0px 0px 4px 0px var(--top-icons-active-hover-bg);
+  border-radius: 6px;
+  color: var(--top-icons-active-hover) !important;
 }

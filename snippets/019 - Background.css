@@ -10,6 +10,25 @@ body {
     --titlebar-background-focused: transparent !important;
 }
 
+/* // -- grid --
+body {
+  --var-line: #606060;
+  background: repeating-linear-gradient(90deg, var(--var-line) 0, var(--var-line) 5%, transparent 0, transparent 50%), repeating-linear-gradient(180deg, var(--var-line) 0, var(--var-line) 5%, transparent 0, transparent 50%);
+        background-size: 1em 1em;
+        background-color: #373539;
+        opacity: 1;
+}
+*/
+
+body {
+  background: linear-gradient(0deg, #353535 25%, transparent 26%) , linear-gradient(270deg, #353535 25%, transparent 26%), linear-gradient(180deg, #56545B 25%, transparent 26%), linear-gradient(90deg, #56545B 25%, transparent 26%);
+        background-size: 1em 1em;
+        background-color: #353535;
+        opacity: 1;
+}
+
+
+/* // -- circle --
 body {
   background: radial-gradient(circle at 50% 100%, #2b2a2a80 5%, #2b2a2a 5% 10%, #2b2a2a80 10% 15%, #2b2a2a 15% 20%, #2b2a2a80 20% 25%, #2b2a2a 25% 30%, #2b2a2a80 30% 35%, #2b2a2a 35% 40%, transparent 40%), radial-gradient(circle at 100% 50%, #2b2a2a80 5%, #2b2a2a 5% 10%, #2b2a2a80 10% 15%, #2b2a2a 15% 20%, #2b2a2a80 20% 25%, #2b2a2a 25% 30%, #2b2a2a80 30% 35%, #2b2a2a 35% 40%, transparent 40%), radial-gradient(circle at 50% 0%, #2b2a2a80 5%, #2b2a2a 5% 10%, #2b2a2a80 10% 15%, #2b2a2a 15% 20%, #2b2a2a80 20% 25%, #2b2a2a 25% 30%, #2b2a2a80 30% 35%, #2b2a2a 35% 40%, transparent 40%), radial-gradient(circle at 0 50%, #2b2a2a80 5%, #2b2a2a 5% 10%, #2b2a2a80 10% 15%, #2b2a2a 15% 20%, #2b2a2a80 20% 25%, #2b2a2a 25% 30%, #2b2a2a80 30% 35%, #2b2a2a 35% 40%, transparent 40%);
   background-size: 4em 4em;
@@ -17,3 +36,4 @@ body {
   opacity: 1;
   backdrop-filter: saturate(200%) brightness(95%) contrast(90%);
 }
+*/
