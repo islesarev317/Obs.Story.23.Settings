@@ -21,8 +21,9 @@ body {
 */
 
 body {
-  --bg-color-1: #56545B;
-  --bg-color-2: #323339;
+  //background-color: #4B494D;
+  --bg-color-1: #4B494D;
+  --bg-color-2: #3D3C3F;
   background: linear-gradient(0deg, var(--bg-color-2) 25%, transparent 26%) , linear-gradient(270deg, var(--bg-color-2) 25%, transparent 26%), linear-gradient(180deg, var(--bg-color-1) 25%, transparent 26%), linear-gradient(90deg, var(--bg-color-1) 25%, transparent 26%);
   background-size: 1em 1em;
   background-color: var(--bg-color-2);
