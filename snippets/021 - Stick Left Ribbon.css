@@ -1,0 +1,30 @@
+/* STICK (to left tab) */
+
+.workspace-ribbon .sidebar-toggle-button.mod-left
+{
+  margin-left: 6px;
+}
+
+.workspace-ribbon
+{
+  margin-right: 0px;
+  border-right-width: 0px;
+  padding-right: 0px;
+  padding-top: 30px;
+  padding-bottom: 45px;
+  margin-left: 6px;
+  max-width: 36px;
+}
+
+.workspace-ribbon .side-dock-actions,
+.workspace-ribbon .side-dock-settings
+{
+  border-left-width: var(--tab-outline-width);
+  border-top-width: var(--tab-outline-width);
+  border-bottom-width: var(--tab-outline-width);
+  border-right-width: 0px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+  border-top-right-radius: 0px !important;
+  border-bottom-right-radius: 0px !important;
+}

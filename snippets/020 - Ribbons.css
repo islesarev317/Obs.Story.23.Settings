@@ -104,7 +104,7 @@ body{
 /* --- 4. TOGGLE BUTTONS --- */
 
 .sidebar-toggle-button .clickable-icon{
-  color: var(--top-icons-colors);
+  color: var(--left-icons-colors);
 }
 
 .sidebar-toggle-button .clickable-icon:hover{
