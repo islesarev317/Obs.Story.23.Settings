@@ -28,8 +28,8 @@ span.vl{
 }
 
 .inline-title{
-  //color: var(--italic-color);
-  color: var(--h1-color);
+  color: var(--italic-color);
+  //color: var(--h1-color);
   //color: rgb(var(--ctp-overlay2));
   //color: var(--color-accent);
   //font-style: italic;
