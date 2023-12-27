@@ -9,6 +9,11 @@ body{
 
 /* --- 1. CENTER TABS (INACTIVE) --- */
 
+/* active but not focused */
+.workspace-split.mod-root .workspace-tab-header.is-active{
+  color: var(--italic-color)
+}
+
 .workspace-split.mod-root .workspace-tab-header:not(.is-active){
   color: var(--italic-color) !important;
   background-color: rgb(var(--ctp-crust)) !important;
