@@ -28,3 +28,12 @@
   border-top-right-radius: 0px !important;
   border-bottom-right-radius: 0px !important;
 }
+
+.workspace-ribbon .side-dock-actions .clickable-icon:first-child,
+.workspace-ribbon .side-dock-settings .clickable-icon:first-child,
+.workspace-ribbon .side-dock-actions .clickable-icon:last-child,
+.workspace-ribbon .side-dock-settings .clickable-icon:last-child
+{
+  border-top-right-radius: 0px !important;
+  border-bottom-right-radius: 0px !important;
+}
