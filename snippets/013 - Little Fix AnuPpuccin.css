@@ -49,3 +49,10 @@
 .excalidraw{
   --button-hover-bg: rgba(255, 255, 255, 0.15) !important;
 }
+
+/* FIX borderless view - HARDCODE! */
+
+body.anp-border-layout .workspace .workspace-split.mod-left-split .workspace-tabs.mod-top-left-space .workspace-tab-container
+{
+  border-left-width: 0px;
+}
