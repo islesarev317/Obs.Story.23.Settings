@@ -27,6 +27,10 @@ body{
   font-weight: 600;
 }
 
+.workspace-split.mod-root .mod-top-left-space .workspace-tab-header:first-child{
+  margin-left: 20px !important;
+}
+
 /* --- 2. ICONS (LEFT) --- */
 
 .workspace-ribbon .side-dock-actions .clickable-icon,
