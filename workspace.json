@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4599dce1567cefdb",
+        "id": "14b7deabfb1624a4",
         "type": "tabs",
         "children": [
           {
-            "id": "ffb070bc1ba72671",
+            "id": "95a5621c57fba56b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
+                "file": "Journal/JR - 2312192122 - Logs.md",
                 "mode": "preview",
                 "source": false
               }
@@ -31,7 +31,6 @@
       {
         "id": "4d0108dc5c5c7701",
         "type": "tabs",
-        "dimension": 68.7041564792176,
         "children": [
           {
             "id": "9f6a3908e07c0678",
@@ -49,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Journal/A3",
+                "query": "tag:#Journal/Recent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,15 +56,7 @@
                 "sortOrder": "alphabeticalReverse"
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "1c9b3f5873b7dacf",
-        "type": "tabs",
-        "dimension": 31.295843520782395,
-        "children": [
+          },
           {
             "id": "b2c01e09f9a3c5b5",
             "type": "leaf",
@@ -74,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 460.50418853759766
+    "width": 411.5
   },
   "right": {
     "id": "b72c096914b0850b",
@@ -94,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
+                "file": "Journal/JR - 2312192122 - Logs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
+                "file": "Journal/JR - 2312192122 - Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2311241334 - FastAPI ~ Metanit.md"
+                "file": "Journal/JR - 2312192122 - Logs.md"
               }
             }
           }
@@ -159,34 +151,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ffb070bc1ba72671",
+  "active": "95a5621c57fba56b",
   "lastOpenFiles": [
-    "Journal/JR - 2312181441 - Python ~ Iterators.md",
-    "Stage/Untitled 4.md",
-    "Nodes/ND - 2309251427 - Root.md",
-    "Journal/JR - 2312181434 - Python ~ Generators.md",
+    "Journal/JR - 2312281056 - Messages.md",
     "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
-    "Inner/IN - 231123212233.md",
-    "Journal/JR - 2311232118 - Blender ~ Geometry Nodes.md",
-    "Journal/JR - 2311232032 - Python ~ Overloading (__add__).md",
-    "Journal/JR - 2308251426 - Relocate.md",
-    "Journal/JR - 2309261255 - Travel.md",
-    "Journal/JR - 2309151723 - Habits.md",
-    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
-    "Journal/JR - 2308171506 - Git ~ Change Remote.md",
-    "Journal/JR - 2308171516 - GitHub ~ Generate SSH.md",
-    "Journal/JR - 2308192123 - Townscaper (Game).md",
-    "Journal/JR - 2308201534 - Obsidian ~ Version.md",
-    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
-    "Nodes/ND - 2311212121 - Knowledge.md",
     "Journal/JR - 2311281931 - Asynchronous Python.md",
-    "Inner/IN - 231123222541.md",
-    "Journal/JR - 2311232222 - NumPy ~ Tutorials.md",
-    "Journal/JR - 2311232026 - Python ~ Immutable Types.md",
-    "Inner/IN - 231123220152.md",
+    "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
     "Journal/JR - 2311232200 - NumPy ~ Fundamentals.md",
+    "Journal/JR - 2311232127 - Blender ~ Volume Scatter.md",
+    "Journal/JR - 2312181434 - Python ~ Generators.md",
+    "Journal/JR - 2311232152 - NumPy ~ Getting Started.md",
+    "Journal/JR - 2312181441 - Python ~ Iterators.md",
+    "Journal/JR - 2310261317 - Introduction in English.md",
+    "Journal/JR - 2311231813 - Python ~ ADV-IT.md",
+    "Journal/JR - 2311231839 - Python ~ Metanit.md",
+    "Journal/JR - 2310041913 - Git.md",
+    "Journal/JR - 2308311354 - Ideas.md",
+    "Journal/JR - 2308291330 - All Countries.md",
+    "Journal/JR - 2310292151 - Cellular Automata In Blender.md",
+    "Journal/JR - 2310292308 - OK English (A2).md",
+    "Journal/JR - 2311232029 - Python ~ __call__.md",
+    "Journal/JR - 2311232026 - Python ~ Immutable Types.md",
+    "Journal/JR - 2311232017 - Python ~ WITH.md",
+    "Journal/JR - 2311232032 - Python ~ Overloading (__add__).md",
+    "Journal/JR - 2311232100 - Blender ~ Scripting.md",
+    "Journal/JR - 2311232222 - NumPy ~ Tutorials.md",
     "Journal/JR - 2311232036 - Python ~ Особенности наследования.md",
-    "Inner/IN - 231123201321.md",
+    "Journal/JR - 2311232118 - Blender ~ Geometry Nodes.md",
+    "Journal/JR - 2311232221 - NumPy ~ Game of Life.md",
     "Attachments/notebookPandasEdu.pdf",
     "Attachments/Pasted image 20230621224620.png",
     "Attachments/IMG_5705.jpg",
