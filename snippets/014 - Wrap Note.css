@@ -51,6 +51,11 @@
   block-size: fit-content !important;
 }
 
+.cm-scroller{
+  padding-left: 32px !important;
+  padding-top: 32px !important;
+}
+
 /* ------------------- */
 /* ---- Both mode ---- */
 /* ------------------- */
