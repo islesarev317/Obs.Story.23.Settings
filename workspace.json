@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2311231839 - Python ~ Metanit.md",
+                "file": "Journal/JR - 2311241323 - Python ~ Perspective.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2311061407 - The Ending of English.md",
+                "file": "Journal/JR - 2310292151 - Cellular Automata In Blender.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2311231839 - Python ~ Metanit.md",
+                "file": "Journal/JR - 2310292151 - Cellular Automata In Blender.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2311231839 - Python ~ Metanit.md",
+                "file": "Journal/JR - 2310292151 - Cellular Automata In Blender.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2311231839 - Python ~ Metanit.md"
+                "file": "Journal/JR - 2310292151 - Cellular Automata In Blender.md"
               }
             }
           }
@@ -164,11 +165,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fd04585edd719f3f",
+  "active": "a998eeb1eb2db43b",
   "lastOpenFiles": [
-    "Journal/JR - 2311232118 - Blender ~ Geometry Nodes.md",
-    "Journal/JR - 2311232127 - Blender ~ Volume Scatter.md",
+    "Journal/JR - 2311061407 - The Ending of English.md",
     "Journal/JR - 2311241323 - Python ~ Perspective.md",
+    "Journal/JR - 2311232127 - Blender ~ Volume Scatter.md",
+    "Journal/JR - 2311232118 - Blender ~ Geometry Nodes.md",
+    "Journal/JR - 2311231839 - Python ~ Metanit.md",
     "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
     "Journal/JR - 2312202119 - New Year.md",
     "Journal/JR - 2312251859 - Previous New Year.md",
@@ -177,8 +180,6 @@
     "Nodes/ND - 2311212121 - Knowledge.md",
     "Nodes/ND - 2309251427 - Root.md",
     "Journal/JR - 2312181434 - Python ~ Generators.md",
-    "Journal/JR - 2311231839 - Python ~ Metanit.md",
-    "Journal/JR - 2311061407 - The Ending of English.md",
     "Journal/JR - 2310292151 - Cellular Automata In Blender.md",
     "Journal/JR - 2310171533 - Tim Burton.md",
     "Journal/JR - 2309151544 - The Thought ~ Obsidian.md",
