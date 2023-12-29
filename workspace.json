@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a21c0c053ff77689",
+        "id": "2028e0aeebe663f3",
         "type": "tabs",
         "children": [
           {
-            "id": "fd04585edd719f3f",
+            "id": "21eb80d6c42c6472",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2311241323 - Python ~ Perspective.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a998eeb1eb2db43b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/JR - 2310292151 - Cellular Automata In Blender.md",
+                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 277.5033760070801
   },
   "right": {
     "id": "b72c096914b0850b",
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2310292151 - Cellular Automata In Blender.md",
+                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2310292151 - Cellular Automata In Blender.md",
+                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2310292151 - Cellular Automata In Blender.md"
+                "file": "Journal/JR - 2312041741 - Python ~ Protected Attributes.md"
               }
             }
           }
@@ -165,34 +151,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a998eeb1eb2db43b",
+  "active": "21eb80d6c42c6472",
   "lastOpenFiles": [
-    "Journal/JR - 2311061407 - The Ending of English.md",
+    "Journal/JR - 2312181434 - Python ~ Generators.md",
+    "Journal/JR - 2312181441 - Python ~ Iterators.md",
+    "Journal/JR - 2311231813 - Python ~ ADV-IT.md",
     "Journal/JR - 2311241323 - Python ~ Perspective.md",
+    "Journal/JR - 2311232200 - NumPy ~ Fundamentals.md",
+    "Journal/JR - 2311232036 - Python ~ Особенности наследования.md",
+    "Journal/JR - 2311231839 - Python ~ Metanit.md",
+    "Journal/JR - 2311232222 - NumPy ~ Tutorials.md",
+    "Nodes/ND - 2309251427 - Root.md",
+    "Journal/JR - 2310292151 - Cellular Automata In Blender.md",
+    "Journal/JR - 2311061407 - The Ending of English.md",
     "Journal/JR - 2311232127 - Blender ~ Volume Scatter.md",
     "Journal/JR - 2311232118 - Blender ~ Geometry Nodes.md",
-    "Journal/JR - 2311231839 - Python ~ Metanit.md",
     "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
     "Journal/JR - 2312202119 - New Year.md",
     "Journal/JR - 2312251859 - Previous New Year.md",
     "Journal/JR - 2312281056 - Messages.md",
     "Journal/JR - 2312282229 - Skyeng Homework.md",
     "Nodes/ND - 2311212121 - Knowledge.md",
-    "Nodes/ND - 2309251427 - Root.md",
-    "Journal/JR - 2312181434 - Python ~ Generators.md",
-    "Journal/JR - 2310292151 - Cellular Automata In Blender.md",
     "Journal/JR - 2310171533 - Tim Burton.md",
     "Journal/JR - 2309151544 - The Thought ~ Obsidian.md",
     "Journal/JR - 2308291330 - All Countries.md",
     "Journal/JR - 2312192351 - Place of power.md",
     "Journal/JR - 2312192122 - Logs.md",
     "Journal/JR - 2311232221 - NumPy ~ Game of Life.md",
-    "Journal/JR - 2312181441 - Python ~ Iterators.md",
     "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
-    "Journal/JR - 2311232222 - NumPy ~ Tutorials.md",
-    "Journal/JR - 2311232200 - NumPy ~ Fundamentals.md",
-    "Journal/JR - 2311231813 - Python ~ ADV-IT.md",
-    "Journal/JR - 2309061332 - Vimium (Chrome).md",
     "Attachments/notebookPandasEdu.pdf",
     "Attachments/Pasted image 20230621224620.png",
     "Attachments/IMG_5705.jpg",
