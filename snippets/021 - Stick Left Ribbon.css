@@ -10,8 +10,8 @@ body{
   margin-right: 0px;
   border-right-width: 0px;
   padding-right: 0px;
-  padding-top: 30px;
-  padding-bottom: 45px;
+  padding-top: 37px;
+  padding-bottom: 48px;
   margin-left: 6px;
   max-width: 36px;
 }
@@ -21,7 +21,7 @@ body{
 {
   background-color: rgb(var(--ctp-crust));
   border-color: var(--tab-outline-color);
-  border-style: solid;
+//border-style: solid;
   border-left-width: var(--tab-outline-width);
   border-top-width: var(--tab-outline-width);
   border-bottom-width: var(--tab-outline-width);

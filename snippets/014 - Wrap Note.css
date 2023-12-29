@@ -2,17 +2,20 @@
 /* ---- Read mode ---- */
 /* ------------------- */
 
-.markdown-preview-sizer
-{
+.markdown-preview-sizer{
   padding-top: 2px !important;
   padding-bottom: 10px !important;
   padding-left: 24px !important;
   padding-right: 24px !important;
+}
+
+.markdown-preview-view
+{
   background-color: rgb(var(--ctp-crust));
-  border-radius: 20px;
-  border-color: var(--tab-outline-color);
-  border-width: var(--tab-outline-width);
-  border-style: solid;
+  //border-radius: 20px;
+  //border-color: var(--tab-outline-color);
+  //border-width: var(--tab-outline-width);
+  //border-style: solid;
 }
 
 .inline-title{
@@ -31,13 +34,13 @@
   margin-top: 0.0em;
 }
 
-.cm-sizer{
+.cm-scroller{
   background-color: rgb(var(--ctp-crust));
-  border-radius: 20px;
+  //border-radius: 20px;
   padding: 24px !important;
-  border-color: var(--tab-outline-color);
-  border-width: var(--tab-outline-width);
-  border-style: solid;
+  //border-color: var(--tab-outline-color);
+  //border-width: var(--tab-outline-width);
+  //border-style: solid;
 }
 
 .cm-content
