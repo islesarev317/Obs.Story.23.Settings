@@ -14,6 +14,13 @@ body{
   color: var(--italic-color)
 }
 
+.workspace-split.mod-root .workspace-tabs:not(.mod-top) .workspace-tab-header:not(.is-active)
+
+{
+  border-style: solid;
+  //background-color: rgb(var(--ctp-crust));
+}
+
 .workspace-split.mod-root .workspace-tab-header:not(.is-active){
   color: var(--italic-color) !important;
   //background-color: rgb(var(--ctp-crust)) !important;
