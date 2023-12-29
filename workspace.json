@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2312192122 - Logs.md",
+                "file": "Journal/JR - 2310131715 - Listening Time (A1).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca5fdd8334d174d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/JR - 2311231839 - Python ~ Metanit.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Journal/Recent",
+                "query": "tag:#Journal/A3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,11 +79,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 315.5033760070801
   },
   "right": {
     "id": "b72c096914b0850b",
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2312192122 - Logs.md",
+                "file": "Journal/JR - 2311231839 - Python ~ Metanit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2312192122 - Logs.md",
+                "file": "Journal/JR - 2311231839 - Python ~ Metanit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2312192122 - Logs.md"
+                "file": "Journal/JR - 2311231839 - Python ~ Metanit.md"
               }
             }
           }
@@ -151,8 +164,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95a5621c57fba56b",
+  "active": "ca5fdd8334d174d5",
   "lastOpenFiles": [
+    "Journal/JR - 2310181919 - Little, Few (English).md",
+    "Journal/JR - 2310111442 - Tiny Glade (Game).md",
+    "Journal/JR - 2310131715 - Listening Time (A1).md",
+    "Journal/JR - 2311061407 - The Ending of English.md",
+    "Journal/JR - 2312192122 - Logs.md",
     "Journal/JR - 2312281056 - Messages.md",
     "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
     "Journal/JR - 2311281931 - Asynchronous Python.md",
@@ -174,11 +192,6 @@
     "Journal/JR - 2311232026 - Python ~ Immutable Types.md",
     "Journal/JR - 2311232017 - Python ~ WITH.md",
     "Journal/JR - 2311232032 - Python ~ Overloading (__add__).md",
-    "Journal/JR - 2311232100 - Blender ~ Scripting.md",
-    "Journal/JR - 2311232222 - NumPy ~ Tutorials.md",
-    "Journal/JR - 2311232036 - Python ~ Особенности наследования.md",
-    "Journal/JR - 2311232118 - Blender ~ Geometry Nodes.md",
-    "Journal/JR - 2311232221 - NumPy ~ Game of Life.md",
     "Attachments/notebookPandasEdu.pdf",
     "Attachments/Pasted image 20230621224620.png",
     "Attachments/IMG_5705.jpg",
