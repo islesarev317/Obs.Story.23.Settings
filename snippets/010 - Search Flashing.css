@@ -6,9 +6,10 @@
 
 .search-result-file-matched-text{
   background-color: transparent !important;
-  color: rgb(220, 170, 121) !important;
+  color: var(--color-accent) !important;
+  font-weight: 600;
 }
 
 .suggestion-highlight{
-  color: rgb(220, 170, 121) !important;
+  color: var(--color-accent) !important;
 }
