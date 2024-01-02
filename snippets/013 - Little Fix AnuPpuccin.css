@@ -61,4 +61,9 @@ body.anp-border-layout .workspace .workspace-split.mod-left-split .workspace-tab
 
 body{
   --radius-xl: 12px;
+  --anp-border-bottom-padding: 28px !important;
+}
+
+body.anp-border-layout .workspace {
+    margin-right: 28px;
 }
