@@ -11,7 +11,7 @@ body{
 
 /* active but not focused */
 .workspace-split.mod-root .workspace-tab-header.is-active{
-  color: var(--italic-color)
+  color: rgb(var(--ctp-overlay2));
 }
 
 .workspace-split.mod-root .workspace-tabs:not(.mod-top) .workspace-tab-header:not(.is-active)
@@ -22,7 +22,7 @@ body{
 }
 
 .workspace-split.mod-root .workspace-tab-header:not(.is-active){
-  color: var(--italic-color) !important;
+  color: rgb(var(--ctp-overlay2)) !important;
   //background-color: rgb(var(--ctp-crust)) !important;
   border-color: var(--tab-outline-color);
   border-width: var(--tab-outline-width);

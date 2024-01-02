@@ -1,7 +1,7 @@
 /* STICK (to left tab) */
 
 body{
-  --left-icons-colors: var(--italic-color);
+  --left-icons-colors: rgb(var(--ctp-overlay2));
   --top-icons-colors: rgb(var(--ctp-overlay2));
 }
 
