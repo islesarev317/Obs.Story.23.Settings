@@ -20,7 +20,7 @@
 /* border */
 
 .workspace-tab-header-container{
-//  border-left: none !important;
+  border-left: none !important;
 }
 
 .view-header{
