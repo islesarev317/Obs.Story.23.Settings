@@ -22,7 +22,7 @@ body{
   //background-color: rgb(var(--ctp-crust));
   background-color: rgba(var(--ctp-mantle), var(--anp-depth-tab-opacity, 0.6));
   border-color: var(--tab-outline-color);
-  //border-style: solid;
+  border-style: solid;
   border-left-width: var(--tab-outline-width);
   border-top-width: var(--tab-outline-width);
   border-bottom-width: var(--tab-outline-width);

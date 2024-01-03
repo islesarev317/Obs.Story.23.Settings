@@ -26,7 +26,7 @@ body{
   //background-color: rgb(var(--ctp-crust)) !important;
   border-color: var(--tab-outline-color);
   border-width: var(--tab-outline-width);
-  //border-style: solid;
+  border-style: solid;
   font-weight: 600;
 }
 
