@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "e1b78436a781e1a9",
+        "id": "3d8838d39d9cf4cb",
         "type": "tabs",
         "children": [
           {
-            "id": "418e96b1f2871371",
+            "id": "d33ad31e67a0021d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2312251859 - Previous New Year.md",
+                "file": "Journal/JR - 2311232221 - NumPy ~ Game of Life.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "ce73bd3a441e89dc",
+            "id": "d72dc5cc59241035",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2312202119 - New Year.md",
+                "file": "Journal/JR - 2311232222 - NumPy ~ Tutorials.md",
                 "mode": "preview",
                 "source": false
               }
@@ -43,7 +43,7 @@
       {
         "id": "4d0108dc5c5c7701",
         "type": "tabs",
-        "dimension": 44.07027818448023,
+        "dimension": 62.20302375809935,
         "children": [
           {
             "id": "9f6a3908e07c0678",
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Journal/Recent",
+                "query": "tag:#Journal/A3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,7 +76,7 @@
       {
         "id": "71286f6bacd21d86",
         "type": "tabs",
-        "dimension": 55.92972181551976,
+        "dimension": 37.79697624190065,
         "children": [
           {
             "id": "b2c01e09f9a3c5b5",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2312251859 - Previous New Year.md",
+                "file": "Journal/JR - 2311232221 - NumPy ~ Game of Life.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2312251859 - Previous New Year.md",
+                "file": "Journal/JR - 2311232221 - NumPy ~ Game of Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2312251859 - Previous New Year.md"
+                "file": "Journal/JR - 2311232221 - NumPy ~ Game of Life.md"
               }
             }
           }
@@ -170,18 +170,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "418e96b1f2871371",
+  "active": "d33ad31e67a0021d",
   "lastOpenFiles": [
+    "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
+    "Journal/JR - 2311281931 - Asynchronous Python.md",
+    "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
+    "Journal/JR - 2311241323 - Python ~ Perspective.md",
+    "Journal/JR - 2311232222 - NumPy ~ Tutorials.md",
+    "Journal/JR - 2311232221 - NumPy ~ Game of Life.md",
+    "Journal/JR - 2312202119 - New Year.md",
+    "Journal/JR - 2312181441 - Python ~ Iterators.md",
+    "Journal/JR - 2312251859 - Previous New Year.md",
     "Journal/JR - 2312282229 - Skyeng Homework.md",
     "Journal/JR - 2312301851 - The Holiday Plan.md",
     "Journal/JR - 2401021635 - Global List.md",
-    "Journal/JR - 2312202119 - New Year.md",
-    "Journal/JR - 2312251859 - Previous New Year.md",
     "Journal/JR - 2312192122 - Logs.md",
-    "Journal/JR - 2311241323 - Python ~ Perspective.md",
-    "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
-    "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
-    "Journal/JR - 2312181441 - Python ~ Iterators.md",
     "Nodes/ND - 2309251427 - Root.md",
     "Journal/JR - 2311061407 - The Ending of English.md",
     "Journal/JR - 2310292151 - Cellular Automata In Blender.md",
@@ -195,9 +198,6 @@
     "Journal/JR - 2310131715 - Listening Time (A1).md",
     "Journal/JR - 2309061332 - Vimium (Chrome).md",
     "Journal/JR - 2308291330 - All Countries.md",
-    "Journal/JR - 2308201553 - Obsidian ~ Community Plugins.md",
-    "Journal/JR - 2308201534 - Obsidian ~ Version.md",
-    "Journal/JR - 2308192123 - Townscaper (Game).md",
     "Attachments/notebookPandasEdu.pdf",
     "Attachments/Pasted image 20230621224620.png",
     "Attachments/IMG_5705.jpg",
