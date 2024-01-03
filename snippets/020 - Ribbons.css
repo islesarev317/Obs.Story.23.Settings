@@ -17,7 +17,7 @@ body{
 
 .workspace-split.mod-root .workspace-tab-header:not(.is-active){
   color: var(--italic-color) !important;
-  background-color: rgb(var(--ctp-crust)) !important;
+  //background-color: rgb(var(--ctp-crust)) !important;
   border-color: var(--tab-outline-color);
   border-width: var(--tab-outline-width);
   border-style: solid;
