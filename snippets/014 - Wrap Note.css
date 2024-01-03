@@ -2,6 +2,11 @@
 /* ---- Read mode ---- */
 /* ------------------- */
 
+.markdown-preview-view{
+  padding-right: 24px !important;
+}
+
+
 .markdown-preview-sizer
 {
   padding-top: 2px !important;
@@ -38,11 +43,13 @@
   border-color: var(--tab-outline-color);
   border-width: var(--tab-outline-width);
   border-style: solid;
+  min-height: auto !important;
 }
 
 .cm-content
 {
-  padding: 24px !important;
+  padding: 0px !important;
+  padding-top: 8px !important;
 }
 
 .cm-content,
@@ -54,6 +61,7 @@
 .cm-scroller{
   padding-left: 32px !important;
   padding-top: 32px !important;
+  padding-right: 24px !important;
 }
 
 /* ------------------- */
