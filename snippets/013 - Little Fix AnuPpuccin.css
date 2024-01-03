@@ -62,3 +62,11 @@ body.anp-border-layout .workspace .workspace-split.mod-left-split .workspace-tab
 .workspace-tab-container{
   padding: 0px !important;
 }
+
+body{
+  --radius-xl: 12px;
+}
+
+body.anp-card-layout .workspace {
+    padding-right: 10px;
+}
