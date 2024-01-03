@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2311232221 - NumPy ~ Game of Life.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d72dc5cc59241035",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/JR - 2311232222 - NumPy ~ Tutorials.md",
+                "file": "Journal/JR - 2401021635 - Global List.md",
                 "mode": "preview",
                 "source": false
               }
@@ -43,7 +31,7 @@
       {
         "id": "4d0108dc5c5c7701",
         "type": "tabs",
-        "dimension": 62.20302375809935,
+        "dimension": 62.203023758099356,
         "children": [
           {
             "id": "9f6a3908e07c0678",
@@ -61,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Journal/A3",
+                "query": "tag:#Journal/Recent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5033760070801
+    "width": 371.50418853759766
   },
   "right": {
     "id": "b72c096914b0850b",
@@ -117,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2311232221 - NumPy ~ Game of Life.md",
+                "file": "Journal/JR - 2401021635 - Global List.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2311232221 - NumPy ~ Game of Life.md",
+                "file": "Journal/JR - 2401021635 - Global List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2311232221 - NumPy ~ Game of Life.md"
+                "file": "Journal/JR - 2401021635 - Global List.md"
               }
             }
           }
@@ -172,18 +160,22 @@
   },
   "active": "d33ad31e67a0021d",
   "lastOpenFiles": [
+    "Journal/JR - 2312202119 - New Year.md",
+    "Journal/JR - 2401021635 - Global List.md",
+    "Journal/JR - 2312282229 - Skyeng Homework.md",
+    "Journal/JR - 2311232222 - NumPy ~ Tutorials.md",
+    "Journal/JR - 2311241323 - Python ~ Perspective.md",
+    "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
+    "Journal/JR - 2311232127 - Blender ~ Volume Scatter.md",
+    "Journal/JR - 2311232118 - Blender ~ Geometry Nodes.md",
+    "Journal/JR - 2311231839 - Python ~ Metanit.md",
+    "Journal/JR - 2311232200 - NumPy ~ Fundamentals.md",
+    "Journal/JR - 2311232221 - NumPy ~ Game of Life.md",
     "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
     "Journal/JR - 2311281931 - Asynchronous Python.md",
-    "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
-    "Journal/JR - 2311241323 - Python ~ Perspective.md",
-    "Journal/JR - 2311232222 - NumPy ~ Tutorials.md",
-    "Journal/JR - 2311232221 - NumPy ~ Game of Life.md",
-    "Journal/JR - 2312202119 - New Year.md",
     "Journal/JR - 2312181441 - Python ~ Iterators.md",
     "Journal/JR - 2312251859 - Previous New Year.md",
-    "Journal/JR - 2312282229 - Skyeng Homework.md",
     "Journal/JR - 2312301851 - The Holiday Plan.md",
-    "Journal/JR - 2401021635 - Global List.md",
     "Journal/JR - 2312192122 - Logs.md",
     "Nodes/ND - 2309251427 - Root.md",
     "Journal/JR - 2311061407 - The Ending of English.md",
@@ -194,10 +186,6 @@
     "Journal/JR - 2310041913 - Git.md",
     "Journal/JR - 2310061536 - Vim ~ noundofile.md",
     "Journal/JR - 2310111442 - Tiny Glade (Game).md",
-    "Journal/JR - 2310112036 - Pomodoro.md",
-    "Journal/JR - 2310131715 - Listening Time (A1).md",
-    "Journal/JR - 2309061332 - Vimium (Chrome).md",
-    "Journal/JR - 2308291330 - All Countries.md",
     "Attachments/notebookPandasEdu.pdf",
     "Attachments/Pasted image 20230621224620.png",
     "Attachments/IMG_5705.jpg",
