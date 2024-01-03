@@ -23,8 +23,8 @@ body {
 body {
   //background: linear-gradient(0deg, #353535 25%, transparent 26%) , linear-gradient(270deg, #353535 25%, transparent 26%), linear-gradient(180deg, #56545B 25%, transparent 26%), linear-gradient(90deg, #56545B 25%, transparent 26%);
   //background-size: 1em 1em;
-  background-color: #363636;
-  //background-color: rgb(var(--ctp-base)); //#3E3E3E; //#522C4F; //#442E52;
+  //background-color: #323232;
+  background-color: rgb(var(--ctp-base)); //#3E3E3E; //#522C4F; //#442E52;
   opacity: 1;
 }
 
