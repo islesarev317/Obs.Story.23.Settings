@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6356029d814bcd33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/JR - 2309272044 - Python ~ Pandas.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ef387cda799724d6",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Journal/Recent",
+                "query": "tag:#Journal/A3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,14 +56,7 @@
                 "sortOrder": "alphabeticalReverse"
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "2e7d1abd19292ddf",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "b2c01e09f9a3c5b5",
             "type": "leaf",
@@ -85,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 340.50418853759766
+    "width": 351.0033760070801,
+    "collapsed": true
   },
   "right": {
     "id": "b72c096914b0850b",
@@ -172,9 +154,16 @@
   },
   "active": "ef387cda799724d6",
   "lastOpenFiles": [
+    "Journal/JR - 2311232221 - NumPy ~ Game of Life.md",
+    "Journal/JR - 2312192122 - Logs.md",
+    "Journal/JR - 2401021635 - Global List.md",
+    "Journal/JR - 2312202119 - New Year.md",
+    "Journal/JR - 2309272044 - Python ~ Pandas.md",
+    "Journal/JR - 2312282229 - Skyeng Homework.md",
+    "Journal/JR - 2312251859 - Previous New Year.md",
+    "Journal/JR - 2312301851 - The Holiday Plan.md",
     "Journal/JR - 2311061407 - The Ending of English.md",
     "Journal/JR - 2310181919 - Little, Few (English).md",
-    "Journal/JR - 2309272044 - Python ~ Pandas.md",
     "Journal/JR - 2310292151 - Cellular Automata In Blender.md",
     "Journal/JR - 2310292308 - OK English (A2).md",
     "Journal/JR - 2310112036 - Pomodoro.md",
@@ -184,9 +173,6 @@
     "Inner/IN - 231017203051.md",
     "Journal/JR - 2310131715 - Listening Time (A1).md",
     "Journal/JR - 2310241614 - Harry Potter Audiobooks.md",
-    "Journal/JR - 2312202119 - New Year.md",
-    "Journal/JR - 2312192122 - Logs.md",
-    "Journal/JR - 2312251859 - Previous New Year.md",
     "Journal/JR - 2312281056 - Messages.md",
     "Journal/JR - 2312181441 - Python ~ Iterators.md",
     "Journal/JR - 2311241323 - Python ~ Perspective.md",
@@ -194,10 +180,6 @@
     "Journal/JR - 2311232152 - NumPy ~ Getting Started.md",
     "Journal/JR - 2311232036 - Python ~ Особенности наследования.md",
     "Inner/IN - 231123210126.md",
-    "Journal/JR - 2311232100 - Blender ~ Scripting.md",
-    "Inner/IN - 231123222656.md",
-    "Journal/JR - 2311232222 - NumPy ~ Tutorials.md",
-    "Inner/IN - 231123222541.md",
     "Canvases/CV - 2308192121 - Journal ~ A1.canvas",
     "Canvases/CV - 2308241515 - Achievements.canvas",
     "Canvases/CV - 2310041743 - Some Openings.canvas",
