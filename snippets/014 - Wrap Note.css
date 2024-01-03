@@ -4,6 +4,7 @@
 
 .markdown-preview-view{
   padding-right: 24px !important;
+  background-color: rgb(var(--ctp-crust));
 }
 
 
@@ -17,7 +18,7 @@
   border-radius: 16px;
   border-color: var(--tab-outline-color);
   border-width: var(--tab-outline-width);
-  border-style: solid;
+  //border-style: solid;
 }
 
 .inline-title{
@@ -42,7 +43,7 @@
   padding: 24px !important;
   border-color: var(--tab-outline-color);
   border-width: var(--tab-outline-width);
-  border-style: solid;
+  //border-style: solid;
   min-height: auto !important;
 }
 
@@ -62,6 +63,7 @@
   padding-left: 32px !important;
   padding-top: 32px !important;
   padding-right: 24px !important;
+  background-color: rgb(var(--ctp-crust));
 }
 
 /* ------------------- */
