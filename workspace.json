@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2401021635 - Global List.md",
-                "mode": "source",
+                "file": "Journal/JR - 2312251859 - Previous New Year.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2312282229 - Skyeng Homework.md",
+                "file": "Journal/JR - 2312202119 - New Year.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 367.5033760070801
   },
   "right": {
     "id": "b72c096914b0850b",
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2312282229 - Skyeng Homework.md",
+                "file": "Journal/JR - 2312251859 - Previous New Year.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2312282229 - Skyeng Homework.md",
+                "file": "Journal/JR - 2312251859 - Previous New Year.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2312282229 - Skyeng Homework.md"
+                "file": "Journal/JR - 2312251859 - Previous New Year.md"
               }
             }
           }
@@ -171,19 +170,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce73bd3a441e89dc",
+  "active": "418e96b1f2871371",
   "lastOpenFiles": [
-    "Journal/JR - 2312251859 - Previous New Year.md",
-    "Journal/JR - 2312202119 - New Year.md",
-    "Journal/JR - 2312192122 - Logs.md",
+    "Journal/JR - 2312282229 - Skyeng Homework.md",
     "Journal/JR - 2312301851 - The Holiday Plan.md",
     "Journal/JR - 2401021635 - Global List.md",
+    "Journal/JR - 2312202119 - New Year.md",
+    "Journal/JR - 2312251859 - Previous New Year.md",
+    "Journal/JR - 2312192122 - Logs.md",
     "Journal/JR - 2311241323 - Python ~ Perspective.md",
     "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
     "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
     "Journal/JR - 2312181441 - Python ~ Iterators.md",
     "Nodes/ND - 2309251427 - Root.md",
-    "Journal/JR - 2312282229 - Skyeng Homework.md",
     "Journal/JR - 2311061407 - The Ending of English.md",
     "Journal/JR - 2310292151 - Cellular Automata In Blender.md",
     "Journal/JR - 2310261317 - Introduction in English.md",
