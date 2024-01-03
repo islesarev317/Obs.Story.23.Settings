@@ -5,7 +5,7 @@
 .cm-hmd-internal-link .cm-underline,
 .markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="x"] span.cm-hmd-internal-link .cm-underline
 {
-	//color: rgb(149, 148, 230) !important;
+	color: rgb(149, 148, 230) !important;
 	text-decoration-line: none !important;
 	font-weight: normal !important;
 }
@@ -13,7 +13,7 @@
 .cm-hmd-internal-link:hover,
 .cm-hmd-internal-link .cm-underline:hover
 {
-	//color: rgb(165, 170, 245) !important; /*rgb(159, 127, 255)*/
+	color: rgb(165, 170, 245) !important; /*rgb(159, 127, 255)*/
 	text-decoration-line: none !important;
 }
 
@@ -23,13 +23,13 @@
 
 .internal-link
 {
-	//color: rgb(149, 148, 230) !important;
+	color: rgb(149, 148, 230) !important;
 	text-decoration-line: none !important;
 	font-weight: normal !important;
 }
 
 .internal-link:hover
 {
-	//color: rgb(165, 170, 245) !important; /*rgb(159, 127, 255)*/
+	color: rgb(165, 170, 245) !important; /*rgb(159, 127, 255)*/
 	//text-decoration-line: underline !important;
 }
