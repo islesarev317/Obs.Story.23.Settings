@@ -30,6 +30,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8835e03502783962",
+            "type": "leaf",
+            "state": {
+              "type": "style-settings",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -89,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.50418853759766
+    "width": 272.50499725341797
   },
   "right": {
     "id": "b72c096914b0850b",
@@ -153,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,7 +176,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "48e42c70b7fa30ba",
+  "active": "ec55c03b62189103",
   "lastOpenFiles": [
     "Journal/JR - 2312192122 - Logs.md",
     "Journal/JR - 2312251859 - Previous New Year.md",
