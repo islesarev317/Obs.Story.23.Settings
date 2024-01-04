@@ -1,7 +1,7 @@
 {
   "accentColor": "#9493e6",
   "textFontFamily": "Inter",
-  "baseFontSize": 15,
+  "baseFontSize": 17,
   "interfaceFontFamily": "Inter",
   "showViewHeader": true,
   "cssTheme": "AnuPpuccin",
@@ -15,7 +15,6 @@
     "006 - Highlight",
     "008 - Edit Mode",
     "010 - Search Flashing",
-    "011 - Backlinks",
     "012 - Tables",
     "017 - cMenu",
     "018 - MultiColumn",
@@ -26,6 +25,7 @@
     "009 - Horizontal Bar",
     "014 - Wrap Note",
     "013 - Little Fix AnuPpuccin",
-    "019 - Background"
+    "019 - Background",
+    "020 - Ribbons"
   ]
 }
