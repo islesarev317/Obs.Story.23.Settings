@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2312192122 - Logs.md",
+                "file": "Journal/JR - 2401021635 - Lists.md",
                 "mode": "preview",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "4d0108dc5c5c7701",
         "type": "tabs",
-        "dimension": 48.64864864864865,
+        "dimension": 54.24710424710425,
         "children": [
           {
             "id": "9f6a3908e07c0678",
@@ -64,7 +64,7 @@
       {
         "id": "34589343d28863a6",
         "type": "tabs",
-        "dimension": 51.35135135135135,
+        "dimension": 45.75289575289575,
         "children": [
           {
             "id": "b2c01e09f9a3c5b5",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2312192122 - Logs.md",
+                "file": "Journal/JR - 2401021635 - Lists.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2312192122 - Logs.md",
+                "file": "Journal/JR - 2401021635 - Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2312192122 - Logs.md"
+                "file": "Journal/JR - 2401021635 - Lists.md"
               }
             }
           }
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 362.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -160,32 +160,32 @@
   },
   "active": "0661ea165080bc0a",
   "lastOpenFiles": [
-    "Journal/JR - 2401031735 - Obsidian.md",
     "Journal/JR - 2401042107 - English.md",
-    "Journal/JR - 2312192122 - Logs.md",
-    "Journal/JR - 2401021635 - Messages.md",
     "Journal/JR - 2401041955 - Python.md",
+    "Journal/JR - 2401031735 - Obsidian.md",
+    "Journal/JR - 2401021635 - Lists.md",
+    "Journal/JR - 2312192122 - Logs.md",
+    "Journal/JR - 2310112036 - Pomodoro.md",
+    "Journal/JR - 2312251859 - Previous New Year.md",
+    "Journal/JR - 2312282229 - Skyeng Homework.md",
+    "Journal/JR - 2312301851 - The Holiday Plan.md",
+    "Journal/JR - 2312202119 - New Year.md",
+    "Journal/JR - 2310131715 - Listening Time (A1).md",
     "Journal/JR - 2310161921 - OK English (A1).md",
     "Journal/JR - 2311061407 - The Ending of English.md",
     "Journal/JR - 2310292308 - OK English (A2).md",
-    "Journal/JR - 2312301851 - The Holiday Plan.md",
     "Journal/JR - 2309261255 - Travel.md",
     "Journal/JR - 2309151723 - Habits.md",
     "Journal/JR - 2311022252 - Get Rid Strees (Essay).md",
     "Journal/JR - 2311282352 - Chocolate Festival.md",
     "Journal/JR - 2312192351 - Place of power.md",
-    "Journal/JR - 2312282229 - Skyeng Homework.md",
     "Journal/JR - 2310181919 - Little, Few (English).md",
     "Journal/JR - 2310292151 - Cellular Automata In Blender.md",
     "Journal/JR - 2310261317 - Introduction in English.md",
     "Journal/JR - 2310241614 - Harry Potter Audiobooks.md",
-    "Journal/JR - 2310131715 - Listening Time (A1).md",
     "Nodes/ND - 2310092105 - English.md",
     "Nodes/ND - 2308230006 - Origin (Archive).md",
     "Nodes/ND - 2308201818 - Obsidan (Archive).md",
-    "Nodes/ND - 2309251444 - Obsidian.md",
-    "Nodes/ND - 2309251427 - Root.md",
-    "Nodes/ND - 2310051152 - Pandas.md",
     "Attachments/notebookPandasEdu.pdf",
     "Attachments/Pasted image 20230621224620.png",
     "Attachments/IMG_5705.jpg",

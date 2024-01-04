@@ -8,46 +8,34 @@
           "type": "search",
           "ctime": 1692828320798,
           "query": "tag:#Journal/Recent",
-          "title": "tag:#Journal/Recent"
+          "title": ""
         },
         {
           "type": "search",
           "ctime": 1700818543357,
           "query": "tag:#Journal/A3",
-          "title": "tag:#Journal/A3 ~ Python"
+          "title": ""
         },
         {
           "type": "search",
           "ctime": 1700672850616,
           "query": "tag:#Journal/A2",
-          "title": "tag:#Journal/A2 ~ English"
+          "title": ""
         },
         {
           "type": "search",
           "ctime": 1692828344946,
           "query": "tag:#Journal/A1",
-          "title": "tag:#Journal/A1 ~ Obsidian"
+          "title": ""
         },
         {
           "type": "search",
           "ctime": 1693256964769,
-          "query": "tag:#Journal/Archive"
+          "query": "tag:#Journal/Archive",
+          "title": ""
         }
       ],
       "title": "Journal"
-    },
-    {
-      "type": "group",
-      "ctime": 1692872663359,
-      "items": [
-        {
-          "type": "file",
-          "ctime": 1695641346465,
-          "path": "Nodes/ND - 2309251427 - Root.md",
-          "title": "ND - Root"
-        }
-      ],
-      "title": "Pins"
     },
     {
       "type": "group",
