@@ -65,16 +65,16 @@ body{
 }
 
 /* ACTIVE */
-.mod-left-split .mod-top .workspace-tab-header.is-active,
-.mod-right-split .mod-top .workspace-tab-header.is-active
+.mod-left-split .workspace-tab-header.is-active,
+.mod-right-split .workspace-tab-header.is-active
 {
   background-color: var(--top-icons-active-hover-bg) !important;
   //box-shadow: 0px 0px 2px 0px var(--top-icons-active-hover-bg);
   border-radius: 6px;
 }
 
-.mod-left-split .mod-top .workspace-tab-header.is-active .workspace-tab-header-inner-icon,
-.mod-right-split .mod-top .workspace-tab-header.is-active .workspace-tab-header-inner-icon
+.mod-left-split .workspace-tab-header.is-active .workspace-tab-header-inner-icon,
+.mod-right-split .workspace-tab-header.is-active .workspace-tab-header-inner-icon
 {
   color: var(--top-icons-active-hover) !important;
 }
