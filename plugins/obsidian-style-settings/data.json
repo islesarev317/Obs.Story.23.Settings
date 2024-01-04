@@ -26,8 +26,8 @@
   "anuppuccin-theme-settings@@anp-file-icons": false,
   "anuppuccin-theme-settings@@anp-floating-header": false,
   "anuppuccin-theme-settings@@anp-custom-vault-toggle": false,
-  "anuppuccin-theme-settings@@anp-colorful-frame": false,
-  "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": false,
+  "anuppuccin-theme-settings@@anp-colorful-frame": true,
+  "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": true,
   "anuppuccin-theme-settings@@ctp-custom-flamingo@@dark": "#9D9DA2",
   "anuppuccin-theme-settings@@anp-decoration-toggle": true,
   "anuppuccin-theme-settings@@anp-italic-custom": "anp-italic-flamingo",
@@ -52,5 +52,6 @@
   "anuppuccin-theme-settings@@ctp-custom-surface0@@dark": "#494949",
   "anuppuccin-theme-settings@@ctp-custom-overlay2@@dark": "#D1D1D2",
   "anuppuccin-theme-settings@@ctp-custom-crust@@dark": "#1F1F1F",
-  "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-default-tab"
+  "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-default-tab",
+  "anuppuccin-theme-settings@@anp-colorful-frame-color@@dark": "#393939"
 }

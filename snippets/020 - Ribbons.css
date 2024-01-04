@@ -107,6 +107,12 @@ body{
   color: var(--top-icons-active-hover);
 }
 
+.anp-colorful-frame .sidebar-toggle-button.sidebar-toggle-button
+{
+  background-color: transparent !important;
+  border-style: none;
+}
+
 /* --- 5. CLOSE MENU --- */
 
 .titlebar-button

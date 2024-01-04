@@ -30,13 +30,14 @@
   border-right: 15px solid rgba(29, 37, 47, 0.3);
   //padding-right: 5px !important;
   position-left: 5px;
-  margin-left: -22px;
+  margin-left: -54px;
+  margin-right: 48px !important;
 }
 
 .cm-gutterElement{
   font-size: 0px;
   color: rgba(105, 122, 150, 0.3);
-  background-color: #1A1A1A;
+  //background-color: #1A1A1A;
   min-width: 1px !important;
   padding-left: 3px !important;
 }
