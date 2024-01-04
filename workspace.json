@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d33ad31e67a0021d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/JR - 2312192122 - Logs.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ec55c03b62189103",
             "type": "leaf",
             "state": {
@@ -32,15 +20,14 @@
             }
           },
           {
-            "id": "8835e03502783962",
+            "id": "70087bfa906b53d5",
             "type": "leaf",
             "state": {
               "type": "style-settings",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.50499725341797
+    "width": 304.50418853759766
   },
   "right": {
     "id": "b72c096914b0850b",
@@ -161,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
