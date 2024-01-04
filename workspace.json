@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec55c03b62189103",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0661ea165080bc0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2401031735 - Obsidian.md",
+                "file": "Journal/JR - 2312192122 - Logs.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "fffbe35f42685b87",
-            "type": "leaf",
-            "state": {
-              "type": "style-settings",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,6 +31,7 @@
       {
         "id": "4d0108dc5c5c7701",
         "type": "tabs",
+        "dimension": 48.64864864864865,
         "children": [
           {
             "id": "9f6a3908e07c0678",
@@ -84,6 +64,7 @@
       {
         "id": "34589343d28863a6",
         "type": "tabs",
+        "dimension": 51.35135135135135,
         "children": [
           {
             "id": "b2c01e09f9a3c5b5",
@@ -97,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.50418853759766
+    "width": 444.50499725341797
   },
   "right": {
     "id": "b72c096914b0850b",
@@ -124,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2401031735 - Obsidian.md",
+                "file": "Journal/JR - 2312192122 - Logs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2401031735 - Obsidian.md",
+                "file": "Journal/JR - 2312192122 - Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2401031735 - Obsidian.md"
+                "file": "Journal/JR - 2312192122 - Logs.md"
               }
             }
           }
@@ -161,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -177,34 +158,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fffbe35f42685b87",
+  "active": "0661ea165080bc0a",
   "lastOpenFiles": [
-    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
     "Journal/JR - 2401031735 - Obsidian.md",
-    "Inner/IN - 2308171532.md",
-    "Journal/JR - 2312251859 - Previous New Year.md",
+    "Journal/JR - 2401042107 - English.md",
     "Journal/JR - 2312192122 - Logs.md",
-    "Journal/JR - 2312282229 - Skyeng Homework.md",
+    "Journal/JR - 2401021635 - Messages.md",
+    "Journal/JR - 2401041955 - Python.md",
+    "Journal/JR - 2310161921 - OK English (A1).md",
+    "Journal/JR - 2311061407 - The Ending of English.md",
+    "Journal/JR - 2310292308 - OK English (A2).md",
     "Journal/JR - 2312301851 - The Holiday Plan.md",
-    "Journal/JR - 2401021635 - Global List.md",
-    "Journal/JR - 2401031746.md",
-    "Journal/JR - 2312181441 - Python ~ Iterators.md",
-    "Journal/JR - 2311232152 - NumPy ~ Getting Started.md",
-    "Journal/JR - 2311232036 - Python ~ Особенности наследования.md",
-    "Journal/JR - 2311232221 - NumPy ~ Game of Life.md",
-    "Journal/JR - 2311241323 - Python ~ Perspective.md",
-    "Journal/JR - 2311232127 - Blender ~ Volume Scatter.md",
-    "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
-    "Inner/IN - 2308201524.md",
-    "Inner/IN - 2308201546.md",
-    "Inner/IN - 2308232016.md",
-    "Inner/IN - 2308231955.md",
-    "Journal/JR - 2311231839 - Python ~ Metanit.md",
-    "Journal/JR - 2312202119 - New Year.md",
-    "Journal/JR - 2311232222 - NumPy ~ Tutorials.md",
-    "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
-    "Journal/JR - 2311232118 - Blender ~ Geometry Nodes.md",
-    "Journal/JR - 2311232200 - NumPy ~ Fundamentals.md",
+    "Journal/JR - 2309261255 - Travel.md",
+    "Journal/JR - 2309151723 - Habits.md",
+    "Journal/JR - 2311022252 - Get Rid Strees (Essay).md",
+    "Journal/JR - 2311282352 - Chocolate Festival.md",
+    "Journal/JR - 2312192351 - Place of power.md",
+    "Journal/JR - 2312282229 - Skyeng Homework.md",
+    "Journal/JR - 2310181919 - Little, Few (English).md",
+    "Journal/JR - 2310292151 - Cellular Automata In Blender.md",
+    "Journal/JR - 2310261317 - Introduction in English.md",
+    "Journal/JR - 2310241614 - Harry Potter Audiobooks.md",
+    "Journal/JR - 2310131715 - Listening Time (A1).md",
+    "Nodes/ND - 2310092105 - English.md",
+    "Nodes/ND - 2308230006 - Origin (Archive).md",
+    "Nodes/ND - 2308201818 - Obsidan (Archive).md",
+    "Nodes/ND - 2309251444 - Obsidian.md",
+    "Nodes/ND - 2309251427 - Root.md",
+    "Nodes/ND - 2310051152 - Pandas.md",
     "Attachments/notebookPandasEdu.pdf",
     "Attachments/Pasted image 20230621224620.png",
     "Attachments/IMG_5705.jpg",
