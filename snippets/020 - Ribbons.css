@@ -17,7 +17,7 @@ body{
 .workspace-split.mod-root .workspace-tabs:not(.mod-top) .workspace-tab-header:not(.is-active)
 
 {
-  border-style: solid;
+  //border-style: solid;
   //background-color: rgb(var(--ctp-crust));
 }
 
