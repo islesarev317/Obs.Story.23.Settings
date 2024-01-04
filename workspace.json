@@ -13,21 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2312251859 - Previous New Year.md",
+                "file": "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0661ea165080bc0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/JR - 2401031735 - Obsidian.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "70087bfa906b53d5",
+            "id": "fffbe35f42685b87",
             "type": "leaf",
             "state": {
               "type": "style-settings",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.50418853759766
+    "width": 353.50418853759766
   },
   "right": {
     "id": "b72c096914b0850b",
@@ -111,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2312251859 - Previous New Year.md",
+                "file": "Journal/JR - 2401031735 - Obsidian.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2312251859 - Previous New Year.md",
+                "file": "Journal/JR - 2401031735 - Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2312251859 - Previous New Year.md"
+                "file": "Journal/JR - 2401031735 - Obsidian.md"
               }
             }
           }
@@ -164,14 +177,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec55c03b62189103",
+  "active": "fffbe35f42685b87",
   "lastOpenFiles": [
-    "Journal/JR - 2312192122 - Logs.md",
+    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
+    "Journal/JR - 2401031735 - Obsidian.md",
+    "Inner/IN - 2308171532.md",
     "Journal/JR - 2312251859 - Previous New Year.md",
+    "Journal/JR - 2312192122 - Logs.md",
     "Journal/JR - 2312282229 - Skyeng Homework.md",
     "Journal/JR - 2312301851 - The Holiday Plan.md",
     "Journal/JR - 2401021635 - Global List.md",
-    "Journal/JR - 2401031735 - Obsidian.md",
     "Journal/JR - 2401031746.md",
     "Journal/JR - 2312181441 - Python ~ Iterators.md",
     "Journal/JR - 2311232152 - NumPy ~ Getting Started.md",
@@ -180,7 +195,6 @@
     "Journal/JR - 2311241323 - Python ~ Perspective.md",
     "Journal/JR - 2311232127 - Blender ~ Volume Scatter.md",
     "Journal/JR - 2311241334 - FastAPI ~ Metanit.md",
-    "Journal/JR - 2308161801 - Obsidian ~ First Setup.md",
     "Inner/IN - 2308201524.md",
     "Inner/IN - 2308201546.md",
     "Inner/IN - 2308232016.md",
@@ -191,7 +205,6 @@
     "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
     "Journal/JR - 2311232118 - Blender ~ Geometry Nodes.md",
     "Journal/JR - 2311232200 - NumPy ~ Fundamentals.md",
-    "Journal/JR - 2311281931 - Asynchronous Python.md",
     "Attachments/notebookPandasEdu.pdf",
     "Attachments/Pasted image 20230621224620.png",
     "Attachments/IMG_5705.jpg",
