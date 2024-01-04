@@ -31,7 +31,7 @@ span.vl{
   color: var(--italic-color);
   color: var(--h1-color);
   color: rgb(var(--ctp-overlay2));
-  color: var(--color-accent);
+  color: color-mix(in srgb, var(--color-accent) 80%, rgb(var(--ctp-crust)));
   //font-style: italic;
   //font-family: serif;
   font-size: 1.12em;
