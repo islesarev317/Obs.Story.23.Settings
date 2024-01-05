@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2401051208 - Outline ~ Root.md",
+                "file": "Journal/JR - 2401031735 - Outline ~ Obsidian.md",
                 "mode": "preview",
                 "source": false
               }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 444.50499725341797
+    "width": 386.50418853759766
   },
   "right": {
     "id": "b72c096914b0850b",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2401051208 - Outline ~ Root.md",
+                "file": "Journal/JR - 2401031735 - Outline ~ Obsidian.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2401051208 - Outline ~ Root.md",
+                "file": "Journal/JR - 2401031735 - Outline ~ Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2401051208 - Outline ~ Root.md"
+                "file": "Journal/JR - 2401031735 - Outline ~ Obsidian.md"
               }
             }
           }
@@ -158,11 +158,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0661ea165080bc0a",
+  "active": "6ce10a9068dcdc1d",
   "lastOpenFiles": [
+    "Journal/JR - 2401042107 - Outline ~ English.md",
     "Journal/JR - 2401031735 - Outline ~ Obsidian.md",
-    "Journal/JR - 2312192122 - Logs.md",
     "Journal/JR - 2401051208 - Outline ~ Root.md",
+    "Journal/JR - 2312192122 - Logs.md",
     "Journal/JR - 2401021635 - Lists.md",
     "Journal/JR - 2401042107 - English.md",
     "Journal/JR - 2401041955 - Python.md",
@@ -185,7 +186,6 @@
     "Journal/JR - 2310292151 - Cellular Automata In Blender.md",
     "Journal/JR - 2310261317 - Introduction in English.md",
     "Journal/JR - 2310241614 - Harry Potter Audiobooks.md",
-    "Nodes/ND - 2310092105 - English.md",
     "Attachments/notebookPandasEdu.pdf",
     "Attachments/Pasted image 20230621224620.png",
     "Attachments/IMG_5705.jpg",
