@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3d8838d39d9cf4cb",
+        "id": "078932998ae96869",
         "type": "tabs",
         "children": [
           {
-            "id": "0661ea165080bc0a",
+            "id": "ae482d73c8181332",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/JR - 2401031735 - Outline ~ Obsidian.md",
+                "file": "Journal/JR - 2310021153 - Linux ~ Free space in root.md",
                 "mode": "preview",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Journal/Recent",
+                "query": "tag:#Journal/A2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/JR - 2401031735 - Outline ~ Obsidian.md",
+                "file": "Journal/JR - 2310021153 - Linux ~ Free space in root.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/JR - 2401031735 - Outline ~ Obsidian.md",
+                "file": "Journal/JR - 2310021153 - Linux ~ Free space in root.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/JR - 2401031735 - Outline ~ Obsidian.md"
+                "file": "Journal/JR - 2310021153 - Linux ~ Free space in root.md"
               }
             }
           }
@@ -158,34 +158,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ce10a9068dcdc1d",
+  "active": "ae482d73c8181332",
   "lastOpenFiles": [
-    "Journal/JR - 2401042107 - Outline ~ English.md",
-    "Journal/JR - 2401031735 - Outline ~ Obsidian.md",
-    "Journal/JR - 2401051208 - Outline ~ Root.md",
+    "Inner/IN - 231123190841.md",
+    "Inner/IN - 231123190645.md",
+    "Journal/JR - 2311231839 - Python ~ Metanit.md",
+    "Journal/JR - 2401041955 - Outline ~ Python.md",
+    "Journal/JR - 2312041741 - Python ~ Protected Attributes.md",
+    "Inner/IN - 230928142217.md",
+    "Journal/JR - 2309272044 - Python ~ Pandas.md",
+    "Journal/JR - 2403062018 - Project Ideas.md",
+    "Journal/JR - 2403061130 - Bullet Journal.md",
+    "Journal/JR - 2403041340 - Computer Science ~ Inspiration.md",
+    "Journal/JR - 2403041550 - Interview ~ Avito.md",
+    "Journal/JR - 2311241323 - Python ~ Perspective.md",
     "Journal/JR - 2312192122 - Logs.md",
-    "Journal/JR - 2401021635 - Lists.md",
-    "Journal/JR - 2401042107 - English.md",
-    "Journal/JR - 2401041955 - Python.md",
-    "Journal/JR - 2401031735 - Obsidian.md",
-    "Journal/JR - 2310112036 - Pomodoro.md",
-    "Journal/JR - 2312251859 - Previous New Year.md",
-    "Journal/JR - 2312282229 - Skyeng Homework.md",
-    "Journal/JR - 2312301851 - The Holiday Plan.md",
-    "Journal/JR - 2312202119 - New Year.md",
-    "Journal/JR - 2310131715 - Listening Time (A1).md",
-    "Journal/JR - 2310161921 - OK English (A1).md",
-    "Journal/JR - 2311061407 - The Ending of English.md",
-    "Journal/JR - 2310292308 - OK English (A2).md",
-    "Journal/JR - 2309261255 - Travel.md",
-    "Journal/JR - 2309151723 - Habits.md",
-    "Journal/JR - 2311022252 - Get Rid Strees (Essay).md",
-    "Journal/JR - 2311282352 - Chocolate Festival.md",
-    "Journal/JR - 2312192351 - Place of power.md",
-    "Journal/JR - 2310181919 - Little, Few (English).md",
-    "Journal/JR - 2310292151 - Cellular Automata In Blender.md",
-    "Journal/JR - 2310261317 - Introduction in English.md",
-    "Journal/JR - 2310241614 - Harry Potter Audiobooks.md",
+    "Inner/IN - 231123184119.md",
+    "Journal/JR - 2402161409 - Interview.md",
+    "Journal/JR - 2311232026 - Python ~ Immutable Types.md",
+    "Inner/IN - 231123193600.md",
+    "Inner/IN - 231123194328.md",
+    "Inner/IN - 231123194306.md",
+    "Inner/IN - 231123194229.md",
+    "Inner/IN - 231123194141.md",
+    "Inner/IN - 231123194112.md",
+    "Inner/IN - 231123193733.md",
+    "Inner/IN - 231123193233.md",
+    "Inner/IN - 231123193509.md",
+    "Inner/IN - 231123193454.md",
+    "Canvases/CV - 2310042336 - Log.canvas",
+    "Canvases/CV - 2308241515 - Achievements.canvas",
+    "Canvases/CV - 2310041743 - Some Openings.canvas",
+    "Canvases/CV - 2308192121 - Journal ~ A1.canvas",
     "Attachments/notebookPandasEdu.pdf",
     "Attachments/Pasted image 20230621224620.png",
     "Attachments/IMG_5705.jpg",
@@ -199,7 +203,6 @@
     "Attachments/005-Iterators.py",
     "Attachments/004-Generator.py",
     "Attachments/Pasted image 20231129130211.png",
-    "Canvases/CV - 2310042336 - Log.canvas",
     "Attachments/Basic-Cube-2.png",
     "Attachments/Growing-Sphere-v2.png",
     "Attachments/Pasted image 20231206165352.png",
@@ -207,9 +210,6 @@
     "Excalidraw/EX - 2311291620.svg",
     "Attachments/Pasted image 20230819235511.png",
     "Attachments/Pasted image 20231129192046.png",
-    "Canvases/CV - 2308192121 - Journal ~ A1.canvas",
-    "Canvases/CV - 2308241515 - Achievements.canvas",
-    "Canvases/CV - 2310041743 - Some Openings.canvas",
     "Canvases/CV - 2308192121 - Journal ~ Box ~ A1.canvas",
     "Canvases/CV - 2308192121 - Box ~ A1.canvas",
     "Canvases/RB - 2308200001 - Box > Recent.canvas",
